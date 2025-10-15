@@ -1,0 +1,3025 @@
+ParkName,SizeCategory,Month,AvgVisits,Season
+Acadia NP,Small,1,,Winter
+Acadia NP,Small,2,,Winter
+Acadia NP,Small,3,,Spring
+Acadia NP,Small,4,,Spring
+Acadia NP,Small,5,,Spring
+Acadia NP,Small,6,,Summer
+Acadia NP,Small,7,,Summer
+Acadia NP,Small,8,,Summer
+Acadia NP,Small,9,,Fall
+Acadia NP,Small,10,,Fall
+Acadia NP,Small,11,,Fall
+Acadia NP,Small,12,,Winter
+Acadia NP,Medium,1,,Winter
+Acadia NP,Medium,2,,Winter
+Acadia NP,Medium,3,,Spring
+Acadia NP,Medium,4,,Spring
+Acadia NP,Medium,5,,Spring
+Acadia NP,Medium,6,,Summer
+Acadia NP,Medium,7,,Summer
+Acadia NP,Medium,8,,Summer
+Acadia NP,Medium,9,,Fall
+Acadia NP,Medium,10,,Fall
+Acadia NP,Medium,11,,Fall
+Acadia NP,Medium,12,,Winter
+Acadia NP,Large,1,,Winter
+Acadia NP,Large,2,,Winter
+Acadia NP,Large,3,,Spring
+Acadia NP,Large,4,,Spring
+Acadia NP,Large,5,,Spring
+Acadia NP,Large,6,,Summer
+Acadia NP,Large,7,,Summer
+Acadia NP,Large,8,,Summer
+Acadia NP,Large,9,,Fall
+Acadia NP,Large,10,,Fall
+Acadia NP,Large,11,,Fall
+Acadia NP,Large,12,,Winter
+Acadia NP,Extra Large,1,28537.239130434784,Winter
+Acadia NP,Extra Large,2,27923.195652173912,Winter
+Acadia NP,Extra Large,3,40562.282608695656,Spring
+Acadia NP,Extra Large,4,120998.71739130435,Spring
+Acadia NP,Extra Large,5,234190.60869565216,Spring
+Acadia NP,Extra Large,6,400995.23913043475,Summer
+Acadia NP,Extra Large,7,639153.3913043478,Summer
+Acadia NP,Extra Large,8,697388.2826086957,Summer
+Acadia NP,Extra Large,9,475268.347826087,Fall
+Acadia NP,Extra Large,10,356582.02173913043,Fall
+Acadia NP,Extra Large,11,104551.47826086957,Fall
+Acadia NP,Extra Large,12,29163.0,Winter
+Arches NP,Small,1,,Winter
+Arches NP,Small,2,,Winter
+Arches NP,Small,3,,Spring
+Arches NP,Small,4,,Spring
+Arches NP,Small,5,,Spring
+Arches NP,Small,6,,Summer
+Arches NP,Small,7,,Summer
+Arches NP,Small,8,,Summer
+Arches NP,Small,9,,Fall
+Arches NP,Small,10,,Fall
+Arches NP,Small,11,,Fall
+Arches NP,Small,12,,Winter
+Arches NP,Medium,1,,Winter
+Arches NP,Medium,2,,Winter
+Arches NP,Medium,3,,Spring
+Arches NP,Medium,4,,Spring
+Arches NP,Medium,5,,Spring
+Arches NP,Medium,6,,Summer
+Arches NP,Medium,7,,Summer
+Arches NP,Medium,8,,Summer
+Arches NP,Medium,9,,Fall
+Arches NP,Medium,10,,Fall
+Arches NP,Medium,11,,Fall
+Arches NP,Medium,12,,Winter
+Arches NP,Large,1,13231.760869565218,Winter
+Arches NP,Large,2,18239.565217391304,Winter
+Arches NP,Large,3,65155.32608695652,Spring
+Arches NP,Large,4,84176.13043478261,Spring
+Arches NP,Large,5,115646.36956521739,Spring
+Arches NP,Large,6,120861.65217391304,Summer
+Arches NP,Large,7,119825.15217391304,Summer
+Arches NP,Large,8,116507.32608695653,Summer
+Arches NP,Large,9,114099.54347826086,Fall
+Arches NP,Large,10,75968.13043478261,Fall
+Arches NP,Large,11,33013.108695652176,Fall
+Arches NP,Large,12,17820.978260869564,Winter
+Arches NP,Extra Large,1,,Winter
+Arches NP,Extra Large,2,,Winter
+Arches NP,Extra Large,3,,Spring
+Arches NP,Extra Large,4,,Spring
+Arches NP,Extra Large,5,,Spring
+Arches NP,Extra Large,6,,Summer
+Arches NP,Extra Large,7,,Summer
+Arches NP,Extra Large,8,,Summer
+Arches NP,Extra Large,9,,Fall
+Arches NP,Extra Large,10,,Fall
+Arches NP,Extra Large,11,,Fall
+Arches NP,Extra Large,12,,Winter
+Badlands NP,Small,1,,Winter
+Badlands NP,Small,2,,Winter
+Badlands NP,Small,3,,Spring
+Badlands NP,Small,4,,Spring
+Badlands NP,Small,5,,Spring
+Badlands NP,Small,6,,Summer
+Badlands NP,Small,7,,Summer
+Badlands NP,Small,8,,Summer
+Badlands NP,Small,9,,Fall
+Badlands NP,Small,10,,Fall
+Badlands NP,Small,11,,Fall
+Badlands NP,Small,12,,Winter
+Badlands NP,Medium,1,,Winter
+Badlands NP,Medium,2,,Winter
+Badlands NP,Medium,3,,Spring
+Badlands NP,Medium,4,,Spring
+Badlands NP,Medium,5,,Spring
+Badlands NP,Medium,6,,Summer
+Badlands NP,Medium,7,,Summer
+Badlands NP,Medium,8,,Summer
+Badlands NP,Medium,9,,Fall
+Badlands NP,Medium,10,,Fall
+Badlands NP,Medium,11,,Fall
+Badlands NP,Medium,12,,Winter
+Badlands NP,Large,1,12583.369565217392,Winter
+Badlands NP,Large,2,12396.608695652174,Winter
+Badlands NP,Large,3,18945.695652173912,Spring
+Badlands NP,Large,4,29324.739130434784,Spring
+Badlands NP,Large,5,76739.19565217392,Spring
+Badlands NP,Large,6,196659.6739130435,Summer
+Badlands NP,Large,7,257157.13043478262,Summer
+Badlands NP,Large,8,245667.30434782608,Summer
+Badlands NP,Large,9,121570.76086956522,Fall
+Badlands NP,Large,10,48385.717391304344,Fall
+Badlands NP,Large,11,19402.847826086956,Fall
+Badlands NP,Large,12,12582.608695652174,Winter
+Badlands NP,Extra Large,1,,Winter
+Badlands NP,Extra Large,2,,Winter
+Badlands NP,Extra Large,3,,Spring
+Badlands NP,Extra Large,4,,Spring
+Badlands NP,Extra Large,5,,Spring
+Badlands NP,Extra Large,6,,Summer
+Badlands NP,Extra Large,7,,Summer
+Badlands NP,Extra Large,8,,Summer
+Badlands NP,Extra Large,9,,Fall
+Badlands NP,Extra Large,10,,Fall
+Badlands NP,Extra Large,11,,Fall
+Badlands NP,Extra Large,12,,Winter
+Big Bend NP,Small,1,,Winter
+Big Bend NP,Small,2,,Winter
+Big Bend NP,Small,3,,Spring
+Big Bend NP,Small,4,,Spring
+Big Bend NP,Small,5,,Spring
+Big Bend NP,Small,6,,Summer
+Big Bend NP,Small,7,,Summer
+Big Bend NP,Small,8,,Summer
+Big Bend NP,Small,9,,Fall
+Big Bend NP,Small,10,,Fall
+Big Bend NP,Small,11,,Fall
+Big Bend NP,Small,12,,Winter
+Big Bend NP,Medium,1,26275.760869565216,Winter
+Big Bend NP,Medium,2,30289.869565217392,Winter
+Big Bend NP,Medium,3,52446.65217391304,Spring
+Big Bend NP,Medium,4,41698.239130434784,Spring
+Big Bend NP,Medium,5,28132.739130434784,Spring
+Big Bend NP,Medium,6,21491.32608695652,Summer
+Big Bend NP,Medium,7,16368.0,Summer
+Big Bend NP,Medium,8,16259.978260869566,Summer
+Big Bend NP,Medium,9,18015.934782608696,Fall
+Big Bend NP,Medium,10,26206.021739130436,Fall
+Big Bend NP,Medium,11,32890.67391304348,Fall
+Big Bend NP,Medium,12,26555.065217391304,Winter
+Big Bend NP,Large,1,,Winter
+Big Bend NP,Large,2,,Winter
+Big Bend NP,Large,3,,Spring
+Big Bend NP,Large,4,,Spring
+Big Bend NP,Large,5,,Spring
+Big Bend NP,Large,6,,Summer
+Big Bend NP,Large,7,,Summer
+Big Bend NP,Large,8,,Summer
+Big Bend NP,Large,9,,Fall
+Big Bend NP,Large,10,,Fall
+Big Bend NP,Large,11,,Fall
+Big Bend NP,Large,12,,Winter
+Big Bend NP,Extra Large,1,,Winter
+Big Bend NP,Extra Large,2,,Winter
+Big Bend NP,Extra Large,3,,Spring
+Big Bend NP,Extra Large,4,,Spring
+Big Bend NP,Extra Large,5,,Spring
+Big Bend NP,Extra Large,6,,Summer
+Big Bend NP,Extra Large,7,,Summer
+Big Bend NP,Extra Large,8,,Summer
+Big Bend NP,Extra Large,9,,Fall
+Big Bend NP,Extra Large,10,,Fall
+Big Bend NP,Extra Large,11,,Fall
+Big Bend NP,Extra Large,12,,Winter
+Biscayne NP,Small,1,,Winter
+Biscayne NP,Small,2,,Winter
+Biscayne NP,Small,3,,Spring
+Biscayne NP,Small,4,,Spring
+Biscayne NP,Small,5,,Spring
+Biscayne NP,Small,6,,Summer
+Biscayne NP,Small,7,,Summer
+Biscayne NP,Small,8,,Summer
+Biscayne NP,Small,9,,Fall
+Biscayne NP,Small,10,,Fall
+Biscayne NP,Small,11,,Fall
+Biscayne NP,Small,12,,Winter
+Biscayne NP,Medium,1,34108.760869565216,Winter
+Biscayne NP,Medium,2,34650.934782608696,Winter
+Biscayne NP,Medium,3,39321.0,Spring
+Biscayne NP,Medium,4,41684.17391304348,Spring
+Biscayne NP,Medium,5,47469.891304347824,Spring
+Biscayne NP,Medium,6,43788.717391304344,Summer
+Biscayne NP,Medium,7,54232.913043478264,Summer
+Biscayne NP,Medium,8,43158.82608695652,Summer
+Biscayne NP,Medium,9,31778.608695652172,Fall
+Biscayne NP,Medium,10,36821.36956521739,Fall
+Biscayne NP,Medium,11,27520.130434782608,Fall
+Biscayne NP,Medium,12,29113.67391304348,Winter
+Biscayne NP,Large,1,,Winter
+Biscayne NP,Large,2,,Winter
+Biscayne NP,Large,3,,Spring
+Biscayne NP,Large,4,,Spring
+Biscayne NP,Large,5,,Spring
+Biscayne NP,Large,6,,Summer
+Biscayne NP,Large,7,,Summer
+Biscayne NP,Large,8,,Summer
+Biscayne NP,Large,9,,Fall
+Biscayne NP,Large,10,,Fall
+Biscayne NP,Large,11,,Fall
+Biscayne NP,Large,12,,Winter
+Biscayne NP,Extra Large,1,,Winter
+Biscayne NP,Extra Large,2,,Winter
+Biscayne NP,Extra Large,3,,Spring
+Biscayne NP,Extra Large,4,,Spring
+Biscayne NP,Extra Large,5,,Spring
+Biscayne NP,Extra Large,6,,Summer
+Biscayne NP,Extra Large,7,,Summer
+Biscayne NP,Extra Large,8,,Summer
+Biscayne NP,Extra Large,9,,Fall
+Biscayne NP,Extra Large,10,,Fall
+Biscayne NP,Extra Large,11,,Fall
+Biscayne NP,Extra Large,12,,Winter
+Black Canyon of the Gunnison NP,Small,1,3969.586956521739,Winter
+Black Canyon of the Gunnison NP,Small,2,3742.717391304348,Winter
+Black Canyon of the Gunnison NP,Small,3,6138.826086956522,Spring
+Black Canyon of the Gunnison NP,Small,4,8594.021739130434,Spring
+Black Canyon of the Gunnison NP,Small,5,24390.282608695652,Spring
+Black Canyon of the Gunnison NP,Small,6,38418.15217391304,Summer
+Black Canyon of the Gunnison NP,Small,7,49859.17391304348,Summer
+Black Canyon of the Gunnison NP,Small,8,46579.934782608696,Summer
+Black Canyon of the Gunnison NP,Small,9,34329.30434782609,Fall
+Black Canyon of the Gunnison NP,Small,10,18622.652173913044,Fall
+Black Canyon of the Gunnison NP,Small,11,7185.891304347826,Fall
+Black Canyon of the Gunnison NP,Small,12,4015.0,Winter
+Black Canyon of the Gunnison NP,Medium,1,,Winter
+Black Canyon of the Gunnison NP,Medium,2,,Winter
+Black Canyon of the Gunnison NP,Medium,3,,Spring
+Black Canyon of the Gunnison NP,Medium,4,,Spring
+Black Canyon of the Gunnison NP,Medium,5,,Spring
+Black Canyon of the Gunnison NP,Medium,6,,Summer
+Black Canyon of the Gunnison NP,Medium,7,,Summer
+Black Canyon of the Gunnison NP,Medium,8,,Summer
+Black Canyon of the Gunnison NP,Medium,9,,Fall
+Black Canyon of the Gunnison NP,Medium,10,,Fall
+Black Canyon of the Gunnison NP,Medium,11,,Fall
+Black Canyon of the Gunnison NP,Medium,12,,Winter
+Black Canyon of the Gunnison NP,Large,1,,Winter
+Black Canyon of the Gunnison NP,Large,2,,Winter
+Black Canyon of the Gunnison NP,Large,3,,Spring
+Black Canyon of the Gunnison NP,Large,4,,Spring
+Black Canyon of the Gunnison NP,Large,5,,Spring
+Black Canyon of the Gunnison NP,Large,6,,Summer
+Black Canyon of the Gunnison NP,Large,7,,Summer
+Black Canyon of the Gunnison NP,Large,8,,Summer
+Black Canyon of the Gunnison NP,Large,9,,Fall
+Black Canyon of the Gunnison NP,Large,10,,Fall
+Black Canyon of the Gunnison NP,Large,11,,Fall
+Black Canyon of the Gunnison NP,Large,12,,Winter
+Black Canyon of the Gunnison NP,Extra Large,1,,Winter
+Black Canyon of the Gunnison NP,Extra Large,2,,Winter
+Black Canyon of the Gunnison NP,Extra Large,3,,Spring
+Black Canyon of the Gunnison NP,Extra Large,4,,Spring
+Black Canyon of the Gunnison NP,Extra Large,5,,Spring
+Black Canyon of the Gunnison NP,Extra Large,6,,Summer
+Black Canyon of the Gunnison NP,Extra Large,7,,Summer
+Black Canyon of the Gunnison NP,Extra Large,8,,Summer
+Black Canyon of the Gunnison NP,Extra Large,9,,Fall
+Black Canyon of the Gunnison NP,Extra Large,10,,Fall
+Black Canyon of the Gunnison NP,Extra Large,11,,Fall
+Black Canyon of the Gunnison NP,Extra Large,12,,Winter
+Bryce Canyon NP,Small,1,,Winter
+Bryce Canyon NP,Small,2,,Winter
+Bryce Canyon NP,Small,3,,Spring
+Bryce Canyon NP,Small,4,,Spring
+Bryce Canyon NP,Small,5,,Spring
+Bryce Canyon NP,Small,6,,Summer
+Bryce Canyon NP,Small,7,,Summer
+Bryce Canyon NP,Small,8,,Summer
+Bryce Canyon NP,Small,9,,Fall
+Bryce Canyon NP,Small,10,,Fall
+Bryce Canyon NP,Small,11,,Fall
+Bryce Canyon NP,Small,12,,Winter
+Bryce Canyon NP,Medium,1,,Winter
+Bryce Canyon NP,Medium,2,,Winter
+Bryce Canyon NP,Medium,3,,Spring
+Bryce Canyon NP,Medium,4,,Spring
+Bryce Canyon NP,Medium,5,,Spring
+Bryce Canyon NP,Medium,6,,Summer
+Bryce Canyon NP,Medium,7,,Summer
+Bryce Canyon NP,Medium,8,,Summer
+Bryce Canyon NP,Medium,9,,Fall
+Bryce Canyon NP,Medium,10,,Fall
+Bryce Canyon NP,Medium,11,,Fall
+Bryce Canyon NP,Medium,12,,Winter
+Bryce Canyon NP,Large,1,31202.0,Winter
+Bryce Canyon NP,Large,2,33297.586956521736,Winter
+Bryce Canyon NP,Large,3,65224.065217391304,Spring
+Bryce Canyon NP,Large,4,112588.71739130435,Spring
+Bryce Canyon NP,Large,5,186910.08695652173,Spring
+Bryce Canyon NP,Large,6,235710.30434782608,Summer
+Bryce Canyon NP,Large,7,255423.5652173913,Summer
+Bryce Canyon NP,Large,8,247897.6739130435,Summer
+Bryce Canyon NP,Large,9,228260.34782608695,Fall
+Bryce Canyon NP,Large,10,144699.21739130435,Fall
+Bryce Canyon NP,Large,11,51533.30434782609,Fall
+Bryce Canyon NP,Large,12,37029.69565217391,Winter
+Bryce Canyon NP,Extra Large,1,,Winter
+Bryce Canyon NP,Extra Large,2,,Winter
+Bryce Canyon NP,Extra Large,3,,Spring
+Bryce Canyon NP,Extra Large,4,,Spring
+Bryce Canyon NP,Extra Large,5,,Spring
+Bryce Canyon NP,Extra Large,6,,Summer
+Bryce Canyon NP,Extra Large,7,,Summer
+Bryce Canyon NP,Extra Large,8,,Summer
+Bryce Canyon NP,Extra Large,9,,Fall
+Bryce Canyon NP,Extra Large,10,,Fall
+Bryce Canyon NP,Extra Large,11,,Fall
+Bryce Canyon NP,Extra Large,12,,Winter
+Canyonlands NP,Small,1,,Winter
+Canyonlands NP,Small,2,,Winter
+Canyonlands NP,Small,3,,Spring
+Canyonlands NP,Small,4,,Spring
+Canyonlands NP,Small,5,,Spring
+Canyonlands NP,Small,6,,Summer
+Canyonlands NP,Small,7,,Summer
+Canyonlands NP,Small,8,,Summer
+Canyonlands NP,Small,9,,Fall
+Canyonlands NP,Small,10,,Fall
+Canyonlands NP,Small,11,,Fall
+Canyonlands NP,Small,12,,Winter
+Canyonlands NP,Medium,1,4670.521739130435,Winter
+Canyonlands NP,Medium,2,6986.695652173913,Winter
+Canyonlands NP,Medium,3,31558.804347826088,Spring
+Canyonlands NP,Medium,4,49276.739130434784,Spring
+Canyonlands NP,Medium,5,62578.434782608696,Spring
+Canyonlands NP,Medium,6,50178.282608695656,Summer
+Canyonlands NP,Medium,7,44020.13043478261,Summer
+Canyonlands NP,Medium,8,45034.84782608696,Summer
+Canyonlands NP,Medium,9,55267.608695652176,Fall
+Canyonlands NP,Medium,10,47143.80434782609,Fall
+Canyonlands NP,Medium,11,17132.630434782608,Fall
+Canyonlands NP,Medium,12,6843.760869565217,Winter
+Canyonlands NP,Large,1,,Winter
+Canyonlands NP,Large,2,,Winter
+Canyonlands NP,Large,3,,Spring
+Canyonlands NP,Large,4,,Spring
+Canyonlands NP,Large,5,,Spring
+Canyonlands NP,Large,6,,Summer
+Canyonlands NP,Large,7,,Summer
+Canyonlands NP,Large,8,,Summer
+Canyonlands NP,Large,9,,Fall
+Canyonlands NP,Large,10,,Fall
+Canyonlands NP,Large,11,,Fall
+Canyonlands NP,Large,12,,Winter
+Canyonlands NP,Extra Large,1,,Winter
+Canyonlands NP,Extra Large,2,,Winter
+Canyonlands NP,Extra Large,3,,Spring
+Canyonlands NP,Extra Large,4,,Spring
+Canyonlands NP,Extra Large,5,,Spring
+Canyonlands NP,Extra Large,6,,Summer
+Canyonlands NP,Extra Large,7,,Summer
+Canyonlands NP,Extra Large,8,,Summer
+Canyonlands NP,Extra Large,9,,Fall
+Canyonlands NP,Extra Large,10,,Fall
+Canyonlands NP,Extra Large,11,,Fall
+Canyonlands NP,Extra Large,12,,Winter
+Capitol Reef NP,Small,1,,Winter
+Capitol Reef NP,Small,2,,Winter
+Capitol Reef NP,Small,3,,Spring
+Capitol Reef NP,Small,4,,Spring
+Capitol Reef NP,Small,5,,Spring
+Capitol Reef NP,Small,6,,Summer
+Capitol Reef NP,Small,7,,Summer
+Capitol Reef NP,Small,8,,Summer
+Capitol Reef NP,Small,9,,Fall
+Capitol Reef NP,Small,10,,Fall
+Capitol Reef NP,Small,11,,Fall
+Capitol Reef NP,Small,12,,Winter
+Capitol Reef NP,Medium,1,11564.760869565218,Winter
+Capitol Reef NP,Medium,2,13807.695652173914,Winter
+Capitol Reef NP,Medium,3,40562.86956521739,Spring
+Capitol Reef NP,Medium,4,70122.08695652174,Spring
+Capitol Reef NP,Medium,5,106401.10869565218,Spring
+Capitol Reef NP,Medium,6,96235.15217391304,Summer
+Capitol Reef NP,Medium,7,90263.97826086957,Summer
+Capitol Reef NP,Medium,8,85538.13043478261,Summer
+Capitol Reef NP,Medium,9,101401.06521739131,Fall
+Capitol Reef NP,Medium,10,77733.45652173914,Fall
+Capitol Reef NP,Medium,11,27856.847826086956,Fall
+Capitol Reef NP,Medium,12,14829.021739130434,Winter
+Capitol Reef NP,Large,1,,Winter
+Capitol Reef NP,Large,2,,Winter
+Capitol Reef NP,Large,3,,Spring
+Capitol Reef NP,Large,4,,Spring
+Capitol Reef NP,Large,5,,Spring
+Capitol Reef NP,Large,6,,Summer
+Capitol Reef NP,Large,7,,Summer
+Capitol Reef NP,Large,8,,Summer
+Capitol Reef NP,Large,9,,Fall
+Capitol Reef NP,Large,10,,Fall
+Capitol Reef NP,Large,11,,Fall
+Capitol Reef NP,Large,12,,Winter
+Capitol Reef NP,Extra Large,1,,Winter
+Capitol Reef NP,Extra Large,2,,Winter
+Capitol Reef NP,Extra Large,3,,Spring
+Capitol Reef NP,Extra Large,4,,Spring
+Capitol Reef NP,Extra Large,5,,Spring
+Capitol Reef NP,Extra Large,6,,Summer
+Capitol Reef NP,Extra Large,7,,Summer
+Capitol Reef NP,Extra Large,8,,Summer
+Capitol Reef NP,Extra Large,9,,Fall
+Capitol Reef NP,Extra Large,10,,Fall
+Capitol Reef NP,Extra Large,11,,Fall
+Capitol Reef NP,Extra Large,12,,Winter
+Carlsbad Caverns NP,Small,1,,Winter
+Carlsbad Caverns NP,Small,2,,Winter
+Carlsbad Caverns NP,Small,3,,Spring
+Carlsbad Caverns NP,Small,4,,Spring
+Carlsbad Caverns NP,Small,5,,Spring
+Carlsbad Caverns NP,Small,6,,Summer
+Carlsbad Caverns NP,Small,7,,Summer
+Carlsbad Caverns NP,Small,8,,Summer
+Carlsbad Caverns NP,Small,9,,Fall
+Carlsbad Caverns NP,Small,10,,Fall
+Carlsbad Caverns NP,Small,11,,Fall
+Carlsbad Caverns NP,Small,12,,Winter
+Carlsbad Caverns NP,Medium,1,18846.08695652174,Winter
+Carlsbad Caverns NP,Medium,2,20627.891304347828,Winter
+Carlsbad Caverns NP,Medium,3,51455.45652173913,Spring
+Carlsbad Caverns NP,Medium,4,40798.217391304344,Spring
+Carlsbad Caverns NP,Medium,5,50395.02173913043,Spring
+Carlsbad Caverns NP,Medium,6,74058.21739130435,Summer
+Carlsbad Caverns NP,Medium,7,96039.08695652174,Summer
+Carlsbad Caverns NP,Medium,8,67588.19565217392,Summer
+Carlsbad Caverns NP,Medium,9,36012.217391304344,Fall
+Carlsbad Caverns NP,Medium,10,33218.97826086957,Fall
+Carlsbad Caverns NP,Medium,11,25043.304347826088,Fall
+Carlsbad Caverns NP,Medium,12,24641.804347826088,Winter
+Carlsbad Caverns NP,Large,1,,Winter
+Carlsbad Caverns NP,Large,2,,Winter
+Carlsbad Caverns NP,Large,3,,Spring
+Carlsbad Caverns NP,Large,4,,Spring
+Carlsbad Caverns NP,Large,5,,Spring
+Carlsbad Caverns NP,Large,6,,Summer
+Carlsbad Caverns NP,Large,7,,Summer
+Carlsbad Caverns NP,Large,8,,Summer
+Carlsbad Caverns NP,Large,9,,Fall
+Carlsbad Caverns NP,Large,10,,Fall
+Carlsbad Caverns NP,Large,11,,Fall
+Carlsbad Caverns NP,Large,12,,Winter
+Carlsbad Caverns NP,Extra Large,1,,Winter
+Carlsbad Caverns NP,Extra Large,2,,Winter
+Carlsbad Caverns NP,Extra Large,3,,Spring
+Carlsbad Caverns NP,Extra Large,4,,Spring
+Carlsbad Caverns NP,Extra Large,5,,Spring
+Carlsbad Caverns NP,Extra Large,6,,Summer
+Carlsbad Caverns NP,Extra Large,7,,Summer
+Carlsbad Caverns NP,Extra Large,8,,Summer
+Carlsbad Caverns NP,Extra Large,9,,Fall
+Carlsbad Caverns NP,Extra Large,10,,Fall
+Carlsbad Caverns NP,Extra Large,11,,Fall
+Carlsbad Caverns NP,Extra Large,12,,Winter
+Channel Islands NP,Small,1,,Winter
+Channel Islands NP,Small,2,,Winter
+Channel Islands NP,Small,3,,Spring
+Channel Islands NP,Small,4,,Spring
+Channel Islands NP,Small,5,,Spring
+Channel Islands NP,Small,6,,Summer
+Channel Islands NP,Small,7,,Summer
+Channel Islands NP,Small,8,,Summer
+Channel Islands NP,Small,9,,Fall
+Channel Islands NP,Small,10,,Fall
+Channel Islands NP,Small,11,,Fall
+Channel Islands NP,Small,12,,Winter
+Channel Islands NP,Medium,1,19024.217391304348,Winter
+Channel Islands NP,Medium,2,19608.456521739132,Winter
+Channel Islands NP,Medium,3,25798.217391304348,Spring
+Channel Islands NP,Medium,4,27539.217391304348,Spring
+Channel Islands NP,Medium,5,31830.739130434784,Spring
+Channel Islands NP,Medium,6,33476.065217391304,Summer
+Channel Islands NP,Medium,7,42551.19565217391,Summer
+Channel Islands NP,Medium,8,42684.565217391304,Summer
+Channel Islands NP,Medium,9,32384.717391304348,Fall
+Channel Islands NP,Medium,10,25684.41304347826,Fall
+Channel Islands NP,Medium,11,21283.08695652174,Fall
+Channel Islands NP,Medium,12,15572.622222222222,Winter
+Channel Islands NP,Large,1,,Winter
+Channel Islands NP,Large,2,,Winter
+Channel Islands NP,Large,3,,Spring
+Channel Islands NP,Large,4,,Spring
+Channel Islands NP,Large,5,,Spring
+Channel Islands NP,Large,6,,Summer
+Channel Islands NP,Large,7,,Summer
+Channel Islands NP,Large,8,,Summer
+Channel Islands NP,Large,9,,Fall
+Channel Islands NP,Large,10,,Fall
+Channel Islands NP,Large,11,,Fall
+Channel Islands NP,Large,12,,Winter
+Channel Islands NP,Extra Large,1,,Winter
+Channel Islands NP,Extra Large,2,,Winter
+Channel Islands NP,Extra Large,3,,Spring
+Channel Islands NP,Extra Large,4,,Spring
+Channel Islands NP,Extra Large,5,,Spring
+Channel Islands NP,Extra Large,6,,Summer
+Channel Islands NP,Extra Large,7,,Summer
+Channel Islands NP,Extra Large,8,,Summer
+Channel Islands NP,Extra Large,9,,Fall
+Channel Islands NP,Extra Large,10,,Fall
+Channel Islands NP,Extra Large,11,,Fall
+Channel Islands NP,Extra Large,12,,Winter
+Congaree NP,Small,1,5836.225,Winter
+Congaree NP,Small,2,7392.2,Winter
+Congaree NP,Small,3,12096.55,Spring
+Congaree NP,Small,4,10854.15,Spring
+Congaree NP,Small,5,11572.65,Spring
+Congaree NP,Small,6,8188.65,Summer
+Congaree NP,Small,7,7527.95,Summer
+Congaree NP,Small,8,6832.475,Summer
+Congaree NP,Small,9,7644.35,Fall
+Congaree NP,Small,10,9445.6,Fall
+Congaree NP,Small,11,9096.5,Fall
+Congaree NP,Small,12,6661.1,Winter
+Congaree NP,Medium,1,,Winter
+Congaree NP,Medium,2,,Winter
+Congaree NP,Medium,3,,Spring
+Congaree NP,Medium,4,,Spring
+Congaree NP,Medium,5,,Spring
+Congaree NP,Medium,6,,Summer
+Congaree NP,Medium,7,,Summer
+Congaree NP,Medium,8,,Summer
+Congaree NP,Medium,9,,Fall
+Congaree NP,Medium,10,,Fall
+Congaree NP,Medium,11,,Fall
+Congaree NP,Medium,12,,Winter
+Congaree NP,Large,1,,Winter
+Congaree NP,Large,2,,Winter
+Congaree NP,Large,3,,Spring
+Congaree NP,Large,4,,Spring
+Congaree NP,Large,5,,Spring
+Congaree NP,Large,6,,Summer
+Congaree NP,Large,7,,Summer
+Congaree NP,Large,8,,Summer
+Congaree NP,Large,9,,Fall
+Congaree NP,Large,10,,Fall
+Congaree NP,Large,11,,Fall
+Congaree NP,Large,12,,Winter
+Congaree NP,Extra Large,1,,Winter
+Congaree NP,Extra Large,2,,Winter
+Congaree NP,Extra Large,3,,Spring
+Congaree NP,Extra Large,4,,Spring
+Congaree NP,Extra Large,5,,Spring
+Congaree NP,Extra Large,6,,Summer
+Congaree NP,Extra Large,7,,Summer
+Congaree NP,Extra Large,8,,Summer
+Congaree NP,Extra Large,9,,Fall
+Congaree NP,Extra Large,10,,Fall
+Congaree NP,Extra Large,11,,Fall
+Congaree NP,Extra Large,12,,Winter
+Crater Lake NP,Small,1,,Winter
+Crater Lake NP,Small,2,,Winter
+Crater Lake NP,Small,3,,Spring
+Crater Lake NP,Small,4,,Spring
+Crater Lake NP,Small,5,,Spring
+Crater Lake NP,Small,6,,Summer
+Crater Lake NP,Small,7,,Summer
+Crater Lake NP,Small,8,,Summer
+Crater Lake NP,Small,9,,Fall
+Crater Lake NP,Small,10,,Fall
+Crater Lake NP,Small,11,,Fall
+Crater Lake NP,Small,12,,Winter
+Crater Lake NP,Medium,1,8031.934782608696,Winter
+Crater Lake NP,Medium,2,7977.173913043478,Winter
+Crater Lake NP,Medium,3,11244.58695652174,Spring
+Crater Lake NP,Medium,4,16777.304347826088,Spring
+Crater Lake NP,Medium,5,33292.739130434784,Spring
+Crater Lake NP,Medium,6,68934.10869565218,Summer
+Crater Lake NP,Medium,7,126510.43478260869,Summer
+Crater Lake NP,Medium,8,121403.60869565218,Summer
+Crater Lake NP,Medium,9,79158.52173913043,Fall
+Crater Lake NP,Medium,10,37870.84782608696,Fall
+Crater Lake NP,Medium,11,13151.826086956522,Fall
+Crater Lake NP,Medium,12,9652.54347826087,Winter
+Crater Lake NP,Large,1,,Winter
+Crater Lake NP,Large,2,,Winter
+Crater Lake NP,Large,3,,Spring
+Crater Lake NP,Large,4,,Spring
+Crater Lake NP,Large,5,,Spring
+Crater Lake NP,Large,6,,Summer
+Crater Lake NP,Large,7,,Summer
+Crater Lake NP,Large,8,,Summer
+Crater Lake NP,Large,9,,Fall
+Crater Lake NP,Large,10,,Fall
+Crater Lake NP,Large,11,,Fall
+Crater Lake NP,Large,12,,Winter
+Crater Lake NP,Extra Large,1,,Winter
+Crater Lake NP,Extra Large,2,,Winter
+Crater Lake NP,Extra Large,3,,Spring
+Crater Lake NP,Extra Large,4,,Spring
+Crater Lake NP,Extra Large,5,,Spring
+Crater Lake NP,Extra Large,6,,Summer
+Crater Lake NP,Extra Large,7,,Summer
+Crater Lake NP,Extra Large,8,,Summer
+Crater Lake NP,Extra Large,9,,Fall
+Crater Lake NP,Extra Large,10,,Fall
+Crater Lake NP,Extra Large,11,,Fall
+Crater Lake NP,Extra Large,12,,Winter
+Cuyahoga Valley NP,Small,1,,Winter
+Cuyahoga Valley NP,Small,2,,Winter
+Cuyahoga Valley NP,Small,3,,Spring
+Cuyahoga Valley NP,Small,4,,Spring
+Cuyahoga Valley NP,Small,5,,Spring
+Cuyahoga Valley NP,Small,6,,Summer
+Cuyahoga Valley NP,Small,7,,Summer
+Cuyahoga Valley NP,Small,8,,Summer
+Cuyahoga Valley NP,Small,9,,Fall
+Cuyahoga Valley NP,Small,10,,Fall
+Cuyahoga Valley NP,Small,11,,Fall
+Cuyahoga Valley NP,Small,12,,Winter
+Cuyahoga Valley NP,Medium,1,,Winter
+Cuyahoga Valley NP,Medium,2,,Winter
+Cuyahoga Valley NP,Medium,3,,Spring
+Cuyahoga Valley NP,Medium,4,,Spring
+Cuyahoga Valley NP,Medium,5,,Spring
+Cuyahoga Valley NP,Medium,6,,Summer
+Cuyahoga Valley NP,Medium,7,,Summer
+Cuyahoga Valley NP,Medium,8,,Summer
+Cuyahoga Valley NP,Medium,9,,Fall
+Cuyahoga Valley NP,Medium,10,,Fall
+Cuyahoga Valley NP,Medium,11,,Fall
+Cuyahoga Valley NP,Medium,12,,Winter
+Cuyahoga Valley NP,Large,1,,Winter
+Cuyahoga Valley NP,Large,2,,Winter
+Cuyahoga Valley NP,Large,3,,Spring
+Cuyahoga Valley NP,Large,4,,Spring
+Cuyahoga Valley NP,Large,5,,Spring
+Cuyahoga Valley NP,Large,6,,Summer
+Cuyahoga Valley NP,Large,7,,Summer
+Cuyahoga Valley NP,Large,8,,Summer
+Cuyahoga Valley NP,Large,9,,Fall
+Cuyahoga Valley NP,Large,10,,Fall
+Cuyahoga Valley NP,Large,11,,Fall
+Cuyahoga Valley NP,Large,12,,Winter
+Cuyahoga Valley NP,Extra Large,1,132544.5,Winter
+Cuyahoga Valley NP,Extra Large,2,138875.86956521738,Winter
+Cuyahoga Valley NP,Extra Large,3,124719.13043478261,Spring
+Cuyahoga Valley NP,Extra Large,4,159888.26086956522,Spring
+Cuyahoga Valley NP,Extra Large,5,203963.04347826086,Spring
+Cuyahoga Valley NP,Extra Large,6,263595.67391304346,Summer
+Cuyahoga Valley NP,Extra Large,7,270722.4130434783,Summer
+Cuyahoga Valley NP,Extra Large,8,253019.0652173913,Summer
+Cuyahoga Valley NP,Extra Large,9,217286.4347826087,Fall
+Cuyahoga Valley NP,Extra Large,10,220459.26086956522,Fall
+Cuyahoga Valley NP,Extra Large,11,115317.63043478261,Fall
+Cuyahoga Valley NP,Extra Large,12,114669.36956521739,Winter
+Death Valley NP,Small,1,,Winter
+Death Valley NP,Small,2,,Winter
+Death Valley NP,Small,3,,Spring
+Death Valley NP,Small,4,,Spring
+Death Valley NP,Small,5,,Spring
+Death Valley NP,Small,6,,Summer
+Death Valley NP,Small,7,,Summer
+Death Valley NP,Small,8,,Summer
+Death Valley NP,Small,9,,Fall
+Death Valley NP,Small,10,,Fall
+Death Valley NP,Small,11,,Fall
+Death Valley NP,Small,12,,Winter
+Death Valley NP,Medium,1,,Winter
+Death Valley NP,Medium,2,,Winter
+Death Valley NP,Medium,3,,Spring
+Death Valley NP,Medium,4,,Spring
+Death Valley NP,Medium,5,,Spring
+Death Valley NP,Medium,6,,Summer
+Death Valley NP,Medium,7,,Summer
+Death Valley NP,Medium,8,,Summer
+Death Valley NP,Medium,9,,Fall
+Death Valley NP,Medium,10,,Fall
+Death Valley NP,Medium,11,,Fall
+Death Valley NP,Medium,12,,Winter
+Death Valley NP,Large,1,65651.52173913043,Winter
+Death Valley NP,Large,2,79320.19565217392,Winter
+Death Valley NP,Large,3,105074.15217391304,Spring
+Death Valley NP,Large,4,108460.52173913043,Spring
+Death Valley NP,Large,5,82748.58695652174,Spring
+Death Valley NP,Large,6,68216.32608695653,Summer
+Death Valley NP,Large,7,78163.65217391304,Summer
+Death Valley NP,Large,8,86741.08695652174,Summer
+Death Valley NP,Large,9,83575.26086956522,Fall
+Death Valley NP,Large,10,82658.89130434782,Fall
+Death Valley NP,Large,11,81200.80434782608,Fall
+Death Valley NP,Large,12,63503.65217391304,Winter
+Death Valley NP,Extra Large,1,,Winter
+Death Valley NP,Extra Large,2,,Winter
+Death Valley NP,Extra Large,3,,Spring
+Death Valley NP,Extra Large,4,,Spring
+Death Valley NP,Extra Large,5,,Spring
+Death Valley NP,Extra Large,6,,Summer
+Death Valley NP,Extra Large,7,,Summer
+Death Valley NP,Extra Large,8,,Summer
+Death Valley NP,Extra Large,9,,Fall
+Death Valley NP,Extra Large,10,,Fall
+Death Valley NP,Extra Large,11,,Fall
+Death Valley NP,Extra Large,12,,Winter
+Denali NP & PRES,Small,1,,Winter
+Denali NP & PRES,Small,2,,Winter
+Denali NP & PRES,Small,3,,Spring
+Denali NP & PRES,Small,4,,Spring
+Denali NP & PRES,Small,5,,Spring
+Denali NP & PRES,Small,6,,Summer
+Denali NP & PRES,Small,7,,Summer
+Denali NP & PRES,Small,8,,Summer
+Denali NP & PRES,Small,9,,Fall
+Denali NP & PRES,Small,10,,Fall
+Denali NP & PRES,Small,11,,Fall
+Denali NP & PRES,Small,12,,Winter
+Denali NP & PRES,Medium,1,,Winter
+Denali NP & PRES,Medium,2,,Winter
+Denali NP & PRES,Medium,3,,Spring
+Denali NP & PRES,Medium,4,,Spring
+Denali NP & PRES,Medium,5,,Spring
+Denali NP & PRES,Medium,6,,Summer
+Denali NP & PRES,Medium,7,,Summer
+Denali NP & PRES,Medium,8,,Summer
+Denali NP & PRES,Medium,9,,Fall
+Denali NP & PRES,Medium,10,,Fall
+Denali NP & PRES,Medium,11,,Fall
+Denali NP & PRES,Medium,12,,Winter
+Denali NP & PRES,Large,1,12804.673913043478,Winter
+Denali NP & PRES,Large,2,12446.847826086956,Winter
+Denali NP & PRES,Large,3,19852.260869565216,Spring
+Denali NP & PRES,Large,4,37165.239130434784,Spring
+Denali NP & PRES,Large,5,136288.1739130435,Spring
+Denali NP & PRES,Large,6,252252.02173913043,Summer
+Denali NP & PRES,Large,7,300498.0,Summer
+Denali NP & PRES,Large,8,252229.04347826086,Summer
+Denali NP & PRES,Large,9,116511.56521739131,Fall
+Denali NP & PRES,Large,10,25772.717391304348,Fall
+Denali NP & PRES,Large,11,17137.91304347826,Fall
+Denali NP & PRES,Large,12,13198.934782608696,Winter
+Denali NP & PRES,Extra Large,1,,Winter
+Denali NP & PRES,Extra Large,2,,Winter
+Denali NP & PRES,Extra Large,3,,Spring
+Denali NP & PRES,Extra Large,4,,Spring
+Denali NP & PRES,Extra Large,5,,Spring
+Denali NP & PRES,Extra Large,6,,Summer
+Denali NP & PRES,Extra Large,7,,Summer
+Denali NP & PRES,Extra Large,8,,Summer
+Denali NP & PRES,Extra Large,9,,Fall
+Denali NP & PRES,Extra Large,10,,Fall
+Denali NP & PRES,Extra Large,11,,Fall
+Denali NP & PRES,Extra Large,12,,Winter
+Dry Tortugas NP,Small,1,4212.739130434783,Winter
+Dry Tortugas NP,Small,2,4437.391304347826,Winter
+Dry Tortugas NP,Small,3,5365.108695652174,Spring
+Dry Tortugas NP,Small,4,5553.282608695652,Spring
+Dry Tortugas NP,Small,5,5816.826086956522,Spring
+Dry Tortugas NP,Small,6,5419.54347826087,Summer
+Dry Tortugas NP,Small,7,5485.0,Summer
+Dry Tortugas NP,Small,8,4447.413043478261,Summer
+Dry Tortugas NP,Small,9,2989.1521739130435,Fall
+Dry Tortugas NP,Small,10,2965.695652173913,Fall
+Dry Tortugas NP,Small,11,3708.8260869565215,Fall
+Dry Tortugas NP,Small,12,4091.6521739130435,Winter
+Dry Tortugas NP,Medium,1,,Winter
+Dry Tortugas NP,Medium,2,,Winter
+Dry Tortugas NP,Medium,3,,Spring
+Dry Tortugas NP,Medium,4,,Spring
+Dry Tortugas NP,Medium,5,,Spring
+Dry Tortugas NP,Medium,6,,Summer
+Dry Tortugas NP,Medium,7,,Summer
+Dry Tortugas NP,Medium,8,,Summer
+Dry Tortugas NP,Medium,9,,Fall
+Dry Tortugas NP,Medium,10,,Fall
+Dry Tortugas NP,Medium,11,,Fall
+Dry Tortugas NP,Medium,12,,Winter
+Dry Tortugas NP,Large,1,,Winter
+Dry Tortugas NP,Large,2,,Winter
+Dry Tortugas NP,Large,3,,Spring
+Dry Tortugas NP,Large,4,,Spring
+Dry Tortugas NP,Large,5,,Spring
+Dry Tortugas NP,Large,6,,Summer
+Dry Tortugas NP,Large,7,,Summer
+Dry Tortugas NP,Large,8,,Summer
+Dry Tortugas NP,Large,9,,Fall
+Dry Tortugas NP,Large,10,,Fall
+Dry Tortugas NP,Large,11,,Fall
+Dry Tortugas NP,Large,12,,Winter
+Dry Tortugas NP,Extra Large,1,,Winter
+Dry Tortugas NP,Extra Large,2,,Winter
+Dry Tortugas NP,Extra Large,3,,Spring
+Dry Tortugas NP,Extra Large,4,,Spring
+Dry Tortugas NP,Extra Large,5,,Spring
+Dry Tortugas NP,Extra Large,6,,Summer
+Dry Tortugas NP,Extra Large,7,,Summer
+Dry Tortugas NP,Extra Large,8,,Summer
+Dry Tortugas NP,Extra Large,9,,Fall
+Dry Tortugas NP,Extra Large,10,,Fall
+Dry Tortugas NP,Extra Large,11,,Fall
+Dry Tortugas NP,Extra Large,12,,Winter
+Everglades NP,Small,1,,Winter
+Everglades NP,Small,2,,Winter
+Everglades NP,Small,3,,Spring
+Everglades NP,Small,4,,Spring
+Everglades NP,Small,5,,Spring
+Everglades NP,Small,6,,Summer
+Everglades NP,Small,7,,Summer
+Everglades NP,Small,8,,Summer
+Everglades NP,Small,9,,Fall
+Everglades NP,Small,10,,Fall
+Everglades NP,Small,11,,Fall
+Everglades NP,Small,12,,Winter
+Everglades NP,Medium,1,,Winter
+Everglades NP,Medium,2,,Winter
+Everglades NP,Medium,3,,Spring
+Everglades NP,Medium,4,,Spring
+Everglades NP,Medium,5,,Spring
+Everglades NP,Medium,6,,Summer
+Everglades NP,Medium,7,,Summer
+Everglades NP,Medium,8,,Summer
+Everglades NP,Medium,9,,Fall
+Everglades NP,Medium,10,,Fall
+Everglades NP,Medium,11,,Fall
+Everglades NP,Medium,12,,Winter
+Everglades NP,Large,1,111755.63043478261,Winter
+Everglades NP,Large,2,125219.08695652174,Winter
+Everglades NP,Large,3,130510.67391304347,Spring
+Everglades NP,Large,4,94383.32608695653,Spring
+Everglades NP,Large,5,68241.86956521739,Spring
+Everglades NP,Large,6,55755.54347826087,Summer
+Everglades NP,Large,7,55862.891304347824,Summer
+Everglades NP,Large,8,56768.934782608696,Summer
+Everglades NP,Large,9,45129.84782608696,Fall
+Everglades NP,Large,10,55112.282608695656,Fall
+Everglades NP,Large,11,70084.5,Fall
+Everglades NP,Large,12,90235.26086956522,Winter
+Everglades NP,Extra Large,1,,Winter
+Everglades NP,Extra Large,2,,Winter
+Everglades NP,Extra Large,3,,Spring
+Everglades NP,Extra Large,4,,Spring
+Everglades NP,Extra Large,5,,Spring
+Everglades NP,Extra Large,6,,Summer
+Everglades NP,Extra Large,7,,Summer
+Everglades NP,Extra Large,8,,Summer
+Everglades NP,Extra Large,9,,Fall
+Everglades NP,Extra Large,10,,Fall
+Everglades NP,Extra Large,11,,Fall
+Everglades NP,Extra Large,12,,Winter
+Gates of the Arctic NP & PRES,Small,1,90.11627906976744,Winter
+Gates of the Arctic NP & PRES,Small,2,111.93023255813954,Winter
+Gates of the Arctic NP & PRES,Small,3,141.51162790697674,Spring
+Gates of the Arctic NP & PRES,Small,4,90.02325581395348,Spring
+Gates of the Arctic NP & PRES,Small,5,177.58139534883722,Spring
+Gates of the Arctic NP & PRES,Small,6,1604.7674418604652,Summer
+Gates of the Arctic NP & PRES,Small,7,2373.6279069767443,Summer
+Gates of the Arctic NP & PRES,Small,8,2211.2093023255816,Summer
+Gates of the Arctic NP & PRES,Small,9,533.6046511627907,Fall
+Gates of the Arctic NP & PRES,Small,10,36.76744186046512,Fall
+Gates of the Arctic NP & PRES,Small,11,77.62790697674419,Fall
+Gates of the Arctic NP & PRES,Small,12,76.0,Winter
+Gates of the Arctic NP & PRES,Medium,1,,Winter
+Gates of the Arctic NP & PRES,Medium,2,,Winter
+Gates of the Arctic NP & PRES,Medium,3,,Spring
+Gates of the Arctic NP & PRES,Medium,4,,Spring
+Gates of the Arctic NP & PRES,Medium,5,,Spring
+Gates of the Arctic NP & PRES,Medium,6,,Summer
+Gates of the Arctic NP & PRES,Medium,7,,Summer
+Gates of the Arctic NP & PRES,Medium,8,,Summer
+Gates of the Arctic NP & PRES,Medium,9,,Fall
+Gates of the Arctic NP & PRES,Medium,10,,Fall
+Gates of the Arctic NP & PRES,Medium,11,,Fall
+Gates of the Arctic NP & PRES,Medium,12,,Winter
+Gates of the Arctic NP & PRES,Large,1,,Winter
+Gates of the Arctic NP & PRES,Large,2,,Winter
+Gates of the Arctic NP & PRES,Large,3,,Spring
+Gates of the Arctic NP & PRES,Large,4,,Spring
+Gates of the Arctic NP & PRES,Large,5,,Spring
+Gates of the Arctic NP & PRES,Large,6,,Summer
+Gates of the Arctic NP & PRES,Large,7,,Summer
+Gates of the Arctic NP & PRES,Large,8,,Summer
+Gates of the Arctic NP & PRES,Large,9,,Fall
+Gates of the Arctic NP & PRES,Large,10,,Fall
+Gates of the Arctic NP & PRES,Large,11,,Fall
+Gates of the Arctic NP & PRES,Large,12,,Winter
+Gates of the Arctic NP & PRES,Extra Large,1,,Winter
+Gates of the Arctic NP & PRES,Extra Large,2,,Winter
+Gates of the Arctic NP & PRES,Extra Large,3,,Spring
+Gates of the Arctic NP & PRES,Extra Large,4,,Spring
+Gates of the Arctic NP & PRES,Extra Large,5,,Spring
+Gates of the Arctic NP & PRES,Extra Large,6,,Summer
+Gates of the Arctic NP & PRES,Extra Large,7,,Summer
+Gates of the Arctic NP & PRES,Extra Large,8,,Summer
+Gates of the Arctic NP & PRES,Extra Large,9,,Fall
+Gates of the Arctic NP & PRES,Extra Large,10,,Fall
+Gates of the Arctic NP & PRES,Extra Large,11,,Fall
+Gates of the Arctic NP & PRES,Extra Large,12,,Winter
+Gateway Arch NP,Small,1,,Winter
+Gateway Arch NP,Small,2,,Winter
+Gateway Arch NP,Small,3,,Spring
+Gateway Arch NP,Small,4,,Spring
+Gateway Arch NP,Small,5,,Spring
+Gateway Arch NP,Small,6,,Summer
+Gateway Arch NP,Small,7,,Summer
+Gateway Arch NP,Small,8,,Summer
+Gateway Arch NP,Small,9,,Fall
+Gateway Arch NP,Small,10,,Fall
+Gateway Arch NP,Small,11,,Fall
+Gateway Arch NP,Small,12,,Winter
+Gateway Arch NP,Medium,1,,Winter
+Gateway Arch NP,Medium,2,,Winter
+Gateway Arch NP,Medium,3,,Spring
+Gateway Arch NP,Medium,4,,Spring
+Gateway Arch NP,Medium,5,,Spring
+Gateway Arch NP,Medium,6,,Summer
+Gateway Arch NP,Medium,7,,Summer
+Gateway Arch NP,Medium,8,,Summer
+Gateway Arch NP,Medium,9,,Fall
+Gateway Arch NP,Medium,10,,Fall
+Gateway Arch NP,Medium,11,,Fall
+Gateway Arch NP,Medium,12,,Winter
+Gateway Arch NP,Large,1,,Winter
+Gateway Arch NP,Large,2,,Winter
+Gateway Arch NP,Large,3,,Spring
+Gateway Arch NP,Large,4,,Spring
+Gateway Arch NP,Large,5,,Spring
+Gateway Arch NP,Large,6,,Summer
+Gateway Arch NP,Large,7,,Summer
+Gateway Arch NP,Large,8,,Summer
+Gateway Arch NP,Large,9,,Fall
+Gateway Arch NP,Large,10,,Fall
+Gateway Arch NP,Large,11,,Fall
+Gateway Arch NP,Large,12,,Winter
+Gateway Arch NP,Extra Large,1,62565.065217391304,Winter
+Gateway Arch NP,Extra Large,2,74471.36956521739,Winter
+Gateway Arch NP,Extra Large,3,155336.5652173913,Spring
+Gateway Arch NP,Extra Large,4,174069.36956521738,Spring
+Gateway Arch NP,Extra Large,5,227495.0,Spring
+Gateway Arch NP,Extra Large,6,310664.02173913043,Summer
+Gateway Arch NP,Extra Large,7,708480.0,Summer
+Gateway Arch NP,Extra Large,8,349455.47826086957,Summer
+Gateway Arch NP,Extra Large,9,172097.41304347827,Fall
+Gateway Arch NP,Extra Large,10,155665.3260869565,Fall
+Gateway Arch NP,Extra Large,11,125165.19565217392,Fall
+Gateway Arch NP,Extra Large,12,86741.82608695653,Winter
+Glacier Bay NP & PRES,Small,1,,Winter
+Glacier Bay NP & PRES,Small,2,,Winter
+Glacier Bay NP & PRES,Small,3,,Spring
+Glacier Bay NP & PRES,Small,4,,Spring
+Glacier Bay NP & PRES,Small,5,,Spring
+Glacier Bay NP & PRES,Small,6,,Summer
+Glacier Bay NP & PRES,Small,7,,Summer
+Glacier Bay NP & PRES,Small,8,,Summer
+Glacier Bay NP & PRES,Small,9,,Fall
+Glacier Bay NP & PRES,Small,10,,Fall
+Glacier Bay NP & PRES,Small,11,,Fall
+Glacier Bay NP & PRES,Small,12,,Winter
+Glacier Bay NP & PRES,Medium,1,140.43478260869566,Winter
+Glacier Bay NP & PRES,Medium,2,166.82608695652175,Winter
+Glacier Bay NP & PRES,Medium,3,173.34782608695653,Spring
+Glacier Bay NP & PRES,Medium,4,731.7826086956521,Spring
+Glacier Bay NP & PRES,Medium,5,45927.02173913043,Spring
+Glacier Bay NP & PRES,Medium,6,71148.95652173914,Summer
+Glacier Bay NP & PRES,Medium,7,80255.56521739131,Summer
+Glacier Bay NP & PRES,Medium,8,79978.58695652174,Summer
+Glacier Bay NP & PRES,Medium,9,55296.913043478264,Fall
+Glacier Bay NP & PRES,Medium,10,4749.565217391304,Fall
+Glacier Bay NP & PRES,Medium,11,159.02173913043478,Fall
+Glacier Bay NP & PRES,Medium,12,133.06521739130434,Winter
+Glacier Bay NP & PRES,Large,1,,Winter
+Glacier Bay NP & PRES,Large,2,,Winter
+Glacier Bay NP & PRES,Large,3,,Spring
+Glacier Bay NP & PRES,Large,4,,Spring
+Glacier Bay NP & PRES,Large,5,,Spring
+Glacier Bay NP & PRES,Large,6,,Summer
+Glacier Bay NP & PRES,Large,7,,Summer
+Glacier Bay NP & PRES,Large,8,,Summer
+Glacier Bay NP & PRES,Large,9,,Fall
+Glacier Bay NP & PRES,Large,10,,Fall
+Glacier Bay NP & PRES,Large,11,,Fall
+Glacier Bay NP & PRES,Large,12,,Winter
+Glacier Bay NP & PRES,Extra Large,1,,Winter
+Glacier Bay NP & PRES,Extra Large,2,,Winter
+Glacier Bay NP & PRES,Extra Large,3,,Spring
+Glacier Bay NP & PRES,Extra Large,4,,Spring
+Glacier Bay NP & PRES,Extra Large,5,,Spring
+Glacier Bay NP & PRES,Extra Large,6,,Summer
+Glacier Bay NP & PRES,Extra Large,7,,Summer
+Glacier Bay NP & PRES,Extra Large,8,,Summer
+Glacier Bay NP & PRES,Extra Large,9,,Fall
+Glacier Bay NP & PRES,Extra Large,10,,Fall
+Glacier Bay NP & PRES,Extra Large,11,,Fall
+Glacier Bay NP & PRES,Extra Large,12,,Winter
+Glacier NP,Small,1,,Winter
+Glacier NP,Small,2,,Winter
+Glacier NP,Small,3,,Spring
+Glacier NP,Small,4,,Spring
+Glacier NP,Small,5,,Spring
+Glacier NP,Small,6,,Summer
+Glacier NP,Small,7,,Summer
+Glacier NP,Small,8,,Summer
+Glacier NP,Small,9,,Fall
+Glacier NP,Small,10,,Fall
+Glacier NP,Small,11,,Fall
+Glacier NP,Small,12,,Winter
+Glacier NP,Medium,1,,Winter
+Glacier NP,Medium,2,,Winter
+Glacier NP,Medium,3,,Spring
+Glacier NP,Medium,4,,Spring
+Glacier NP,Medium,5,,Spring
+Glacier NP,Medium,6,,Summer
+Glacier NP,Medium,7,,Summer
+Glacier NP,Medium,8,,Summer
+Glacier NP,Medium,9,,Fall
+Glacier NP,Medium,10,,Fall
+Glacier NP,Medium,11,,Fall
+Glacier NP,Medium,12,,Winter
+Glacier NP,Large,1,,Winter
+Glacier NP,Large,2,,Winter
+Glacier NP,Large,3,,Spring
+Glacier NP,Large,4,,Spring
+Glacier NP,Large,5,,Spring
+Glacier NP,Large,6,,Summer
+Glacier NP,Large,7,,Summer
+Glacier NP,Large,8,,Summer
+Glacier NP,Large,9,,Fall
+Glacier NP,Large,10,,Fall
+Glacier NP,Large,11,,Fall
+Glacier NP,Large,12,,Winter
+Glacier NP,Extra Large,1,9553.565217391304,Winter
+Glacier NP,Extra Large,2,10567.108695652174,Winter
+Glacier NP,Extra Large,3,15524.434782608696,Spring
+Glacier NP,Extra Large,4,29053.934782608696,Spring
+Glacier NP,Extra Large,5,109227.54347826086,Spring
+Glacier NP,Extra Large,6,336374.26086956525,Summer
+Glacier NP,Extra Large,7,616930.9347826086,Summer
+Glacier NP,Extra Large,8,565728.3913043478,Summer
+Glacier NP,Extra Large,9,309071.152173913,Fall
+Glacier NP,Extra Large,10,74774.04347826086,Fall
+Glacier NP,Extra Large,11,18769.67391304348,Fall
+Glacier NP,Extra Large,12,9733.891304347826,Winter
+Grand Canyon NP,Small,1,,Winter
+Grand Canyon NP,Small,2,,Winter
+Grand Canyon NP,Small,3,,Spring
+Grand Canyon NP,Small,4,,Spring
+Grand Canyon NP,Small,5,,Spring
+Grand Canyon NP,Small,6,,Summer
+Grand Canyon NP,Small,7,,Summer
+Grand Canyon NP,Small,8,,Summer
+Grand Canyon NP,Small,9,,Fall
+Grand Canyon NP,Small,10,,Fall
+Grand Canyon NP,Small,11,,Fall
+Grand Canyon NP,Small,12,,Winter
+Grand Canyon NP,Medium,1,,Winter
+Grand Canyon NP,Medium,2,,Winter
+Grand Canyon NP,Medium,3,,Spring
+Grand Canyon NP,Medium,4,,Spring
+Grand Canyon NP,Medium,5,,Spring
+Grand Canyon NP,Medium,6,,Summer
+Grand Canyon NP,Medium,7,,Summer
+Grand Canyon NP,Medium,8,,Summer
+Grand Canyon NP,Medium,9,,Fall
+Grand Canyon NP,Medium,10,,Fall
+Grand Canyon NP,Medium,11,,Fall
+Grand Canyon NP,Medium,12,,Winter
+Grand Canyon NP,Large,1,,Winter
+Grand Canyon NP,Large,2,,Winter
+Grand Canyon NP,Large,3,,Spring
+Grand Canyon NP,Large,4,,Spring
+Grand Canyon NP,Large,5,,Spring
+Grand Canyon NP,Large,6,,Summer
+Grand Canyon NP,Large,7,,Summer
+Grand Canyon NP,Large,8,,Summer
+Grand Canyon NP,Large,9,,Fall
+Grand Canyon NP,Large,10,,Fall
+Grand Canyon NP,Large,11,,Fall
+Grand Canyon NP,Large,12,,Winter
+Grand Canyon NP,Extra Large,1,141970.60869565216,Winter
+Grand Canyon NP,Extra Large,2,152956.4347826087,Winter
+Grand Canyon NP,Extra Large,3,306072.23913043475,Spring
+Grand Canyon NP,Extra Large,4,359137.1956521739,Spring
+Grand Canyon NP,Extra Large,5,440163.2826086957,Spring
+Grand Canyon NP,Extra Large,6,537862.0652173914,Summer
+Grand Canyon NP,Extra Large,7,618440.0652173914,Summer
+Grand Canyon NP,Extra Large,8,578359.3913043478,Summer
+Grand Canyon NP,Extra Large,9,439183.0652173913,Fall
+Grand Canyon NP,Extra Large,10,365627.02173913043,Fall
+Grand Canyon NP,Extra Large,11,228806.95652173914,Fall
+Grand Canyon NP,Extra Large,12,188188.5,Winter
+Grand Teton NP,Small,1,,Winter
+Grand Teton NP,Small,2,,Winter
+Grand Teton NP,Small,3,,Spring
+Grand Teton NP,Small,4,,Spring
+Grand Teton NP,Small,5,,Spring
+Grand Teton NP,Small,6,,Summer
+Grand Teton NP,Small,7,,Summer
+Grand Teton NP,Small,8,,Summer
+Grand Teton NP,Small,9,,Fall
+Grand Teton NP,Small,10,,Fall
+Grand Teton NP,Small,11,,Fall
+Grand Teton NP,Small,12,,Winter
+Grand Teton NP,Medium,1,,Winter
+Grand Teton NP,Medium,2,,Winter
+Grand Teton NP,Medium,3,,Spring
+Grand Teton NP,Medium,4,,Spring
+Grand Teton NP,Medium,5,,Spring
+Grand Teton NP,Medium,6,,Summer
+Grand Teton NP,Medium,7,,Summer
+Grand Teton NP,Medium,8,,Summer
+Grand Teton NP,Medium,9,,Fall
+Grand Teton NP,Medium,10,,Fall
+Grand Teton NP,Medium,11,,Fall
+Grand Teton NP,Medium,12,,Winter
+Grand Teton NP,Large,1,,Winter
+Grand Teton NP,Large,2,,Winter
+Grand Teton NP,Large,3,,Spring
+Grand Teton NP,Large,4,,Spring
+Grand Teton NP,Large,5,,Spring
+Grand Teton NP,Large,6,,Summer
+Grand Teton NP,Large,7,,Summer
+Grand Teton NP,Large,8,,Summer
+Grand Teton NP,Large,9,,Fall
+Grand Teton NP,Large,10,,Fall
+Grand Teton NP,Large,11,,Fall
+Grand Teton NP,Large,12,,Winter
+Grand Teton NP,Extra Large,1,124075.32608695653,Winter
+Grand Teton NP,Extra Large,2,120781.32608695653,Winter
+Grand Teton NP,Extra Large,3,135154.91304347827,Spring
+Grand Teton NP,Extra Large,4,120385.19565217392,Spring
+Grand Teton NP,Extra Large,5,272171.1304347826,Spring
+Grand Teton NP,Extra Large,6,574400.3260869565,Summer
+Grand Teton NP,Extra Large,7,765924.1521739131,Summer
+Grand Teton NP,Extra Large,8,712863.0869565217,Summer
+Grand Teton NP,Extra Large,9,492914.6956521739,Fall
+Grand Teton NP,Extra Large,10,236206.95652173914,Fall
+Grand Teton NP,Extra Large,11,119217.10869565218,Fall
+Grand Teton NP,Extra Large,12,125386.69565217392,Winter
+Great Basin NP,Small,1,1009.3695652173913,Winter
+Great Basin NP,Small,2,1227.695652173913,Winter
+Great Basin NP,Small,3,2688.217391304348,Spring
+Great Basin NP,Small,4,5359.978260869565,Spring
+Great Basin NP,Small,5,9682.608695652174,Spring
+Great Basin NP,Small,6,13391.58695652174,Summer
+Great Basin NP,Small,7,16710.347826086956,Summer
+Great Basin NP,Small,8,14747.347826086956,Summer
+Great Basin NP,Small,9,12629.434782608696,Fall
+Great Basin NP,Small,10,7280.195652173913,Fall
+Great Basin NP,Small,11,1877.6739130434783,Fall
+Great Basin NP,Small,12,1216.891304347826,Winter
+Great Basin NP,Medium,1,,Winter
+Great Basin NP,Medium,2,,Winter
+Great Basin NP,Medium,3,,Spring
+Great Basin NP,Medium,4,,Spring
+Great Basin NP,Medium,5,,Spring
+Great Basin NP,Medium,6,,Summer
+Great Basin NP,Medium,7,,Summer
+Great Basin NP,Medium,8,,Summer
+Great Basin NP,Medium,9,,Fall
+Great Basin NP,Medium,10,,Fall
+Great Basin NP,Medium,11,,Fall
+Great Basin NP,Medium,12,,Winter
+Great Basin NP,Large,1,,Winter
+Great Basin NP,Large,2,,Winter
+Great Basin NP,Large,3,,Spring
+Great Basin NP,Large,4,,Spring
+Great Basin NP,Large,5,,Spring
+Great Basin NP,Large,6,,Summer
+Great Basin NP,Large,7,,Summer
+Great Basin NP,Large,8,,Summer
+Great Basin NP,Large,9,,Fall
+Great Basin NP,Large,10,,Fall
+Great Basin NP,Large,11,,Fall
+Great Basin NP,Large,12,,Winter
+Great Basin NP,Extra Large,1,,Winter
+Great Basin NP,Extra Large,2,,Winter
+Great Basin NP,Extra Large,3,,Spring
+Great Basin NP,Extra Large,4,,Spring
+Great Basin NP,Extra Large,5,,Spring
+Great Basin NP,Extra Large,6,,Summer
+Great Basin NP,Extra Large,7,,Summer
+Great Basin NP,Extra Large,8,,Summer
+Great Basin NP,Extra Large,9,,Fall
+Great Basin NP,Extra Large,10,,Fall
+Great Basin NP,Extra Large,11,,Fall
+Great Basin NP,Extra Large,12,,Winter
+Great Sand Dunes NP & PRES,Small,1,,Winter
+Great Sand Dunes NP & PRES,Small,2,,Winter
+Great Sand Dunes NP & PRES,Small,3,,Spring
+Great Sand Dunes NP & PRES,Small,4,,Spring
+Great Sand Dunes NP & PRES,Small,5,,Spring
+Great Sand Dunes NP & PRES,Small,6,,Summer
+Great Sand Dunes NP & PRES,Small,7,,Summer
+Great Sand Dunes NP & PRES,Small,8,,Summer
+Great Sand Dunes NP & PRES,Small,9,,Fall
+Great Sand Dunes NP & PRES,Small,10,,Fall
+Great Sand Dunes NP & PRES,Small,11,,Fall
+Great Sand Dunes NP & PRES,Small,12,,Winter
+Great Sand Dunes NP & PRES,Medium,1,2650.217391304348,Winter
+Great Sand Dunes NP & PRES,Medium,2,3376.978260869565,Winter
+Great Sand Dunes NP & PRES,Medium,3,11463.673913043478,Spring
+Great Sand Dunes NP & PRES,Medium,4,11767.869565217392,Spring
+Great Sand Dunes NP & PRES,Medium,5,38838.717391304344,Spring
+Great Sand Dunes NP & PRES,Medium,6,57323.15217391304,Summer
+Great Sand Dunes NP & PRES,Medium,7,62530.19565217391,Summer
+Great Sand Dunes NP & PRES,Medium,8,52700.913043478264,Summer
+Great Sand Dunes NP & PRES,Medium,9,31233.717391304348,Fall
+Great Sand Dunes NP & PRES,Medium,10,18198.58695652174,Fall
+Great Sand Dunes NP & PRES,Medium,11,6003.369565217391,Fall
+Great Sand Dunes NP & PRES,Medium,12,3351.413043478261,Winter
+Great Sand Dunes NP & PRES,Large,1,,Winter
+Great Sand Dunes NP & PRES,Large,2,,Winter
+Great Sand Dunes NP & PRES,Large,3,,Spring
+Great Sand Dunes NP & PRES,Large,4,,Spring
+Great Sand Dunes NP & PRES,Large,5,,Spring
+Great Sand Dunes NP & PRES,Large,6,,Summer
+Great Sand Dunes NP & PRES,Large,7,,Summer
+Great Sand Dunes NP & PRES,Large,8,,Summer
+Great Sand Dunes NP & PRES,Large,9,,Fall
+Great Sand Dunes NP & PRES,Large,10,,Fall
+Great Sand Dunes NP & PRES,Large,11,,Fall
+Great Sand Dunes NP & PRES,Large,12,,Winter
+Great Sand Dunes NP & PRES,Extra Large,1,,Winter
+Great Sand Dunes NP & PRES,Extra Large,2,,Winter
+Great Sand Dunes NP & PRES,Extra Large,3,,Spring
+Great Sand Dunes NP & PRES,Extra Large,4,,Spring
+Great Sand Dunes NP & PRES,Extra Large,5,,Spring
+Great Sand Dunes NP & PRES,Extra Large,6,,Summer
+Great Sand Dunes NP & PRES,Extra Large,7,,Summer
+Great Sand Dunes NP & PRES,Extra Large,8,,Summer
+Great Sand Dunes NP & PRES,Extra Large,9,,Fall
+Great Sand Dunes NP & PRES,Extra Large,10,,Fall
+Great Sand Dunes NP & PRES,Extra Large,11,,Fall
+Great Sand Dunes NP & PRES,Extra Large,12,,Winter
+Great Smoky Mountains NP,Small,1,,Winter
+Great Smoky Mountains NP,Small,2,,Winter
+Great Smoky Mountains NP,Small,3,,Spring
+Great Smoky Mountains NP,Small,4,,Spring
+Great Smoky Mountains NP,Small,5,,Spring
+Great Smoky Mountains NP,Small,6,,Summer
+Great Smoky Mountains NP,Small,7,,Summer
+Great Smoky Mountains NP,Small,8,,Summer
+Great Smoky Mountains NP,Small,9,,Fall
+Great Smoky Mountains NP,Small,10,,Fall
+Great Smoky Mountains NP,Small,11,,Fall
+Great Smoky Mountains NP,Small,12,,Winter
+Great Smoky Mountains NP,Medium,1,,Winter
+Great Smoky Mountains NP,Medium,2,,Winter
+Great Smoky Mountains NP,Medium,3,,Spring
+Great Smoky Mountains NP,Medium,4,,Spring
+Great Smoky Mountains NP,Medium,5,,Spring
+Great Smoky Mountains NP,Medium,6,,Summer
+Great Smoky Mountains NP,Medium,7,,Summer
+Great Smoky Mountains NP,Medium,8,,Summer
+Great Smoky Mountains NP,Medium,9,,Fall
+Great Smoky Mountains NP,Medium,10,,Fall
+Great Smoky Mountains NP,Medium,11,,Fall
+Great Smoky Mountains NP,Medium,12,,Winter
+Great Smoky Mountains NP,Large,1,,Winter
+Great Smoky Mountains NP,Large,2,,Winter
+Great Smoky Mountains NP,Large,3,,Spring
+Great Smoky Mountains NP,Large,4,,Spring
+Great Smoky Mountains NP,Large,5,,Spring
+Great Smoky Mountains NP,Large,6,,Summer
+Great Smoky Mountains NP,Large,7,,Summer
+Great Smoky Mountains NP,Large,8,,Summer
+Great Smoky Mountains NP,Large,9,,Fall
+Great Smoky Mountains NP,Large,10,,Fall
+Great Smoky Mountains NP,Large,11,,Fall
+Great Smoky Mountains NP,Large,12,,Winter
+Great Smoky Mountains NP,Extra Large,1,841778.8478260869,Winter
+Great Smoky Mountains NP,Extra Large,2,887376.2173913043,Winter
+Great Smoky Mountains NP,Extra Large,3,1210396.0,Spring
+Great Smoky Mountains NP,Extra Large,4,1459743.347826087,Spring
+Great Smoky Mountains NP,Extra Large,5,1612196.847826087,Spring
+Great Smoky Mountains NP,Extra Large,6,2126693.2391304346,Summer
+Great Smoky Mountains NP,Extra Large,7,2520307.347826087,Summer
+Great Smoky Mountains NP,Extra Large,8,2123086.4782608696,Summer
+Great Smoky Mountains NP,Extra Large,9,1853024.847826087,Fall
+Great Smoky Mountains NP,Extra Large,10,2259447.195652174,Fall
+Great Smoky Mountains NP,Extra Large,11,1467181.6739130435,Fall
+Great Smoky Mountains NP,Extra Large,12,1108509.0,Winter
+Guadalupe Mountains NP,Small,1,8834.54347826087,Winter
+Guadalupe Mountains NP,Small,2,10745.130434782608,Winter
+Guadalupe Mountains NP,Small,3,22900.260869565216,Spring
+Guadalupe Mountains NP,Small,4,18073.956521739132,Spring
+Guadalupe Mountains NP,Small,5,17487.869565217392,Spring
+Guadalupe Mountains NP,Small,6,15464.434782608696,Summer
+Guadalupe Mountains NP,Small,7,15940.565217391304,Summer
+Guadalupe Mountains NP,Small,8,14333.04347826087,Summer
+Guadalupe Mountains NP,Small,9,12466.130434782608,Fall
+Guadalupe Mountains NP,Small,10,19161.67391304348,Fall
+Guadalupe Mountains NP,Small,11,16232.239130434782,Fall
+Guadalupe Mountains NP,Small,12,10823.95652173913,Winter
+Guadalupe Mountains NP,Medium,1,,Winter
+Guadalupe Mountains NP,Medium,2,,Winter
+Guadalupe Mountains NP,Medium,3,,Spring
+Guadalupe Mountains NP,Medium,4,,Spring
+Guadalupe Mountains NP,Medium,5,,Spring
+Guadalupe Mountains NP,Medium,6,,Summer
+Guadalupe Mountains NP,Medium,7,,Summer
+Guadalupe Mountains NP,Medium,8,,Summer
+Guadalupe Mountains NP,Medium,9,,Fall
+Guadalupe Mountains NP,Medium,10,,Fall
+Guadalupe Mountains NP,Medium,11,,Fall
+Guadalupe Mountains NP,Medium,12,,Winter
+Guadalupe Mountains NP,Large,1,,Winter
+Guadalupe Mountains NP,Large,2,,Winter
+Guadalupe Mountains NP,Large,3,,Spring
+Guadalupe Mountains NP,Large,4,,Spring
+Guadalupe Mountains NP,Large,5,,Spring
+Guadalupe Mountains NP,Large,6,,Summer
+Guadalupe Mountains NP,Large,7,,Summer
+Guadalupe Mountains NP,Large,8,,Summer
+Guadalupe Mountains NP,Large,9,,Fall
+Guadalupe Mountains NP,Large,10,,Fall
+Guadalupe Mountains NP,Large,11,,Fall
+Guadalupe Mountains NP,Large,12,,Winter
+Guadalupe Mountains NP,Extra Large,1,,Winter
+Guadalupe Mountains NP,Extra Large,2,,Winter
+Guadalupe Mountains NP,Extra Large,3,,Spring
+Guadalupe Mountains NP,Extra Large,4,,Spring
+Guadalupe Mountains NP,Extra Large,5,,Spring
+Guadalupe Mountains NP,Extra Large,6,,Summer
+Guadalupe Mountains NP,Extra Large,7,,Summer
+Guadalupe Mountains NP,Extra Large,8,,Summer
+Guadalupe Mountains NP,Extra Large,9,,Fall
+Guadalupe Mountains NP,Extra Large,10,,Fall
+Guadalupe Mountains NP,Extra Large,11,,Fall
+Guadalupe Mountains NP,Extra Large,12,,Winter
+Haleakala NP,Small,1,,Winter
+Haleakala NP,Small,2,,Winter
+Haleakala NP,Small,3,,Spring
+Haleakala NP,Small,4,,Spring
+Haleakala NP,Small,5,,Spring
+Haleakala NP,Small,6,,Summer
+Haleakala NP,Small,7,,Summer
+Haleakala NP,Small,8,,Summer
+Haleakala NP,Small,9,,Fall
+Haleakala NP,Small,10,,Fall
+Haleakala NP,Small,11,,Fall
+Haleakala NP,Small,12,,Winter
+Haleakala NP,Medium,1,,Winter
+Haleakala NP,Medium,2,,Winter
+Haleakala NP,Medium,3,,Spring
+Haleakala NP,Medium,4,,Spring
+Haleakala NP,Medium,5,,Spring
+Haleakala NP,Medium,6,,Summer
+Haleakala NP,Medium,7,,Summer
+Haleakala NP,Medium,8,,Summer
+Haleakala NP,Medium,9,,Fall
+Haleakala NP,Medium,10,,Fall
+Haleakala NP,Medium,11,,Fall
+Haleakala NP,Medium,12,,Winter
+Haleakala NP,Large,1,91373.69565217392,Winter
+Haleakala NP,Large,2,92442.97826086957,Winter
+Haleakala NP,Large,3,96132.58695652174,Spring
+Haleakala NP,Large,4,96820.86956521739,Spring
+Haleakala NP,Large,5,103550.06521739131,Spring
+Haleakala NP,Large,6,106654.41304347826,Summer
+Haleakala NP,Large,7,119258.80434782608,Summer
+Haleakala NP,Large,8,114367.95652173914,Summer
+Haleakala NP,Large,9,100111.95652173914,Fall
+Haleakala NP,Large,10,98457.93478260869,Fall
+Haleakala NP,Large,11,93575.06521739131,Fall
+Haleakala NP,Large,12,92895.58695652174,Winter
+Haleakala NP,Extra Large,1,,Winter
+Haleakala NP,Extra Large,2,,Winter
+Haleakala NP,Extra Large,3,,Spring
+Haleakala NP,Extra Large,4,,Spring
+Haleakala NP,Extra Large,5,,Spring
+Haleakala NP,Extra Large,6,,Summer
+Haleakala NP,Extra Large,7,,Summer
+Haleakala NP,Extra Large,8,,Summer
+Haleakala NP,Extra Large,9,,Fall
+Haleakala NP,Extra Large,10,,Fall
+Haleakala NP,Extra Large,11,,Fall
+Haleakala NP,Extra Large,12,,Winter
+Hawaii Volcanoes NP,Small,1,,Winter
+Hawaii Volcanoes NP,Small,2,,Winter
+Hawaii Volcanoes NP,Small,3,,Spring
+Hawaii Volcanoes NP,Small,4,,Spring
+Hawaii Volcanoes NP,Small,5,,Spring
+Hawaii Volcanoes NP,Small,6,,Summer
+Hawaii Volcanoes NP,Small,7,,Summer
+Hawaii Volcanoes NP,Small,8,,Summer
+Hawaii Volcanoes NP,Small,9,,Fall
+Hawaii Volcanoes NP,Small,10,,Fall
+Hawaii Volcanoes NP,Small,11,,Fall
+Hawaii Volcanoes NP,Small,12,,Winter
+Hawaii Volcanoes NP,Medium,1,,Winter
+Hawaii Volcanoes NP,Medium,2,,Winter
+Hawaii Volcanoes NP,Medium,3,,Spring
+Hawaii Volcanoes NP,Medium,4,,Spring
+Hawaii Volcanoes NP,Medium,5,,Spring
+Hawaii Volcanoes NP,Medium,6,,Summer
+Hawaii Volcanoes NP,Medium,7,,Summer
+Hawaii Volcanoes NP,Medium,8,,Summer
+Hawaii Volcanoes NP,Medium,9,,Fall
+Hawaii Volcanoes NP,Medium,10,,Fall
+Hawaii Volcanoes NP,Medium,11,,Fall
+Hawaii Volcanoes NP,Medium,12,,Winter
+Hawaii Volcanoes NP,Large,1,,Winter
+Hawaii Volcanoes NP,Large,2,,Winter
+Hawaii Volcanoes NP,Large,3,,Spring
+Hawaii Volcanoes NP,Large,4,,Spring
+Hawaii Volcanoes NP,Large,5,,Spring
+Hawaii Volcanoes NP,Large,6,,Summer
+Hawaii Volcanoes NP,Large,7,,Summer
+Hawaii Volcanoes NP,Large,8,,Summer
+Hawaii Volcanoes NP,Large,9,,Fall
+Hawaii Volcanoes NP,Large,10,,Fall
+Hawaii Volcanoes NP,Large,11,,Fall
+Hawaii Volcanoes NP,Large,12,,Winter
+Hawaii Volcanoes NP,Extra Large,1,229980.5,Winter
+Hawaii Volcanoes NP,Extra Large,2,229943.54347826086,Winter
+Hawaii Volcanoes NP,Extra Large,3,227897.80434782608,Spring
+Hawaii Volcanoes NP,Extra Large,4,217202.04347826086,Spring
+Hawaii Volcanoes NP,Extra Large,5,218663.78260869565,Spring
+Hawaii Volcanoes NP,Extra Large,6,236476.84782608695,Summer
+Hawaii Volcanoes NP,Extra Large,7,258716.89130434784,Summer
+Hawaii Volcanoes NP,Extra Large,8,270376.3043478261,Summer
+Hawaii Volcanoes NP,Extra Large,9,221896.76086956522,Fall
+Hawaii Volcanoes NP,Extra Large,10,223652.54347826086,Fall
+Hawaii Volcanoes NP,Extra Large,11,219156.73913043478,Fall
+Hawaii Volcanoes NP,Extra Large,12,229246.73913043478,Winter
+Hot Springs NP,Small,1,,Winter
+Hot Springs NP,Small,2,,Winter
+Hot Springs NP,Small,3,,Spring
+Hot Springs NP,Small,4,,Spring
+Hot Springs NP,Small,5,,Spring
+Hot Springs NP,Small,6,,Summer
+Hot Springs NP,Small,7,,Summer
+Hot Springs NP,Small,8,,Summer
+Hot Springs NP,Small,9,,Fall
+Hot Springs NP,Small,10,,Fall
+Hot Springs NP,Small,11,,Fall
+Hot Springs NP,Small,12,,Winter
+Hot Springs NP,Medium,1,,Winter
+Hot Springs NP,Medium,2,,Winter
+Hot Springs NP,Medium,3,,Spring
+Hot Springs NP,Medium,4,,Spring
+Hot Springs NP,Medium,5,,Spring
+Hot Springs NP,Medium,6,,Summer
+Hot Springs NP,Medium,7,,Summer
+Hot Springs NP,Medium,8,,Summer
+Hot Springs NP,Medium,9,,Fall
+Hot Springs NP,Medium,10,,Fall
+Hot Springs NP,Medium,11,,Fall
+Hot Springs NP,Medium,12,,Winter
+Hot Springs NP,Large,1,,Winter
+Hot Springs NP,Large,2,,Winter
+Hot Springs NP,Large,3,,Spring
+Hot Springs NP,Large,4,,Spring
+Hot Springs NP,Large,5,,Spring
+Hot Springs NP,Large,6,,Summer
+Hot Springs NP,Large,7,,Summer
+Hot Springs NP,Large,8,,Summer
+Hot Springs NP,Large,9,,Fall
+Hot Springs NP,Large,10,,Fall
+Hot Springs NP,Large,11,,Fall
+Hot Springs NP,Large,12,,Winter
+Hot Springs NP,Extra Large,1,242839.71739130435,Winter
+Hot Springs NP,Extra Large,2,263965.4130434783,Winter
+Hot Springs NP,Extra Large,3,340668.5652173913,Spring
+Hot Springs NP,Extra Large,4,344856.5652173913,Spring
+Hot Springs NP,Extra Large,5,358749.39130434784,Spring
+Hot Springs NP,Extra Large,6,405340.3695652174,Summer
+Hot Springs NP,Extra Large,7,405596.5652173913,Summer
+Hot Springs NP,Extra Large,8,376480.45652173914,Summer
+Hot Springs NP,Extra Large,9,338236.2173913043,Fall
+Hot Springs NP,Extra Large,10,342116.652173913,Fall
+Hot Springs NP,Extra Large,11,287964.9347826087,Fall
+Hot Springs NP,Extra Large,12,255823.1739130435,Winter
+Indiana Dunes NP,Small,1,,Winter
+Indiana Dunes NP,Small,2,,Winter
+Indiana Dunes NP,Small,3,,Spring
+Indiana Dunes NP,Small,4,,Spring
+Indiana Dunes NP,Small,5,,Spring
+Indiana Dunes NP,Small,6,,Summer
+Indiana Dunes NP,Small,7,,Summer
+Indiana Dunes NP,Small,8,,Summer
+Indiana Dunes NP,Small,9,,Fall
+Indiana Dunes NP,Small,10,,Fall
+Indiana Dunes NP,Small,11,,Fall
+Indiana Dunes NP,Small,12,,Winter
+Indiana Dunes NP,Medium,1,,Winter
+Indiana Dunes NP,Medium,2,,Winter
+Indiana Dunes NP,Medium,3,,Spring
+Indiana Dunes NP,Medium,4,,Spring
+Indiana Dunes NP,Medium,5,,Spring
+Indiana Dunes NP,Medium,6,,Summer
+Indiana Dunes NP,Medium,7,,Summer
+Indiana Dunes NP,Medium,8,,Summer
+Indiana Dunes NP,Medium,9,,Fall
+Indiana Dunes NP,Medium,10,,Fall
+Indiana Dunes NP,Medium,11,,Fall
+Indiana Dunes NP,Medium,12,,Winter
+Indiana Dunes NP,Large,1,,Winter
+Indiana Dunes NP,Large,2,,Winter
+Indiana Dunes NP,Large,3,,Spring
+Indiana Dunes NP,Large,4,,Spring
+Indiana Dunes NP,Large,5,,Spring
+Indiana Dunes NP,Large,6,,Summer
+Indiana Dunes NP,Large,7,,Summer
+Indiana Dunes NP,Large,8,,Summer
+Indiana Dunes NP,Large,9,,Fall
+Indiana Dunes NP,Large,10,,Fall
+Indiana Dunes NP,Large,11,,Fall
+Indiana Dunes NP,Large,12,,Winter
+Indiana Dunes NP,Extra Large,1,67715.47826086957,Winter
+Indiana Dunes NP,Extra Large,2,71792.56521739131,Winter
+Indiana Dunes NP,Extra Large,3,104795.86956521739,Spring
+Indiana Dunes NP,Extra Large,4,125271.10869565218,Spring
+Indiana Dunes NP,Extra Large,5,194662.4347826087,Spring
+Indiana Dunes NP,Extra Large,6,286475.9130434783,Summer
+Indiana Dunes NP,Extra Large,7,360484.0,Summer
+Indiana Dunes NP,Extra Large,8,302575.89130434784,Summer
+Indiana Dunes NP,Extra Large,9,194861.47826086957,Fall
+Indiana Dunes NP,Extra Large,10,153278.36956521738,Fall
+Indiana Dunes NP,Extra Large,11,92174.73913043478,Fall
+Indiana Dunes NP,Extra Large,12,65269.45652173913,Winter
+Isle Royale NP,Small,1,30.956521739130434,Winter
+Isle Royale NP,Small,2,41.30434782608695,Winter
+Isle Royale NP,Small,3,82.54347826086956,Spring
+Isle Royale NP,Small,4,111.52173913043478,Spring
+Isle Royale NP,Small,5,821.0652173913044,Spring
+Isle Royale NP,Small,6,3401.2391304347825,Summer
+Isle Royale NP,Small,7,6579.934782608696,Summer
+Isle Royale NP,Small,8,7224.978260869565,Summer
+Isle Royale NP,Small,9,1914.6521739130435,Fall
+Isle Royale NP,Small,10,205.06521739130434,Fall
+Isle Royale NP,Small,11,32.21739130434783,Fall
+Isle Royale NP,Small,12,118.5,Winter
+Isle Royale NP,Medium,1,,Winter
+Isle Royale NP,Medium,2,,Winter
+Isle Royale NP,Medium,3,,Spring
+Isle Royale NP,Medium,4,,Spring
+Isle Royale NP,Medium,5,,Spring
+Isle Royale NP,Medium,6,,Summer
+Isle Royale NP,Medium,7,,Summer
+Isle Royale NP,Medium,8,,Summer
+Isle Royale NP,Medium,9,,Fall
+Isle Royale NP,Medium,10,,Fall
+Isle Royale NP,Medium,11,,Fall
+Isle Royale NP,Medium,12,,Winter
+Isle Royale NP,Large,1,,Winter
+Isle Royale NP,Large,2,,Winter
+Isle Royale NP,Large,3,,Spring
+Isle Royale NP,Large,4,,Spring
+Isle Royale NP,Large,5,,Spring
+Isle Royale NP,Large,6,,Summer
+Isle Royale NP,Large,7,,Summer
+Isle Royale NP,Large,8,,Summer
+Isle Royale NP,Large,9,,Fall
+Isle Royale NP,Large,10,,Fall
+Isle Royale NP,Large,11,,Fall
+Isle Royale NP,Large,12,,Winter
+Isle Royale NP,Extra Large,1,,Winter
+Isle Royale NP,Extra Large,2,,Winter
+Isle Royale NP,Extra Large,3,,Spring
+Isle Royale NP,Extra Large,4,,Spring
+Isle Royale NP,Extra Large,5,,Spring
+Isle Royale NP,Extra Large,6,,Summer
+Isle Royale NP,Extra Large,7,,Summer
+Isle Royale NP,Extra Large,8,,Summer
+Isle Royale NP,Extra Large,9,,Fall
+Isle Royale NP,Extra Large,10,,Fall
+Isle Royale NP,Extra Large,11,,Fall
+Isle Royale NP,Extra Large,12,,Winter
+Joshua Tree NP,Small,1,,Winter
+Joshua Tree NP,Small,2,,Winter
+Joshua Tree NP,Small,3,,Spring
+Joshua Tree NP,Small,4,,Spring
+Joshua Tree NP,Small,5,,Spring
+Joshua Tree NP,Small,6,,Summer
+Joshua Tree NP,Small,7,,Summer
+Joshua Tree NP,Small,8,,Summer
+Joshua Tree NP,Small,9,,Fall
+Joshua Tree NP,Small,10,,Fall
+Joshua Tree NP,Small,11,,Fall
+Joshua Tree NP,Small,12,,Winter
+Joshua Tree NP,Medium,1,,Winter
+Joshua Tree NP,Medium,2,,Winter
+Joshua Tree NP,Medium,3,,Spring
+Joshua Tree NP,Medium,4,,Spring
+Joshua Tree NP,Medium,5,,Spring
+Joshua Tree NP,Medium,6,,Summer
+Joshua Tree NP,Medium,7,,Summer
+Joshua Tree NP,Medium,8,,Summer
+Joshua Tree NP,Medium,9,,Fall
+Joshua Tree NP,Medium,10,,Fall
+Joshua Tree NP,Medium,11,,Fall
+Joshua Tree NP,Medium,12,,Winter
+Joshua Tree NP,Large,1,118040.36956521739,Winter
+Joshua Tree NP,Large,2,136107.34782608695,Winter
+Joshua Tree NP,Large,3,202346.89130434784,Spring
+Joshua Tree NP,Large,4,195272.89130434784,Spring
+Joshua Tree NP,Large,5,130751.10869565218,Spring
+Joshua Tree NP,Large,6,79932.52173913043,Summer
+Joshua Tree NP,Large,7,71208.19565217392,Summer
+Joshua Tree NP,Large,8,73326.71739130435,Summer
+Joshua Tree NP,Large,9,84859.80434782608,Fall
+Joshua Tree NP,Large,10,115714.58695652174,Fall
+Joshua Tree NP,Large,11,147657.0,Fall
+Joshua Tree NP,Large,12,133227.9347826087,Winter
+Joshua Tree NP,Extra Large,1,,Winter
+Joshua Tree NP,Extra Large,2,,Winter
+Joshua Tree NP,Extra Large,3,,Spring
+Joshua Tree NP,Extra Large,4,,Spring
+Joshua Tree NP,Extra Large,5,,Spring
+Joshua Tree NP,Extra Large,6,,Summer
+Joshua Tree NP,Extra Large,7,,Summer
+Joshua Tree NP,Extra Large,8,,Summer
+Joshua Tree NP,Extra Large,9,,Fall
+Joshua Tree NP,Extra Large,10,,Fall
+Joshua Tree NP,Extra Large,11,,Fall
+Joshua Tree NP,Extra Large,12,,Winter
+Katmai NP & PRES,Small,1,207.64444444444445,Winter
+Katmai NP & PRES,Small,2,229.22222222222223,Winter
+Katmai NP & PRES,Small,3,566.4666666666667,Spring
+Katmai NP & PRES,Small,4,487.31111111111113,Spring
+Katmai NP & PRES,Small,5,671.5555555555555,Spring
+Katmai NP & PRES,Small,6,6217.222222222223,Summer
+Katmai NP & PRES,Small,7,15351.91111111111,Summer
+Katmai NP & PRES,Small,8,10308.777777777777,Summer
+Katmai NP & PRES,Small,9,5983.155555555555,Fall
+Katmai NP & PRES,Small,10,530.6888888888889,Fall
+Katmai NP & PRES,Small,11,261.46666666666664,Fall
+Katmai NP & PRES,Small,12,355.1777777777778,Winter
+Katmai NP & PRES,Medium,1,,Winter
+Katmai NP & PRES,Medium,2,,Winter
+Katmai NP & PRES,Medium,3,,Spring
+Katmai NP & PRES,Medium,4,,Spring
+Katmai NP & PRES,Medium,5,,Spring
+Katmai NP & PRES,Medium,6,,Summer
+Katmai NP & PRES,Medium,7,,Summer
+Katmai NP & PRES,Medium,8,,Summer
+Katmai NP & PRES,Medium,9,,Fall
+Katmai NP & PRES,Medium,10,,Fall
+Katmai NP & PRES,Medium,11,,Fall
+Katmai NP & PRES,Medium,12,,Winter
+Katmai NP & PRES,Large,1,,Winter
+Katmai NP & PRES,Large,2,,Winter
+Katmai NP & PRES,Large,3,,Spring
+Katmai NP & PRES,Large,4,,Spring
+Katmai NP & PRES,Large,5,,Spring
+Katmai NP & PRES,Large,6,,Summer
+Katmai NP & PRES,Large,7,,Summer
+Katmai NP & PRES,Large,8,,Summer
+Katmai NP & PRES,Large,9,,Fall
+Katmai NP & PRES,Large,10,,Fall
+Katmai NP & PRES,Large,11,,Fall
+Katmai NP & PRES,Large,12,,Winter
+Katmai NP & PRES,Extra Large,1,,Winter
+Katmai NP & PRES,Extra Large,2,,Winter
+Katmai NP & PRES,Extra Large,3,,Spring
+Katmai NP & PRES,Extra Large,4,,Spring
+Katmai NP & PRES,Extra Large,5,,Spring
+Katmai NP & PRES,Extra Large,6,,Summer
+Katmai NP & PRES,Extra Large,7,,Summer
+Katmai NP & PRES,Extra Large,8,,Summer
+Katmai NP & PRES,Extra Large,9,,Fall
+Katmai NP & PRES,Extra Large,10,,Fall
+Katmai NP & PRES,Extra Large,11,,Fall
+Katmai NP & PRES,Extra Large,12,,Winter
+Kenai Fjords NP,Small,1,126.51162790697674,Winter
+Kenai Fjords NP,Small,2,128.62790697674419,Winter
+Kenai Fjords NP,Small,3,242.86046511627907,Spring
+Kenai Fjords NP,Small,4,596.953488372093,Spring
+Kenai Fjords NP,Small,5,15746.906976744185,Spring
+Kenai Fjords NP,Small,6,52418.3023255814,Summer
+Kenai Fjords NP,Small,7,69465.02325581395,Summer
+Kenai Fjords NP,Small,8,57222.395348837206,Summer
+Kenai Fjords NP,Small,9,27809.06976744186,Fall
+Kenai Fjords NP,Small,10,3353.279069767442,Fall
+Kenai Fjords NP,Small,11,311.93023255813955,Fall
+Kenai Fjords NP,Small,12,200.11627906976744,Winter
+Kenai Fjords NP,Medium,1,,Winter
+Kenai Fjords NP,Medium,2,,Winter
+Kenai Fjords NP,Medium,3,,Spring
+Kenai Fjords NP,Medium,4,,Spring
+Kenai Fjords NP,Medium,5,,Spring
+Kenai Fjords NP,Medium,6,,Summer
+Kenai Fjords NP,Medium,7,,Summer
+Kenai Fjords NP,Medium,8,,Summer
+Kenai Fjords NP,Medium,9,,Fall
+Kenai Fjords NP,Medium,10,,Fall
+Kenai Fjords NP,Medium,11,,Fall
+Kenai Fjords NP,Medium,12,,Winter
+Kenai Fjords NP,Large,1,,Winter
+Kenai Fjords NP,Large,2,,Winter
+Kenai Fjords NP,Large,3,,Spring
+Kenai Fjords NP,Large,4,,Spring
+Kenai Fjords NP,Large,5,,Spring
+Kenai Fjords NP,Large,6,,Summer
+Kenai Fjords NP,Large,7,,Summer
+Kenai Fjords NP,Large,8,,Summer
+Kenai Fjords NP,Large,9,,Fall
+Kenai Fjords NP,Large,10,,Fall
+Kenai Fjords NP,Large,11,,Fall
+Kenai Fjords NP,Large,12,,Winter
+Kenai Fjords NP,Extra Large,1,,Winter
+Kenai Fjords NP,Extra Large,2,,Winter
+Kenai Fjords NP,Extra Large,3,,Spring
+Kenai Fjords NP,Extra Large,4,,Spring
+Kenai Fjords NP,Extra Large,5,,Spring
+Kenai Fjords NP,Extra Large,6,,Summer
+Kenai Fjords NP,Extra Large,7,,Summer
+Kenai Fjords NP,Extra Large,8,,Summer
+Kenai Fjords NP,Extra Large,9,,Fall
+Kenai Fjords NP,Extra Large,10,,Fall
+Kenai Fjords NP,Extra Large,11,,Fall
+Kenai Fjords NP,Extra Large,12,,Winter
+Kings Canyon NP,Small,1,,Winter
+Kings Canyon NP,Small,2,,Winter
+Kings Canyon NP,Small,3,,Spring
+Kings Canyon NP,Small,4,,Spring
+Kings Canyon NP,Small,5,,Spring
+Kings Canyon NP,Small,6,,Summer
+Kings Canyon NP,Small,7,,Summer
+Kings Canyon NP,Small,8,,Summer
+Kings Canyon NP,Small,9,,Fall
+Kings Canyon NP,Small,10,,Fall
+Kings Canyon NP,Small,11,,Fall
+Kings Canyon NP,Small,12,,Winter
+Kings Canyon NP,Medium,1,22260.91304347826,Winter
+Kings Canyon NP,Medium,2,19377.391304347828,Winter
+Kings Canyon NP,Medium,3,22909.391304347828,Spring
+Kings Canyon NP,Medium,4,35165.282608695656,Spring
+Kings Canyon NP,Medium,5,71107.60869565218,Spring
+Kings Canyon NP,Medium,6,94030.23913043478,Summer
+Kings Canyon NP,Medium,7,126495.67391304347,Summer
+Kings Canyon NP,Medium,8,120986.73913043478,Summer
+Kings Canyon NP,Medium,9,83408.08695652174,Fall
+Kings Canyon NP,Medium,10,57343.891304347824,Fall
+Kings Canyon NP,Medium,11,27976.847826086956,Fall
+Kings Canyon NP,Medium,12,20916.304347826088,Winter
+Kings Canyon NP,Large,1,,Winter
+Kings Canyon NP,Large,2,,Winter
+Kings Canyon NP,Large,3,,Spring
+Kings Canyon NP,Large,4,,Spring
+Kings Canyon NP,Large,5,,Spring
+Kings Canyon NP,Large,6,,Summer
+Kings Canyon NP,Large,7,,Summer
+Kings Canyon NP,Large,8,,Summer
+Kings Canyon NP,Large,9,,Fall
+Kings Canyon NP,Large,10,,Fall
+Kings Canyon NP,Large,11,,Fall
+Kings Canyon NP,Large,12,,Winter
+Kings Canyon NP,Extra Large,1,,Winter
+Kings Canyon NP,Extra Large,2,,Winter
+Kings Canyon NP,Extra Large,3,,Spring
+Kings Canyon NP,Extra Large,4,,Spring
+Kings Canyon NP,Extra Large,5,,Spring
+Kings Canyon NP,Extra Large,6,,Summer
+Kings Canyon NP,Extra Large,7,,Summer
+Kings Canyon NP,Extra Large,8,,Summer
+Kings Canyon NP,Extra Large,9,,Fall
+Kings Canyon NP,Extra Large,10,,Fall
+Kings Canyon NP,Extra Large,11,,Fall
+Kings Canyon NP,Extra Large,12,,Winter
+Kobuk Valley NP,Small,1,682.9767441860465,Winter
+Kobuk Valley NP,Small,2,539.5813953488372,Winter
+Kobuk Valley NP,Small,3,671.0,Spring
+Kobuk Valley NP,Small,4,777.5813953488372,Spring
+Kobuk Valley NP,Small,5,829.0232558139535,Spring
+Kobuk Valley NP,Small,6,1088.3255813953488,Summer
+Kobuk Valley NP,Small,7,1351.0697674418604,Summer
+Kobuk Valley NP,Small,8,1518.3255813953488,Summer
+Kobuk Valley NP,Small,9,1645.9302325581396,Fall
+Kobuk Valley NP,Small,10,1019.3953488372093,Fall
+Kobuk Valley NP,Small,11,918.6976744186046,Fall
+Kobuk Valley NP,Small,12,829.4186046511628,Winter
+Kobuk Valley NP,Medium,1,,Winter
+Kobuk Valley NP,Medium,2,,Winter
+Kobuk Valley NP,Medium,3,,Spring
+Kobuk Valley NP,Medium,4,,Spring
+Kobuk Valley NP,Medium,5,,Spring
+Kobuk Valley NP,Medium,6,,Summer
+Kobuk Valley NP,Medium,7,,Summer
+Kobuk Valley NP,Medium,8,,Summer
+Kobuk Valley NP,Medium,9,,Fall
+Kobuk Valley NP,Medium,10,,Fall
+Kobuk Valley NP,Medium,11,,Fall
+Kobuk Valley NP,Medium,12,,Winter
+Kobuk Valley NP,Large,1,,Winter
+Kobuk Valley NP,Large,2,,Winter
+Kobuk Valley NP,Large,3,,Spring
+Kobuk Valley NP,Large,4,,Spring
+Kobuk Valley NP,Large,5,,Spring
+Kobuk Valley NP,Large,6,,Summer
+Kobuk Valley NP,Large,7,,Summer
+Kobuk Valley NP,Large,8,,Summer
+Kobuk Valley NP,Large,9,,Fall
+Kobuk Valley NP,Large,10,,Fall
+Kobuk Valley NP,Large,11,,Fall
+Kobuk Valley NP,Large,12,,Winter
+Kobuk Valley NP,Extra Large,1,,Winter
+Kobuk Valley NP,Extra Large,2,,Winter
+Kobuk Valley NP,Extra Large,3,,Spring
+Kobuk Valley NP,Extra Large,4,,Spring
+Kobuk Valley NP,Extra Large,5,,Spring
+Kobuk Valley NP,Extra Large,6,,Summer
+Kobuk Valley NP,Extra Large,7,,Summer
+Kobuk Valley NP,Extra Large,8,,Summer
+Kobuk Valley NP,Extra Large,9,,Fall
+Kobuk Valley NP,Extra Large,10,,Fall
+Kobuk Valley NP,Extra Large,11,,Fall
+Kobuk Valley NP,Extra Large,12,,Winter
+Lake Clark NP & PRES,Small,1,230.97674418604652,Winter
+Lake Clark NP & PRES,Small,2,249.37209302325581,Winter
+Lake Clark NP & PRES,Small,3,292.4418604651163,Spring
+Lake Clark NP & PRES,Small,4,251.37209302325581,Spring
+Lake Clark NP & PRES,Small,5,435.51162790697674,Spring
+Lake Clark NP & PRES,Small,6,2151.860465116279,Summer
+Lake Clark NP & PRES,Small,7,3056.9767441860463,Summer
+Lake Clark NP & PRES,Small,8,3171.6279069767443,Summer
+Lake Clark NP & PRES,Small,9,2121.2093023255816,Fall
+Lake Clark NP & PRES,Small,10,444.4186046511628,Fall
+Lake Clark NP & PRES,Small,11,264.51162790697674,Fall
+Lake Clark NP & PRES,Small,12,267.83720930232556,Winter
+Lake Clark NP & PRES,Medium,1,,Winter
+Lake Clark NP & PRES,Medium,2,,Winter
+Lake Clark NP & PRES,Medium,3,,Spring
+Lake Clark NP & PRES,Medium,4,,Spring
+Lake Clark NP & PRES,Medium,5,,Spring
+Lake Clark NP & PRES,Medium,6,,Summer
+Lake Clark NP & PRES,Medium,7,,Summer
+Lake Clark NP & PRES,Medium,8,,Summer
+Lake Clark NP & PRES,Medium,9,,Fall
+Lake Clark NP & PRES,Medium,10,,Fall
+Lake Clark NP & PRES,Medium,11,,Fall
+Lake Clark NP & PRES,Medium,12,,Winter
+Lake Clark NP & PRES,Large,1,,Winter
+Lake Clark NP & PRES,Large,2,,Winter
+Lake Clark NP & PRES,Large,3,,Spring
+Lake Clark NP & PRES,Large,4,,Spring
+Lake Clark NP & PRES,Large,5,,Spring
+Lake Clark NP & PRES,Large,6,,Summer
+Lake Clark NP & PRES,Large,7,,Summer
+Lake Clark NP & PRES,Large,8,,Summer
+Lake Clark NP & PRES,Large,9,,Fall
+Lake Clark NP & PRES,Large,10,,Fall
+Lake Clark NP & PRES,Large,11,,Fall
+Lake Clark NP & PRES,Large,12,,Winter
+Lake Clark NP & PRES,Extra Large,1,,Winter
+Lake Clark NP & PRES,Extra Large,2,,Winter
+Lake Clark NP & PRES,Extra Large,3,,Spring
+Lake Clark NP & PRES,Extra Large,4,,Spring
+Lake Clark NP & PRES,Extra Large,5,,Spring
+Lake Clark NP & PRES,Extra Large,6,,Summer
+Lake Clark NP & PRES,Extra Large,7,,Summer
+Lake Clark NP & PRES,Extra Large,8,,Summer
+Lake Clark NP & PRES,Extra Large,9,,Fall
+Lake Clark NP & PRES,Extra Large,10,,Fall
+Lake Clark NP & PRES,Extra Large,11,,Fall
+Lake Clark NP & PRES,Extra Large,12,,Winter
+Lassen Volcanic NP,Small,1,,Winter
+Lassen Volcanic NP,Small,2,,Winter
+Lassen Volcanic NP,Small,3,,Spring
+Lassen Volcanic NP,Small,4,,Spring
+Lassen Volcanic NP,Small,5,,Spring
+Lassen Volcanic NP,Small,6,,Summer
+Lassen Volcanic NP,Small,7,,Summer
+Lassen Volcanic NP,Small,8,,Summer
+Lassen Volcanic NP,Small,9,,Fall
+Lassen Volcanic NP,Small,10,,Fall
+Lassen Volcanic NP,Small,11,,Fall
+Lassen Volcanic NP,Small,12,,Winter
+Lassen Volcanic NP,Medium,1,12377.565217391304,Winter
+Lassen Volcanic NP,Medium,2,11182.347826086956,Winter
+Lassen Volcanic NP,Medium,3,10265.695652173914,Spring
+Lassen Volcanic NP,Medium,4,10166.478260869566,Spring
+Lassen Volcanic NP,Medium,5,22654.695652173912,Spring
+Lassen Volcanic NP,Medium,6,55430.739130434784,Summer
+Lassen Volcanic NP,Medium,7,94456.28260869565,Summer
+Lassen Volcanic NP,Medium,8,89015.36956521739,Summer
+Lassen Volcanic NP,Medium,9,61174.04347826087,Fall
+Lassen Volcanic NP,Medium,10,32463.565217391304,Fall
+Lassen Volcanic NP,Medium,11,10049.04347826087,Fall
+Lassen Volcanic NP,Medium,12,9758.282608695652,Winter
+Lassen Volcanic NP,Large,1,,Winter
+Lassen Volcanic NP,Large,2,,Winter
+Lassen Volcanic NP,Large,3,,Spring
+Lassen Volcanic NP,Large,4,,Spring
+Lassen Volcanic NP,Large,5,,Spring
+Lassen Volcanic NP,Large,6,,Summer
+Lassen Volcanic NP,Large,7,,Summer
+Lassen Volcanic NP,Large,8,,Summer
+Lassen Volcanic NP,Large,9,,Fall
+Lassen Volcanic NP,Large,10,,Fall
+Lassen Volcanic NP,Large,11,,Fall
+Lassen Volcanic NP,Large,12,,Winter
+Lassen Volcanic NP,Extra Large,1,,Winter
+Lassen Volcanic NP,Extra Large,2,,Winter
+Lassen Volcanic NP,Extra Large,3,,Spring
+Lassen Volcanic NP,Extra Large,4,,Spring
+Lassen Volcanic NP,Extra Large,5,,Spring
+Lassen Volcanic NP,Extra Large,6,,Summer
+Lassen Volcanic NP,Extra Large,7,,Summer
+Lassen Volcanic NP,Extra Large,8,,Summer
+Lassen Volcanic NP,Extra Large,9,,Fall
+Lassen Volcanic NP,Extra Large,10,,Fall
+Lassen Volcanic NP,Extra Large,11,,Fall
+Lassen Volcanic NP,Extra Large,12,,Winter
+Mammoth Cave NP,Small,1,,Winter
+Mammoth Cave NP,Small,2,,Winter
+Mammoth Cave NP,Small,3,,Spring
+Mammoth Cave NP,Small,4,,Spring
+Mammoth Cave NP,Small,5,,Spring
+Mammoth Cave NP,Small,6,,Summer
+Mammoth Cave NP,Small,7,,Summer
+Mammoth Cave NP,Small,8,,Summer
+Mammoth Cave NP,Small,9,,Fall
+Mammoth Cave NP,Small,10,,Fall
+Mammoth Cave NP,Small,11,,Fall
+Mammoth Cave NP,Small,12,,Winter
+Mammoth Cave NP,Medium,1,,Winter
+Mammoth Cave NP,Medium,2,,Winter
+Mammoth Cave NP,Medium,3,,Spring
+Mammoth Cave NP,Medium,4,,Spring
+Mammoth Cave NP,Medium,5,,Spring
+Mammoth Cave NP,Medium,6,,Summer
+Mammoth Cave NP,Medium,7,,Summer
+Mammoth Cave NP,Medium,8,,Summer
+Mammoth Cave NP,Medium,9,,Fall
+Mammoth Cave NP,Medium,10,,Fall
+Mammoth Cave NP,Medium,11,,Fall
+Mammoth Cave NP,Medium,12,,Winter
+Mammoth Cave NP,Large,1,54565.34782608696,Winter
+Mammoth Cave NP,Large,2,54072.45652173913,Winter
+Mammoth Cave NP,Large,3,94131.89130434782,Spring
+Mammoth Cave NP,Large,4,116298.86956521739,Spring
+Mammoth Cave NP,Large,5,131950.21739130435,Spring
+Mammoth Cave NP,Large,6,174944.04347826086,Summer
+Mammoth Cave NP,Large,7,227610.3260869565,Summer
+Mammoth Cave NP,Large,8,191006.54347826086,Summer
+Mammoth Cave NP,Large,9,121290.26086956522,Fall
+Mammoth Cave NP,Large,10,111759.02173913043,Fall
+Mammoth Cave NP,Large,11,75729.73913043478,Fall
+Mammoth Cave NP,Large,12,63086.434782608696,Winter
+Mammoth Cave NP,Extra Large,1,,Winter
+Mammoth Cave NP,Extra Large,2,,Winter
+Mammoth Cave NP,Extra Large,3,,Spring
+Mammoth Cave NP,Extra Large,4,,Spring
+Mammoth Cave NP,Extra Large,5,,Spring
+Mammoth Cave NP,Extra Large,6,,Summer
+Mammoth Cave NP,Extra Large,7,,Summer
+Mammoth Cave NP,Extra Large,8,,Summer
+Mammoth Cave NP,Extra Large,9,,Fall
+Mammoth Cave NP,Extra Large,10,,Fall
+Mammoth Cave NP,Extra Large,11,,Fall
+Mammoth Cave NP,Extra Large,12,,Winter
+Mesa Verde NP,Small,1,,Winter
+Mesa Verde NP,Small,2,,Winter
+Mesa Verde NP,Small,3,,Spring
+Mesa Verde NP,Small,4,,Spring
+Mesa Verde NP,Small,5,,Spring
+Mesa Verde NP,Small,6,,Summer
+Mesa Verde NP,Small,7,,Summer
+Mesa Verde NP,Small,8,,Summer
+Mesa Verde NP,Small,9,,Fall
+Mesa Verde NP,Small,10,,Fall
+Mesa Verde NP,Small,11,,Fall
+Mesa Verde NP,Small,12,,Winter
+Mesa Verde NP,Medium,1,4927.304347826087,Winter
+Mesa Verde NP,Medium,2,5263.152173913043,Winter
+Mesa Verde NP,Medium,3,14244.45652173913,Spring
+Mesa Verde NP,Medium,4,24477.67391304348,Spring
+Mesa Verde NP,Medium,5,57535.17391304348,Spring
+Mesa Verde NP,Medium,6,104610.13043478261,Summer
+Mesa Verde NP,Medium,7,125005.69565217392,Summer
+Mesa Verde NP,Medium,8,110616.06521739131,Summer
+Mesa Verde NP,Medium,9,71997.56521739131,Fall
+Mesa Verde NP,Medium,10,40843.54347826087,Fall
+Mesa Verde NP,Medium,11,10985.804347826086,Fall
+Mesa Verde NP,Medium,12,6705.826086956522,Winter
+Mesa Verde NP,Large,1,,Winter
+Mesa Verde NP,Large,2,,Winter
+Mesa Verde NP,Large,3,,Spring
+Mesa Verde NP,Large,4,,Spring
+Mesa Verde NP,Large,5,,Spring
+Mesa Verde NP,Large,6,,Summer
+Mesa Verde NP,Large,7,,Summer
+Mesa Verde NP,Large,8,,Summer
+Mesa Verde NP,Large,9,,Fall
+Mesa Verde NP,Large,10,,Fall
+Mesa Verde NP,Large,11,,Fall
+Mesa Verde NP,Large,12,,Winter
+Mesa Verde NP,Extra Large,1,,Winter
+Mesa Verde NP,Extra Large,2,,Winter
+Mesa Verde NP,Extra Large,3,,Spring
+Mesa Verde NP,Extra Large,4,,Spring
+Mesa Verde NP,Extra Large,5,,Spring
+Mesa Verde NP,Extra Large,6,,Summer
+Mesa Verde NP,Extra Large,7,,Summer
+Mesa Verde NP,Extra Large,8,,Summer
+Mesa Verde NP,Extra Large,9,,Fall
+Mesa Verde NP,Extra Large,10,,Fall
+Mesa Verde NP,Extra Large,11,,Fall
+Mesa Verde NP,Extra Large,12,,Winter
+Mount Rainier NP,Small,1,,Winter
+Mount Rainier NP,Small,2,,Winter
+Mount Rainier NP,Small,3,,Spring
+Mount Rainier NP,Small,4,,Spring
+Mount Rainier NP,Small,5,,Spring
+Mount Rainier NP,Small,6,,Summer
+Mount Rainier NP,Small,7,,Summer
+Mount Rainier NP,Small,8,,Summer
+Mount Rainier NP,Small,9,,Fall
+Mount Rainier NP,Small,10,,Fall
+Mount Rainier NP,Small,11,,Fall
+Mount Rainier NP,Small,12,,Winter
+Mount Rainier NP,Medium,1,,Winter
+Mount Rainier NP,Medium,2,,Winter
+Mount Rainier NP,Medium,3,,Spring
+Mount Rainier NP,Medium,4,,Spring
+Mount Rainier NP,Medium,5,,Spring
+Mount Rainier NP,Medium,6,,Summer
+Mount Rainier NP,Medium,7,,Summer
+Mount Rainier NP,Medium,8,,Summer
+Mount Rainier NP,Medium,9,,Fall
+Mount Rainier NP,Medium,10,,Fall
+Mount Rainier NP,Medium,11,,Fall
+Mount Rainier NP,Medium,12,,Winter
+Mount Rainier NP,Large,1,27827.760869565216,Winter
+Mount Rainier NP,Large,2,23192.108695652172,Winter
+Mount Rainier NP,Large,3,28363.869565217392,Spring
+Mount Rainier NP,Large,4,35900.02173913043,Spring
+Mount Rainier NP,Large,5,109022.63043478261,Spring
+Mount Rainier NP,Large,6,248387.60869565216,Summer
+Mount Rainier NP,Large,7,429856.3043478261,Summer
+Mount Rainier NP,Large,8,462605.2826086957,Summer
+Mount Rainier NP,Large,9,280431.95652173914,Fall
+Mount Rainier NP,Large,10,176031.36956521738,Fall
+Mount Rainier NP,Large,11,70792.04347826086,Fall
+Mount Rainier NP,Large,12,28253.5,Winter
+Mount Rainier NP,Extra Large,1,,Winter
+Mount Rainier NP,Extra Large,2,,Winter
+Mount Rainier NP,Extra Large,3,,Spring
+Mount Rainier NP,Extra Large,4,,Spring
+Mount Rainier NP,Extra Large,5,,Spring
+Mount Rainier NP,Extra Large,6,,Summer
+Mount Rainier NP,Extra Large,7,,Summer
+Mount Rainier NP,Extra Large,8,,Summer
+Mount Rainier NP,Extra Large,9,,Fall
+Mount Rainier NP,Extra Large,10,,Fall
+Mount Rainier NP,Extra Large,11,,Fall
+Mount Rainier NP,Extra Large,12,,Winter
+National Park of American Samoa,Small,1,1037.142857142857,Winter
+National Park of American Samoa,Small,2,1013.7142857142857,Winter
+National Park of American Samoa,Small,3,1389.1904761904761,Spring
+National Park of American Samoa,Small,4,1524.3809523809523,Spring
+National Park of American Samoa,Small,5,1220.952380952381,Spring
+National Park of American Samoa,Small,6,901.1904761904761,Summer
+National Park of American Samoa,Small,7,1114.904761904762,Summer
+National Park of American Samoa,Small,8,1036.904761904762,Summer
+National Park of American Samoa,Small,9,1397.952380952381,Fall
+National Park of American Samoa,Small,10,1804.6666666666667,Fall
+National Park of American Samoa,Small,11,1789.5714285714287,Fall
+National Park of American Samoa,Small,12,1088.3333333333333,Winter
+National Park of American Samoa,Medium,1,,Winter
+National Park of American Samoa,Medium,2,,Winter
+National Park of American Samoa,Medium,3,,Spring
+National Park of American Samoa,Medium,4,,Spring
+National Park of American Samoa,Medium,5,,Spring
+National Park of American Samoa,Medium,6,,Summer
+National Park of American Samoa,Medium,7,,Summer
+National Park of American Samoa,Medium,8,,Summer
+National Park of American Samoa,Medium,9,,Fall
+National Park of American Samoa,Medium,10,,Fall
+National Park of American Samoa,Medium,11,,Fall
+National Park of American Samoa,Medium,12,,Winter
+National Park of American Samoa,Large,1,,Winter
+National Park of American Samoa,Large,2,,Winter
+National Park of American Samoa,Large,3,,Spring
+National Park of American Samoa,Large,4,,Spring
+National Park of American Samoa,Large,5,,Spring
+National Park of American Samoa,Large,6,,Summer
+National Park of American Samoa,Large,7,,Summer
+National Park of American Samoa,Large,8,,Summer
+National Park of American Samoa,Large,9,,Fall
+National Park of American Samoa,Large,10,,Fall
+National Park of American Samoa,Large,11,,Fall
+National Park of American Samoa,Large,12,,Winter
+National Park of American Samoa,Extra Large,1,,Winter
+National Park of American Samoa,Extra Large,2,,Winter
+National Park of American Samoa,Extra Large,3,,Spring
+National Park of American Samoa,Extra Large,4,,Spring
+National Park of American Samoa,Extra Large,5,,Spring
+National Park of American Samoa,Extra Large,6,,Summer
+National Park of American Samoa,Extra Large,7,,Summer
+National Park of American Samoa,Extra Large,8,,Summer
+National Park of American Samoa,Extra Large,9,,Fall
+National Park of American Samoa,Extra Large,10,,Fall
+National Park of American Samoa,Extra Large,11,,Fall
+National Park of American Samoa,Extra Large,12,,Winter
+New River Gorge NP & PRES,Small,1,,Winter
+New River Gorge NP & PRES,Small,2,,Winter
+New River Gorge NP & PRES,Small,3,,Spring
+New River Gorge NP & PRES,Small,4,,Spring
+New River Gorge NP & PRES,Small,5,,Spring
+New River Gorge NP & PRES,Small,6,,Summer
+New River Gorge NP & PRES,Small,7,,Summer
+New River Gorge NP & PRES,Small,8,,Summer
+New River Gorge NP & PRES,Small,9,,Fall
+New River Gorge NP & PRES,Small,10,,Fall
+New River Gorge NP & PRES,Small,11,,Fall
+New River Gorge NP & PRES,Small,12,,Winter
+New River Gorge NP & PRES,Medium,1,,Winter
+New River Gorge NP & PRES,Medium,2,,Winter
+New River Gorge NP & PRES,Medium,3,,Spring
+New River Gorge NP & PRES,Medium,4,,Spring
+New River Gorge NP & PRES,Medium,5,,Spring
+New River Gorge NP & PRES,Medium,6,,Summer
+New River Gorge NP & PRES,Medium,7,,Summer
+New River Gorge NP & PRES,Medium,8,,Summer
+New River Gorge NP & PRES,Medium,9,,Fall
+New River Gorge NP & PRES,Medium,10,,Fall
+New River Gorge NP & PRES,Medium,11,,Fall
+New River Gorge NP & PRES,Medium,12,,Winter
+New River Gorge NP & PRES,Large,1,20709.585365853658,Winter
+New River Gorge NP & PRES,Large,2,24918.536585365855,Winter
+New River Gorge NP & PRES,Large,3,44351.756097560974,Spring
+New River Gorge NP & PRES,Large,4,67399.46341463414,Spring
+New River Gorge NP & PRES,Large,5,113007.68292682926,Spring
+New River Gorge NP & PRES,Large,6,152162.36585365853,Summer
+New River Gorge NP & PRES,Large,7,193734.9512195122,Summer
+New River Gorge NP & PRES,Large,8,162389.07317073172,Summer
+New River Gorge NP & PRES,Large,9,98175.65853658537,Fall
+New River Gorge NP & PRES,Large,10,112357.19512195123,Fall
+New River Gorge NP & PRES,Large,11,41250.70731707317,Fall
+New River Gorge NP & PRES,Large,12,26717.682926829268,Winter
+New River Gorge NP & PRES,Extra Large,1,,Winter
+New River Gorge NP & PRES,Extra Large,2,,Winter
+New River Gorge NP & PRES,Extra Large,3,,Spring
+New River Gorge NP & PRES,Extra Large,4,,Spring
+New River Gorge NP & PRES,Extra Large,5,,Spring
+New River Gorge NP & PRES,Extra Large,6,,Summer
+New River Gorge NP & PRES,Extra Large,7,,Summer
+New River Gorge NP & PRES,Extra Large,8,,Summer
+New River Gorge NP & PRES,Extra Large,9,,Fall
+New River Gorge NP & PRES,Extra Large,10,,Fall
+New River Gorge NP & PRES,Extra Large,11,,Fall
+New River Gorge NP & PRES,Extra Large,12,,Winter
+North Cascades NP,Small,1,773.7391304347826,Winter
+North Cascades NP,Small,2,904.3478260869565,Winter
+North Cascades NP,Small,3,1061.7608695652175,Spring
+North Cascades NP,Small,4,2925.304347826087,Spring
+North Cascades NP,Small,5,12569.217391304348,Spring
+North Cascades NP,Small,6,27435.543478260868,Summer
+North Cascades NP,Small,7,44975.586956521736,Summer
+North Cascades NP,Small,8,53670.065217391304,Summer
+North Cascades NP,Small,9,33318.17391304348,Fall
+North Cascades NP,Small,10,15761.91304347826,Fall
+North Cascades NP,Small,11,4883.347826086957,Fall
+North Cascades NP,Small,12,1106.695652173913,Winter
+North Cascades NP,Medium,1,,Winter
+North Cascades NP,Medium,2,,Winter
+North Cascades NP,Medium,3,,Spring
+North Cascades NP,Medium,4,,Spring
+North Cascades NP,Medium,5,,Spring
+North Cascades NP,Medium,6,,Summer
+North Cascades NP,Medium,7,,Summer
+North Cascades NP,Medium,8,,Summer
+North Cascades NP,Medium,9,,Fall
+North Cascades NP,Medium,10,,Fall
+North Cascades NP,Medium,11,,Fall
+North Cascades NP,Medium,12,,Winter
+North Cascades NP,Large,1,,Winter
+North Cascades NP,Large,2,,Winter
+North Cascades NP,Large,3,,Spring
+North Cascades NP,Large,4,,Spring
+North Cascades NP,Large,5,,Spring
+North Cascades NP,Large,6,,Summer
+North Cascades NP,Large,7,,Summer
+North Cascades NP,Large,8,,Summer
+North Cascades NP,Large,9,,Fall
+North Cascades NP,Large,10,,Fall
+North Cascades NP,Large,11,,Fall
+North Cascades NP,Large,12,,Winter
+North Cascades NP,Extra Large,1,,Winter
+North Cascades NP,Extra Large,2,,Winter
+North Cascades NP,Extra Large,3,,Spring
+North Cascades NP,Extra Large,4,,Spring
+North Cascades NP,Extra Large,5,,Spring
+North Cascades NP,Extra Large,6,,Summer
+North Cascades NP,Extra Large,7,,Summer
+North Cascades NP,Extra Large,8,,Summer
+North Cascades NP,Extra Large,9,,Fall
+North Cascades NP,Extra Large,10,,Fall
+North Cascades NP,Extra Large,11,,Fall
+North Cascades NP,Extra Large,12,,Winter
+Olympic NP,Small,1,,Winter
+Olympic NP,Small,2,,Winter
+Olympic NP,Small,3,,Spring
+Olympic NP,Small,4,,Spring
+Olympic NP,Small,5,,Spring
+Olympic NP,Small,6,,Summer
+Olympic NP,Small,7,,Summer
+Olympic NP,Small,8,,Summer
+Olympic NP,Small,9,,Fall
+Olympic NP,Small,10,,Fall
+Olympic NP,Small,11,,Fall
+Olympic NP,Small,12,,Winter
+Olympic NP,Medium,1,,Winter
+Olympic NP,Medium,2,,Winter
+Olympic NP,Medium,3,,Spring
+Olympic NP,Medium,4,,Spring
+Olympic NP,Medium,5,,Spring
+Olympic NP,Medium,6,,Summer
+Olympic NP,Medium,7,,Summer
+Olympic NP,Medium,8,,Summer
+Olympic NP,Medium,9,,Fall
+Olympic NP,Medium,10,,Fall
+Olympic NP,Medium,11,,Fall
+Olympic NP,Medium,12,,Winter
+Olympic NP,Large,1,,Winter
+Olympic NP,Large,2,,Winter
+Olympic NP,Large,3,,Spring
+Olympic NP,Large,4,,Spring
+Olympic NP,Large,5,,Spring
+Olympic NP,Large,6,,Summer
+Olympic NP,Large,7,,Summer
+Olympic NP,Large,8,,Summer
+Olympic NP,Large,9,,Fall
+Olympic NP,Large,10,,Fall
+Olympic NP,Large,11,,Fall
+Olympic NP,Large,12,,Winter
+Olympic NP,Extra Large,1,136962.91304347827,Winter
+Olympic NP,Extra Large,2,144017.4347826087,Winter
+Olympic NP,Extra Large,3,172961.60869565216,Spring
+Olympic NP,Extra Large,4,215702.65217391305,Spring
+Olympic NP,Extra Large,5,310822.3695652174,Spring
+Olympic NP,Extra Large,6,421428.3695652174,Summer
+Olympic NP,Extra Large,7,601059.695652174,Summer
+Olympic NP,Extra Large,8,748708.7391304348,Summer
+Olympic NP,Extra Large,9,453578.76086956525,Fall
+Olympic NP,Extra Large,10,252792.8260869565,Fall
+Olympic NP,Extra Large,11,167767.58695652173,Fall
+Olympic NP,Extra Large,12,137383.34782608695,Winter
+Petrified Forest NP,Small,1,,Winter
+Petrified Forest NP,Small,2,,Winter
+Petrified Forest NP,Small,3,,Spring
+Petrified Forest NP,Small,4,,Spring
+Petrified Forest NP,Small,5,,Spring
+Petrified Forest NP,Small,6,,Summer
+Petrified Forest NP,Small,7,,Summer
+Petrified Forest NP,Small,8,,Summer
+Petrified Forest NP,Small,9,,Fall
+Petrified Forest NP,Small,10,,Fall
+Petrified Forest NP,Small,11,,Fall
+Petrified Forest NP,Small,12,,Winter
+Petrified Forest NP,Medium,1,21403.82608695652,Winter
+Petrified Forest NP,Medium,2,23887.08695652174,Winter
+Petrified Forest NP,Medium,3,49937.45652173913,Spring
+Petrified Forest NP,Medium,4,51396.34782608696,Spring
+Petrified Forest NP,Medium,5,67992.23913043478,Spring
+Petrified Forest NP,Medium,6,108330.43478260869,Summer
+Petrified Forest NP,Medium,7,112366.54347826086,Summer
+Petrified Forest NP,Medium,8,93113.32608695653,Summer
+Petrified Forest NP,Medium,9,57916.47826086957,Fall
+Petrified Forest NP,Medium,10,56172.95652173913,Fall
+Petrified Forest NP,Medium,11,30262.369565217392,Fall
+Petrified Forest NP,Medium,12,24025.130434782608,Winter
+Petrified Forest NP,Large,1,,Winter
+Petrified Forest NP,Large,2,,Winter
+Petrified Forest NP,Large,3,,Spring
+Petrified Forest NP,Large,4,,Spring
+Petrified Forest NP,Large,5,,Spring
+Petrified Forest NP,Large,6,,Summer
+Petrified Forest NP,Large,7,,Summer
+Petrified Forest NP,Large,8,,Summer
+Petrified Forest NP,Large,9,,Fall
+Petrified Forest NP,Large,10,,Fall
+Petrified Forest NP,Large,11,,Fall
+Petrified Forest NP,Large,12,,Winter
+Petrified Forest NP,Extra Large,1,,Winter
+Petrified Forest NP,Extra Large,2,,Winter
+Petrified Forest NP,Extra Large,3,,Spring
+Petrified Forest NP,Extra Large,4,,Spring
+Petrified Forest NP,Extra Large,5,,Spring
+Petrified Forest NP,Extra Large,6,,Summer
+Petrified Forest NP,Extra Large,7,,Summer
+Petrified Forest NP,Extra Large,8,,Summer
+Petrified Forest NP,Extra Large,9,,Fall
+Petrified Forest NP,Extra Large,10,,Fall
+Petrified Forest NP,Extra Large,11,,Fall
+Petrified Forest NP,Extra Large,12,,Winter
+Pinnacles NP,Small,1,12125.847826086956,Winter
+Pinnacles NP,Small,2,14801.891304347826,Winter
+Pinnacles NP,Small,3,21636.130434782608,Spring
+Pinnacles NP,Small,4,26966.304347826088,Spring
+Pinnacles NP,Small,5,23673.717391304348,Spring
+Pinnacles NP,Small,6,16993.782608695652,Summer
+Pinnacles NP,Small,7,16492.82608695652,Summer
+Pinnacles NP,Small,8,16285.58695652174,Summer
+Pinnacles NP,Small,9,12994.826086956522,Fall
+Pinnacles NP,Small,10,13348.369565217392,Fall
+Pinnacles NP,Small,11,13654.0,Fall
+Pinnacles NP,Small,12,11790.478260869566,Winter
+Pinnacles NP,Medium,1,,Winter
+Pinnacles NP,Medium,2,,Winter
+Pinnacles NP,Medium,3,,Spring
+Pinnacles NP,Medium,4,,Spring
+Pinnacles NP,Medium,5,,Spring
+Pinnacles NP,Medium,6,,Summer
+Pinnacles NP,Medium,7,,Summer
+Pinnacles NP,Medium,8,,Summer
+Pinnacles NP,Medium,9,,Fall
+Pinnacles NP,Medium,10,,Fall
+Pinnacles NP,Medium,11,,Fall
+Pinnacles NP,Medium,12,,Winter
+Pinnacles NP,Large,1,,Winter
+Pinnacles NP,Large,2,,Winter
+Pinnacles NP,Large,3,,Spring
+Pinnacles NP,Large,4,,Spring
+Pinnacles NP,Large,5,,Spring
+Pinnacles NP,Large,6,,Summer
+Pinnacles NP,Large,7,,Summer
+Pinnacles NP,Large,8,,Summer
+Pinnacles NP,Large,9,,Fall
+Pinnacles NP,Large,10,,Fall
+Pinnacles NP,Large,11,,Fall
+Pinnacles NP,Large,12,,Winter
+Pinnacles NP,Extra Large,1,,Winter
+Pinnacles NP,Extra Large,2,,Winter
+Pinnacles NP,Extra Large,3,,Spring
+Pinnacles NP,Extra Large,4,,Spring
+Pinnacles NP,Extra Large,5,,Spring
+Pinnacles NP,Extra Large,6,,Summer
+Pinnacles NP,Extra Large,7,,Summer
+Pinnacles NP,Extra Large,8,,Summer
+Pinnacles NP,Extra Large,9,,Fall
+Pinnacles NP,Extra Large,10,,Fall
+Pinnacles NP,Extra Large,11,,Fall
+Pinnacles NP,Extra Large,12,,Winter
+Redwood NP,Small,1,,Winter
+Redwood NP,Small,2,,Winter
+Redwood NP,Small,3,,Spring
+Redwood NP,Small,4,,Spring
+Redwood NP,Small,5,,Spring
+Redwood NP,Small,6,,Summer
+Redwood NP,Small,7,,Summer
+Redwood NP,Small,8,,Summer
+Redwood NP,Small,9,,Fall
+Redwood NP,Small,10,,Fall
+Redwood NP,Small,11,,Fall
+Redwood NP,Small,12,,Winter
+Redwood NP,Medium,1,17754.608695652172,Winter
+Redwood NP,Medium,2,17710.17391304348,Winter
+Redwood NP,Medium,3,23145.934782608696,Spring
+Redwood NP,Medium,4,29824.239130434784,Spring
+Redwood NP,Medium,5,42068.86956521739,Spring
+Redwood NP,Medium,6,58458.717391304344,Summer
+Redwood NP,Medium,7,77966.17391304347,Summer
+Redwood NP,Medium,8,73299.30434782608,Summer
+Redwood NP,Medium,9,52699.63043478261,Fall
+Redwood NP,Medium,10,34691.391304347824,Fall
+Redwood NP,Medium,11,20760.478260869564,Fall
+Redwood NP,Medium,12,18726.695652173912,Winter
+Redwood NP,Large,1,,Winter
+Redwood NP,Large,2,,Winter
+Redwood NP,Large,3,,Spring
+Redwood NP,Large,4,,Spring
+Redwood NP,Large,5,,Spring
+Redwood NP,Large,6,,Summer
+Redwood NP,Large,7,,Summer
+Redwood NP,Large,8,,Summer
+Redwood NP,Large,9,,Fall
+Redwood NP,Large,10,,Fall
+Redwood NP,Large,11,,Fall
+Redwood NP,Large,12,,Winter
+Redwood NP,Extra Large,1,,Winter
+Redwood NP,Extra Large,2,,Winter
+Redwood NP,Extra Large,3,,Spring
+Redwood NP,Extra Large,4,,Spring
+Redwood NP,Extra Large,5,,Spring
+Redwood NP,Extra Large,6,,Summer
+Redwood NP,Extra Large,7,,Summer
+Redwood NP,Extra Large,8,,Summer
+Redwood NP,Extra Large,9,,Fall
+Redwood NP,Extra Large,10,,Fall
+Redwood NP,Extra Large,11,,Fall
+Redwood NP,Extra Large,12,,Winter
+Rocky Mountain NP,Small,1,,Winter
+Rocky Mountain NP,Small,2,,Winter
+Rocky Mountain NP,Small,3,,Spring
+Rocky Mountain NP,Small,4,,Spring
+Rocky Mountain NP,Small,5,,Spring
+Rocky Mountain NP,Small,6,,Summer
+Rocky Mountain NP,Small,7,,Summer
+Rocky Mountain NP,Small,8,,Summer
+Rocky Mountain NP,Small,9,,Fall
+Rocky Mountain NP,Small,10,,Fall
+Rocky Mountain NP,Small,11,,Fall
+Rocky Mountain NP,Small,12,,Winter
+Rocky Mountain NP,Medium,1,,Winter
+Rocky Mountain NP,Medium,2,,Winter
+Rocky Mountain NP,Medium,3,,Spring
+Rocky Mountain NP,Medium,4,,Spring
+Rocky Mountain NP,Medium,5,,Spring
+Rocky Mountain NP,Medium,6,,Summer
+Rocky Mountain NP,Medium,7,,Summer
+Rocky Mountain NP,Medium,8,,Summer
+Rocky Mountain NP,Medium,9,,Fall
+Rocky Mountain NP,Medium,10,,Fall
+Rocky Mountain NP,Medium,11,,Fall
+Rocky Mountain NP,Medium,12,,Winter
+Rocky Mountain NP,Large,1,,Winter
+Rocky Mountain NP,Large,2,,Winter
+Rocky Mountain NP,Large,3,,Spring
+Rocky Mountain NP,Large,4,,Spring
+Rocky Mountain NP,Large,5,,Spring
+Rocky Mountain NP,Large,6,,Summer
+Rocky Mountain NP,Large,7,,Summer
+Rocky Mountain NP,Large,8,,Summer
+Rocky Mountain NP,Large,9,,Fall
+Rocky Mountain NP,Large,10,,Fall
+Rocky Mountain NP,Large,11,,Fall
+Rocky Mountain NP,Large,12,,Winter
+Rocky Mountain NP,Extra Large,1,80349.63043478261,Winter
+Rocky Mountain NP,Extra Large,2,72724.65217391304,Winter
+Rocky Mountain NP,Extra Large,3,89415.43478260869,Spring
+Rocky Mountain NP,Extra Large,4,88199.89130434782,Spring
+Rocky Mountain NP,Extra Large,5,187947.08695652173,Spring
+Rocky Mountain NP,Extra Large,6,489895.5652173913,Summer
+Rocky Mountain NP,Extra Large,7,697990.7391304348,Summer
+Rocky Mountain NP,Extra Large,8,655998.3695652174,Summer
+Rocky Mountain NP,Extra Large,9,479099.3043478261,Fall
+Rocky Mountain NP,Extra Large,10,243655.86956521738,Fall
+Rocky Mountain NP,Extra Large,11,85884.63043478261,Fall
+Rocky Mountain NP,Extra Large,12,73021.78260869565,Winter
+Saguaro NP,Small,1,,Winter
+Saguaro NP,Small,2,,Winter
+Saguaro NP,Small,3,,Spring
+Saguaro NP,Small,4,,Spring
+Saguaro NP,Small,5,,Spring
+Saguaro NP,Small,6,,Summer
+Saguaro NP,Small,7,,Summer
+Saguaro NP,Small,8,,Summer
+Saguaro NP,Small,9,,Fall
+Saguaro NP,Small,10,,Fall
+Saguaro NP,Small,11,,Fall
+Saguaro NP,Small,12,,Winter
+Saguaro NP,Medium,1,,Winter
+Saguaro NP,Medium,2,,Winter
+Saguaro NP,Medium,3,,Spring
+Saguaro NP,Medium,4,,Spring
+Saguaro NP,Medium,5,,Spring
+Saguaro NP,Medium,6,,Summer
+Saguaro NP,Medium,7,,Summer
+Saguaro NP,Medium,8,,Summer
+Saguaro NP,Medium,9,,Fall
+Saguaro NP,Medium,10,,Fall
+Saguaro NP,Medium,11,,Fall
+Saguaro NP,Medium,12,,Winter
+Saguaro NP,Large,1,,Winter
+Saguaro NP,Large,2,,Winter
+Saguaro NP,Large,3,,Spring
+Saguaro NP,Large,4,,Spring
+Saguaro NP,Large,5,,Spring
+Saguaro NP,Large,6,,Summer
+Saguaro NP,Large,7,,Summer
+Saguaro NP,Large,8,,Summer
+Saguaro NP,Large,9,,Fall
+Saguaro NP,Large,10,,Fall
+Saguaro NP,Large,11,,Fall
+Saguaro NP,Large,12,,Winter
+Saguaro NP,Extra Large,1,260238.95652173914,Winter
+Saguaro NP,Extra Large,2,268448.73913043475,Winter
+Saguaro NP,Extra Large,3,302471.97826086957,Spring
+Saguaro NP,Extra Large,4,264086.67391304346,Spring
+Saguaro NP,Extra Large,5,235485.28260869565,Spring
+Saguaro NP,Extra Large,6,214883.60869565216,Summer
+Saguaro NP,Extra Large,7,218999.19565217392,Summer
+Saguaro NP,Extra Large,8,218378.47826086957,Summer
+Saguaro NP,Extra Large,9,209963.84782608695,Fall
+Saguaro NP,Extra Large,10,217320.8260869565,Fall
+Saguaro NP,Extra Large,11,242214.76086956522,Fall
+Saguaro NP,Extra Large,12,249665.4347826087,Winter
+Sequoia NP,Small,1,,Winter
+Sequoia NP,Small,2,,Winter
+Sequoia NP,Small,3,,Spring
+Sequoia NP,Small,4,,Spring
+Sequoia NP,Small,5,,Spring
+Sequoia NP,Small,6,,Summer
+Sequoia NP,Small,7,,Summer
+Sequoia NP,Small,8,,Summer
+Sequoia NP,Small,9,,Fall
+Sequoia NP,Small,10,,Fall
+Sequoia NP,Small,11,,Fall
+Sequoia NP,Small,12,,Winter
+Sequoia NP,Medium,1,,Winter
+Sequoia NP,Medium,2,,Winter
+Sequoia NP,Medium,3,,Spring
+Sequoia NP,Medium,4,,Spring
+Sequoia NP,Medium,5,,Spring
+Sequoia NP,Medium,6,,Summer
+Sequoia NP,Medium,7,,Summer
+Sequoia NP,Medium,8,,Summer
+Sequoia NP,Medium,9,,Fall
+Sequoia NP,Medium,10,,Fall
+Sequoia NP,Medium,11,,Fall
+Sequoia NP,Medium,12,,Winter
+Sequoia NP,Large,1,30169.021739130436,Winter
+Sequoia NP,Large,2,28069.434782608696,Winter
+Sequoia NP,Large,3,40251.782608695656,Spring
+Sequoia NP,Large,4,58496.32608695652,Spring
+Sequoia NP,Large,5,106080.10869565218,Spring
+Sequoia NP,Large,6,128820.0,Summer
+Sequoia NP,Large,7,181829.52173913043,Summer
+Sequoia NP,Large,8,180015.91304347827,Summer
+Sequoia NP,Large,9,114651.08695652174,Fall
+Sequoia NP,Large,10,70612.28260869565,Fall
+Sequoia NP,Large,11,42671.13043478261,Fall
+Sequoia NP,Large,12,31696.760869565216,Winter
+Sequoia NP,Extra Large,1,,Winter
+Sequoia NP,Extra Large,2,,Winter
+Sequoia NP,Extra Large,3,,Spring
+Sequoia NP,Extra Large,4,,Spring
+Sequoia NP,Extra Large,5,,Spring
+Sequoia NP,Extra Large,6,,Summer
+Sequoia NP,Extra Large,7,,Summer
+Sequoia NP,Extra Large,8,,Summer
+Sequoia NP,Extra Large,9,,Fall
+Sequoia NP,Extra Large,10,,Fall
+Sequoia NP,Extra Large,11,,Fall
+Sequoia NP,Extra Large,12,,Winter
+Shenandoah NP,Small,1,,Winter
+Shenandoah NP,Small,2,,Winter
+Shenandoah NP,Small,3,,Spring
+Shenandoah NP,Small,4,,Spring
+Shenandoah NP,Small,5,,Spring
+Shenandoah NP,Small,6,,Summer
+Shenandoah NP,Small,7,,Summer
+Shenandoah NP,Small,8,,Summer
+Shenandoah NP,Small,9,,Fall
+Shenandoah NP,Small,10,,Fall
+Shenandoah NP,Small,11,,Fall
+Shenandoah NP,Small,12,,Winter
+Shenandoah NP,Medium,1,,Winter
+Shenandoah NP,Medium,2,,Winter
+Shenandoah NP,Medium,3,,Spring
+Shenandoah NP,Medium,4,,Spring
+Shenandoah NP,Medium,5,,Spring
+Shenandoah NP,Medium,6,,Summer
+Shenandoah NP,Medium,7,,Summer
+Shenandoah NP,Medium,8,,Summer
+Shenandoah NP,Medium,9,,Fall
+Shenandoah NP,Medium,10,,Fall
+Shenandoah NP,Medium,11,,Fall
+Shenandoah NP,Medium,12,,Winter
+Shenandoah NP,Large,1,22328.434782608696,Winter
+Shenandoah NP,Large,2,25446.652173913044,Winter
+Shenandoah NP,Large,3,56534.30434782609,Spring
+Shenandoah NP,Large,4,107243.71739130435,Spring
+Shenandoah NP,Large,5,150394.13043478262,Spring
+Shenandoah NP,Large,6,166288.63043478262,Summer
+Shenandoah NP,Large,7,214619.26086956522,Summer
+Shenandoah NP,Large,8,210847.95652173914,Summer
+Shenandoah NP,Large,9,163644.13043478262,Fall
+Shenandoah NP,Large,10,300923.95652173914,Fall
+Shenandoah NP,Large,11,102136.69565217392,Fall
+Shenandoah NP,Large,12,27959.652173913044,Winter
+Shenandoah NP,Extra Large,1,,Winter
+Shenandoah NP,Extra Large,2,,Winter
+Shenandoah NP,Extra Large,3,,Spring
+Shenandoah NP,Extra Large,4,,Spring
+Shenandoah NP,Extra Large,5,,Spring
+Shenandoah NP,Extra Large,6,,Summer
+Shenandoah NP,Extra Large,7,,Summer
+Shenandoah NP,Extra Large,8,,Summer
+Shenandoah NP,Extra Large,9,,Fall
+Shenandoah NP,Extra Large,10,,Fall
+Shenandoah NP,Extra Large,11,,Fall
+Shenandoah NP,Extra Large,12,,Winter
+Theodore Roosevelt NP,Small,1,,Winter
+Theodore Roosevelt NP,Small,2,,Winter
+Theodore Roosevelt NP,Small,3,,Spring
+Theodore Roosevelt NP,Small,4,,Spring
+Theodore Roosevelt NP,Small,5,,Spring
+Theodore Roosevelt NP,Small,6,,Summer
+Theodore Roosevelt NP,Small,7,,Summer
+Theodore Roosevelt NP,Small,8,,Summer
+Theodore Roosevelt NP,Small,9,,Fall
+Theodore Roosevelt NP,Small,10,,Fall
+Theodore Roosevelt NP,Small,11,,Fall
+Theodore Roosevelt NP,Small,12,,Winter
+Theodore Roosevelt NP,Medium,1,2732.2391304347825,Winter
+Theodore Roosevelt NP,Medium,2,3092.021739130435,Winter
+Theodore Roosevelt NP,Medium,3,6636.847826086957,Spring
+Theodore Roosevelt NP,Medium,4,16818.760869565216,Spring
+Theodore Roosevelt NP,Medium,5,46198.217391304344,Spring
+Theodore Roosevelt NP,Medium,6,92345.21739130435,Summer
+Theodore Roosevelt NP,Medium,7,128479.56521739131,Summer
+Theodore Roosevelt NP,Medium,8,122656.58695652174,Summer
+Theodore Roosevelt NP,Medium,9,68167.67391304347,Fall
+Theodore Roosevelt NP,Medium,10,39044.282608695656,Fall
+Theodore Roosevelt NP,Medium,11,13378.91304347826,Fall
+Theodore Roosevelt NP,Medium,12,3622.4347826086955,Winter
+Theodore Roosevelt NP,Large,1,,Winter
+Theodore Roosevelt NP,Large,2,,Winter
+Theodore Roosevelt NP,Large,3,,Spring
+Theodore Roosevelt NP,Large,4,,Spring
+Theodore Roosevelt NP,Large,5,,Spring
+Theodore Roosevelt NP,Large,6,,Summer
+Theodore Roosevelt NP,Large,7,,Summer
+Theodore Roosevelt NP,Large,8,,Summer
+Theodore Roosevelt NP,Large,9,,Fall
+Theodore Roosevelt NP,Large,10,,Fall
+Theodore Roosevelt NP,Large,11,,Fall
+Theodore Roosevelt NP,Large,12,,Winter
+Theodore Roosevelt NP,Extra Large,1,,Winter
+Theodore Roosevelt NP,Extra Large,2,,Winter
+Theodore Roosevelt NP,Extra Large,3,,Spring
+Theodore Roosevelt NP,Extra Large,4,,Spring
+Theodore Roosevelt NP,Extra Large,5,,Spring
+Theodore Roosevelt NP,Extra Large,6,,Summer
+Theodore Roosevelt NP,Extra Large,7,,Summer
+Theodore Roosevelt NP,Extra Large,8,,Summer
+Theodore Roosevelt NP,Extra Large,9,,Fall
+Theodore Roosevelt NP,Extra Large,10,,Fall
+Theodore Roosevelt NP,Extra Large,11,,Fall
+Theodore Roosevelt NP,Extra Large,12,,Winter
+Virgin Islands NP,Small,1,,Winter
+Virgin Islands NP,Small,2,,Winter
+Virgin Islands NP,Small,3,,Spring
+Virgin Islands NP,Small,4,,Spring
+Virgin Islands NP,Small,5,,Spring
+Virgin Islands NP,Small,6,,Summer
+Virgin Islands NP,Small,7,,Summer
+Virgin Islands NP,Small,8,,Summer
+Virgin Islands NP,Small,9,,Fall
+Virgin Islands NP,Small,10,,Fall
+Virgin Islands NP,Small,11,,Fall
+Virgin Islands NP,Small,12,,Winter
+Virgin Islands NP,Medium,1,,Winter
+Virgin Islands NP,Medium,2,,Winter
+Virgin Islands NP,Medium,3,,Spring
+Virgin Islands NP,Medium,4,,Spring
+Virgin Islands NP,Medium,5,,Spring
+Virgin Islands NP,Medium,6,,Summer
+Virgin Islands NP,Medium,7,,Summer
+Virgin Islands NP,Medium,8,,Summer
+Virgin Islands NP,Medium,9,,Fall
+Virgin Islands NP,Medium,10,,Fall
+Virgin Islands NP,Medium,11,,Fall
+Virgin Islands NP,Medium,12,,Winter
+Virgin Islands NP,Large,1,85368.17391304347,Winter
+Virgin Islands NP,Large,2,86726.02173913043,Winter
+Virgin Islands NP,Large,3,95447.17391304347,Spring
+Virgin Islands NP,Large,4,85544.41304347826,Spring
+Virgin Islands NP,Large,5,72145.84782608696,Spring
+Virgin Islands NP,Large,6,69240.52173913043,Summer
+Virgin Islands NP,Large,7,71384.58695652174,Summer
+Virgin Islands NP,Large,8,63236.02173913043,Summer
+Virgin Islands NP,Large,9,41556.67391304348,Fall
+Virgin Islands NP,Large,10,47643.5,Fall
+Virgin Islands NP,Large,11,61668.434782608696,Fall
+Virgin Islands NP,Large,12,75543.65217391304,Winter
+Virgin Islands NP,Extra Large,1,,Winter
+Virgin Islands NP,Extra Large,2,,Winter
+Virgin Islands NP,Extra Large,3,,Spring
+Virgin Islands NP,Extra Large,4,,Spring
+Virgin Islands NP,Extra Large,5,,Spring
+Virgin Islands NP,Extra Large,6,,Summer
+Virgin Islands NP,Extra Large,7,,Summer
+Virgin Islands NP,Extra Large,8,,Summer
+Virgin Islands NP,Extra Large,9,,Fall
+Virgin Islands NP,Extra Large,10,,Fall
+Virgin Islands NP,Extra Large,11,,Fall
+Virgin Islands NP,Extra Large,12,,Winter
+Voyageurs NP,Small,1,8227.695652173914,Winter
+Voyageurs NP,Small,2,10053.391304347826,Winter
+Voyageurs NP,Small,3,5312.608695652174,Spring
+Voyageurs NP,Small,4,896.5652173913044,Spring
+Voyageurs NP,Small,5,26908.847826086956,Spring
+Voyageurs NP,Small,6,44123.30434782609,Summer
+Voyageurs NP,Small,7,48205.586956521736,Summer
+Voyageurs NP,Small,8,46428.52173913043,Summer
+Voyageurs NP,Small,9,24774.260869565216,Fall
+Voyageurs NP,Small,10,9830.369565217392,Fall
+Voyageurs NP,Small,11,2355.195652173913,Fall
+Voyageurs NP,Small,12,2479.304347826087,Winter
+Voyageurs NP,Medium,1,,Winter
+Voyageurs NP,Medium,2,,Winter
+Voyageurs NP,Medium,3,,Spring
+Voyageurs NP,Medium,4,,Spring
+Voyageurs NP,Medium,5,,Spring
+Voyageurs NP,Medium,6,,Summer
+Voyageurs NP,Medium,7,,Summer
+Voyageurs NP,Medium,8,,Summer
+Voyageurs NP,Medium,9,,Fall
+Voyageurs NP,Medium,10,,Fall
+Voyageurs NP,Medium,11,,Fall
+Voyageurs NP,Medium,12,,Winter
+Voyageurs NP,Large,1,,Winter
+Voyageurs NP,Large,2,,Winter
+Voyageurs NP,Large,3,,Spring
+Voyageurs NP,Large,4,,Spring
+Voyageurs NP,Large,5,,Spring
+Voyageurs NP,Large,6,,Summer
+Voyageurs NP,Large,7,,Summer
+Voyageurs NP,Large,8,,Summer
+Voyageurs NP,Large,9,,Fall
+Voyageurs NP,Large,10,,Fall
+Voyageurs NP,Large,11,,Fall
+Voyageurs NP,Large,12,,Winter
+Voyageurs NP,Extra Large,1,,Winter
+Voyageurs NP,Extra Large,2,,Winter
+Voyageurs NP,Extra Large,3,,Spring
+Voyageurs NP,Extra Large,4,,Spring
+Voyageurs NP,Extra Large,5,,Spring
+Voyageurs NP,Extra Large,6,,Summer
+Voyageurs NP,Extra Large,7,,Summer
+Voyageurs NP,Extra Large,8,,Summer
+Voyageurs NP,Extra Large,9,,Fall
+Voyageurs NP,Extra Large,10,,Fall
+Voyageurs NP,Extra Large,11,,Fall
+Voyageurs NP,Extra Large,12,,Winter
+White Sands NP,Small,1,,Winter
+White Sands NP,Small,2,,Winter
+White Sands NP,Small,3,,Spring
+White Sands NP,Small,4,,Spring
+White Sands NP,Small,5,,Spring
+White Sands NP,Small,6,,Summer
+White Sands NP,Small,7,,Summer
+White Sands NP,Small,8,,Summer
+White Sands NP,Small,9,,Fall
+White Sands NP,Small,10,,Fall
+White Sands NP,Small,11,,Fall
+White Sands NP,Small,12,,Winter
+White Sands NP,Medium,1,25989.41304347826,Winter
+White Sands NP,Medium,2,31077.32608695652,Winter
+White Sands NP,Medium,3,65959.84782608696,Spring
+White Sands NP,Medium,4,56734.586956521736,Spring
+White Sands NP,Medium,5,55860.52173913043,Spring
+White Sands NP,Medium,6,53701.54347826087,Summer
+White Sands NP,Medium,7,64935.108695652176,Summer
+White Sands NP,Medium,8,52615.04347826087,Summer
+White Sands NP,Medium,9,41810.84782608696,Fall
+White Sands NP,Medium,10,40111.52173913043,Fall
+White Sands NP,Medium,11,31897.369565217392,Fall
+White Sands NP,Medium,12,30779.217391304348,Winter
+White Sands NP,Large,1,,Winter
+White Sands NP,Large,2,,Winter
+White Sands NP,Large,3,,Spring
+White Sands NP,Large,4,,Spring
+White Sands NP,Large,5,,Spring
+White Sands NP,Large,6,,Summer
+White Sands NP,Large,7,,Summer
+White Sands NP,Large,8,,Summer
+White Sands NP,Large,9,,Fall
+White Sands NP,Large,10,,Fall
+White Sands NP,Large,11,,Fall
+White Sands NP,Large,12,,Winter
+White Sands NP,Extra Large,1,,Winter
+White Sands NP,Extra Large,2,,Winter
+White Sands NP,Extra Large,3,,Spring
+White Sands NP,Extra Large,4,,Spring
+White Sands NP,Extra Large,5,,Spring
+White Sands NP,Extra Large,6,,Summer
+White Sands NP,Extra Large,7,,Summer
+White Sands NP,Extra Large,8,,Summer
+White Sands NP,Extra Large,9,,Fall
+White Sands NP,Extra Large,10,,Fall
+White Sands NP,Extra Large,11,,Fall
+White Sands NP,Extra Large,12,,Winter
+Wind Cave NP,Small,1,,Winter
+Wind Cave NP,Small,2,,Winter
+Wind Cave NP,Small,3,,Spring
+Wind Cave NP,Small,4,,Spring
+Wind Cave NP,Small,5,,Spring
+Wind Cave NP,Small,6,,Summer
+Wind Cave NP,Small,7,,Summer
+Wind Cave NP,Small,8,,Summer
+Wind Cave NP,Small,9,,Fall
+Wind Cave NP,Small,10,,Fall
+Wind Cave NP,Small,11,,Fall
+Wind Cave NP,Small,12,,Winter
+Wind Cave NP,Medium,1,,Winter
+Wind Cave NP,Medium,2,,Winter
+Wind Cave NP,Medium,3,,Spring
+Wind Cave NP,Medium,4,,Spring
+Wind Cave NP,Medium,5,,Spring
+Wind Cave NP,Medium,6,,Summer
+Wind Cave NP,Medium,7,,Summer
+Wind Cave NP,Medium,8,,Summer
+Wind Cave NP,Medium,9,,Fall
+Wind Cave NP,Medium,10,,Fall
+Wind Cave NP,Medium,11,,Fall
+Wind Cave NP,Medium,12,,Winter
+Wind Cave NP,Large,1,29874.239130434784,Winter
+Wind Cave NP,Large,2,29453.347826086956,Winter
+Wind Cave NP,Large,3,38559.84782608696,Spring
+Wind Cave NP,Large,4,49858.95652173913,Spring
+Wind Cave NP,Large,5,83756.5,Spring
+Wind Cave NP,Large,6,142910.58695652173,Summer
+Wind Cave NP,Large,7,184062.28260869565,Summer
+Wind Cave NP,Large,8,171473.73913043478,Summer
+Wind Cave NP,Large,9,98166.34782608696,Fall
+Wind Cave NP,Large,10,53229.5,Fall
+Wind Cave NP,Large,11,35476.065217391304,Fall
+Wind Cave NP,Large,12,30999.347826086956,Winter
+Wind Cave NP,Extra Large,1,,Winter
+Wind Cave NP,Extra Large,2,,Winter
+Wind Cave NP,Extra Large,3,,Spring
+Wind Cave NP,Extra Large,4,,Spring
+Wind Cave NP,Extra Large,5,,Spring
+Wind Cave NP,Extra Large,6,,Summer
+Wind Cave NP,Extra Large,7,,Summer
+Wind Cave NP,Extra Large,8,,Summer
+Wind Cave NP,Extra Large,9,,Fall
+Wind Cave NP,Extra Large,10,,Fall
+Wind Cave NP,Extra Large,11,,Fall
+Wind Cave NP,Extra Large,12,,Winter
+Wrangell-St. Elias NP & PRES,Small,1,59.76744186046512,Winter
+Wrangell-St. Elias NP & PRES,Small,2,110.48837209302326,Winter
+Wrangell-St. Elias NP & PRES,Small,3,295.2325581395349,Spring
+Wrangell-St. Elias NP & PRES,Small,4,754.0,Spring
+Wrangell-St. Elias NP & PRES,Small,5,2597.3953488372094,Spring
+Wrangell-St. Elias NP & PRES,Small,6,9134.441860465116,Summer
+Wrangell-St. Elias NP & PRES,Small,7,14864.116279069767,Summer
+Wrangell-St. Elias NP & PRES,Small,8,13958.558139534884,Summer
+Wrangell-St. Elias NP & PRES,Small,9,6781.837209302325,Fall
+Wrangell-St. Elias NP & PRES,Small,10,1160.1860465116279,Fall
+Wrangell-St. Elias NP & PRES,Small,11,111.51162790697674,Fall
+Wrangell-St. Elias NP & PRES,Small,12,96.46511627906976,Winter
+Wrangell-St. Elias NP & PRES,Medium,1,,Winter
+Wrangell-St. Elias NP & PRES,Medium,2,,Winter
+Wrangell-St. Elias NP & PRES,Medium,3,,Spring
+Wrangell-St. Elias NP & PRES,Medium,4,,Spring
+Wrangell-St. Elias NP & PRES,Medium,5,,Spring
+Wrangell-St. Elias NP & PRES,Medium,6,,Summer
+Wrangell-St. Elias NP & PRES,Medium,7,,Summer
+Wrangell-St. Elias NP & PRES,Medium,8,,Summer
+Wrangell-St. Elias NP & PRES,Medium,9,,Fall
+Wrangell-St. Elias NP & PRES,Medium,10,,Fall
+Wrangell-St. Elias NP & PRES,Medium,11,,Fall
+Wrangell-St. Elias NP & PRES,Medium,12,,Winter
+Wrangell-St. Elias NP & PRES,Large,1,,Winter
+Wrangell-St. Elias NP & PRES,Large,2,,Winter
+Wrangell-St. Elias NP & PRES,Large,3,,Spring
+Wrangell-St. Elias NP & PRES,Large,4,,Spring
+Wrangell-St. Elias NP & PRES,Large,5,,Spring
+Wrangell-St. Elias NP & PRES,Large,6,,Summer
+Wrangell-St. Elias NP & PRES,Large,7,,Summer
+Wrangell-St. Elias NP & PRES,Large,8,,Summer
+Wrangell-St. Elias NP & PRES,Large,9,,Fall
+Wrangell-St. Elias NP & PRES,Large,10,,Fall
+Wrangell-St. Elias NP & PRES,Large,11,,Fall
+Wrangell-St. Elias NP & PRES,Large,12,,Winter
+Wrangell-St. Elias NP & PRES,Extra Large,1,,Winter
+Wrangell-St. Elias NP & PRES,Extra Large,2,,Winter
+Wrangell-St. Elias NP & PRES,Extra Large,3,,Spring
+Wrangell-St. Elias NP & PRES,Extra Large,4,,Spring
+Wrangell-St. Elias NP & PRES,Extra Large,5,,Spring
+Wrangell-St. Elias NP & PRES,Extra Large,6,,Summer
+Wrangell-St. Elias NP & PRES,Extra Large,7,,Summer
+Wrangell-St. Elias NP & PRES,Extra Large,8,,Summer
+Wrangell-St. Elias NP & PRES,Extra Large,9,,Fall
+Wrangell-St. Elias NP & PRES,Extra Large,10,,Fall
+Wrangell-St. Elias NP & PRES,Extra Large,11,,Fall
+Wrangell-St. Elias NP & PRES,Extra Large,12,,Winter
+Yellowstone NP,Small,1,,Winter
+Yellowstone NP,Small,2,,Winter
+Yellowstone NP,Small,3,,Spring
+Yellowstone NP,Small,4,,Spring
+Yellowstone NP,Small,5,,Spring
+Yellowstone NP,Small,6,,Summer
+Yellowstone NP,Small,7,,Summer
+Yellowstone NP,Small,8,,Summer
+Yellowstone NP,Small,9,,Fall
+Yellowstone NP,Small,10,,Fall
+Yellowstone NP,Small,11,,Fall
+Yellowstone NP,Small,12,,Winter
+Yellowstone NP,Medium,1,,Winter
+Yellowstone NP,Medium,2,,Winter
+Yellowstone NP,Medium,3,,Spring
+Yellowstone NP,Medium,4,,Spring
+Yellowstone NP,Medium,5,,Spring
+Yellowstone NP,Medium,6,,Summer
+Yellowstone NP,Medium,7,,Summer
+Yellowstone NP,Medium,8,,Summer
+Yellowstone NP,Medium,9,,Fall
+Yellowstone NP,Medium,10,,Fall
+Yellowstone NP,Medium,11,,Fall
+Yellowstone NP,Medium,12,,Winter
+Yellowstone NP,Large,1,,Winter
+Yellowstone NP,Large,2,,Winter
+Yellowstone NP,Large,3,,Spring
+Yellowstone NP,Large,4,,Spring
+Yellowstone NP,Large,5,,Spring
+Yellowstone NP,Large,6,,Summer
+Yellowstone NP,Large,7,,Summer
+Yellowstone NP,Large,8,,Summer
+Yellowstone NP,Large,9,,Fall
+Yellowstone NP,Large,10,,Fall
+Yellowstone NP,Large,11,,Fall
+Yellowstone NP,Large,12,,Winter
+Yellowstone NP,Extra Large,1,64022.80434782609,Winter
+Yellowstone NP,Extra Large,2,70596.54347826086,Winter
+Yellowstone NP,Extra Large,3,62029.565217391304,Spring
+Yellowstone NP,Extra Large,4,70743.08695652174,Spring
+Yellowstone NP,Extra Large,5,312284.4347826087,Spring
+Yellowstone NP,Extra Large,6,671031.0652173914,Summer
+Yellowstone NP,Extra Large,7,921760.2173913043,Summer
+Yellowstone NP,Extra Large,8,822886.5652173914,Summer
+Yellowstone NP,Extra Large,9,561528.6304347826,Fall
+Yellowstone NP,Extra Large,10,213298.19565217392,Fall
+Yellowstone NP,Extra Large,11,47060.434782608696,Fall
+Yellowstone NP,Extra Large,12,54402.36956521739,Winter
+Yosemite NP,Small,1,,Winter
+Yosemite NP,Small,2,,Winter
+Yosemite NP,Small,3,,Spring
+Yosemite NP,Small,4,,Spring
+Yosemite NP,Small,5,,Spring
+Yosemite NP,Small,6,,Summer
+Yosemite NP,Small,7,,Summer
+Yosemite NP,Small,8,,Summer
+Yosemite NP,Small,9,,Fall
+Yosemite NP,Small,10,,Fall
+Yosemite NP,Small,11,,Fall
+Yosemite NP,Small,12,,Winter
+Yosemite NP,Medium,1,,Winter
+Yosemite NP,Medium,2,,Winter
+Yosemite NP,Medium,3,,Spring
+Yosemite NP,Medium,4,,Spring
+Yosemite NP,Medium,5,,Spring
+Yosemite NP,Medium,6,,Summer
+Yosemite NP,Medium,7,,Summer
+Yosemite NP,Medium,8,,Summer
+Yosemite NP,Medium,9,,Fall
+Yosemite NP,Medium,10,,Fall
+Yosemite NP,Medium,11,,Fall
+Yosemite NP,Medium,12,,Winter
+Yosemite NP,Large,1,,Winter
+Yosemite NP,Large,2,,Winter
+Yosemite NP,Large,3,,Spring
+Yosemite NP,Large,4,,Spring
+Yosemite NP,Large,5,,Spring
+Yosemite NP,Large,6,,Summer
+Yosemite NP,Large,7,,Summer
+Yosemite NP,Large,8,,Summer
+Yosemite NP,Large,9,,Fall
+Yosemite NP,Large,10,,Fall
+Yosemite NP,Large,11,,Fall
+Yosemite NP,Large,12,,Winter
+Yosemite NP,Extra Large,1,105088.80434782608,Winter
+Yosemite NP,Extra Large,2,113446.43478260869,Winter
+Yosemite NP,Extra Large,3,143257.39130434784,Spring
+Yosemite NP,Extra Large,4,215650.28260869565,Spring
+Yosemite NP,Extra Large,5,345926.76086956525,Spring
+Yosemite NP,Extra Large,6,460958.67391304346,Summer
+Yosemite NP,Extra Large,7,564888.6304347826,Summer
+Yosemite NP,Extra Large,8,581743.0869565217,Summer
+Yosemite NP,Extra Large,9,453048.67391304346,Fall
+Yosemite NP,Extra Large,10,333066.0869565217,Fall
+Yosemite NP,Extra Large,11,164291.04347826086,Fall
+Yosemite NP,Extra Large,12,122482.19565217392,Winter
+Zion NP,Small,1,,Winter
+Zion NP,Small,2,,Winter
+Zion NP,Small,3,,Spring
+Zion NP,Small,4,,Spring
+Zion NP,Small,5,,Spring
+Zion NP,Small,6,,Summer
+Zion NP,Small,7,,Summer
+Zion NP,Small,8,,Summer
+Zion NP,Small,9,,Fall
+Zion NP,Small,10,,Fall
+Zion NP,Small,11,,Fall
+Zion NP,Small,12,,Winter
+Zion NP,Medium,1,,Winter
+Zion NP,Medium,2,,Winter
+Zion NP,Medium,3,,Spring
+Zion NP,Medium,4,,Spring
+Zion NP,Medium,5,,Spring
+Zion NP,Medium,6,,Summer
+Zion NP,Medium,7,,Summer
+Zion NP,Medium,8,,Summer
+Zion NP,Medium,9,,Fall
+Zion NP,Medium,10,,Fall
+Zion NP,Medium,11,,Fall
+Zion NP,Medium,12,,Winter
+Zion NP,Large,1,,Winter
+Zion NP,Large,2,,Winter
+Zion NP,Large,3,,Spring
+Zion NP,Large,4,,Spring
+Zion NP,Large,5,,Spring
+Zion NP,Large,6,,Summer
+Zion NP,Large,7,,Summer
+Zion NP,Large,8,,Summer
+Zion NP,Large,9,,Fall
+Zion NP,Large,10,,Fall
+Zion NP,Large,11,,Fall
+Zion NP,Large,12,,Winter
+Zion NP,Extra Large,1,67006.5,Winter
+Zion NP,Extra Large,2,73074.91304347826,Winter
+Zion NP,Extra Large,3,169435.63043478262,Spring
+Zion NP,Extra Large,4,243965.58695652173,Spring
+Zion NP,Extra Large,5,302688.45652173914,Spring
+Zion NP,Extra Large,6,368895.4347826087,Summer
+Zion NP,Extra Large,7,378970.652173913,Summer
+Zion NP,Extra Large,8,367222.7173913043,Summer
+Zion NP,Extra Large,9,323864.6304347826,Fall
+Zion NP,Extra Large,10,256341.71739130435,Fall
+Zion NP,Extra Large,11,135578.76086956522,Fall
+Zion NP,Extra Large,12,82135.02173913043,Winter
