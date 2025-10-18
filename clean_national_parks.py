@@ -44,7 +44,8 @@ def clean_national_parks_data(input_file='Datasets/national_parks.csv',
     numeric_cols = ['RecreationVisits', 'NonRecreationVisits', 'RecreationHours', 
                     'NonRecreationHours', 'ConcessionerLodging', 'ConcessionerCamping',
                     'TentCampers', 'RVCampers', 'Backcountry', 
-                    'NonRecreationOvernightStays', 'MiscellaneousOvernightStays']
+                    'NonRecreationOvernightStays', 'MiscellaneousOvernightStays',
+                    'MiscellaneousOvernightStaysTotal']
     
     for col in numeric_cols:
         if col in df.columns:
@@ -64,8 +65,44 @@ def clean_national_parks_data(input_file='Datasets/national_parks.csv',
             else:
                 print("    Kept both columns (they contain different data)")
     
-    # 5. Basic data quality checks
-    print("\n[5] Data quality summary:")
+    # 5. Remove columns with only zero values
+    print("\n[5] Removing columns with only zero values...")
+    zero_cols = []
+    for col in df.columns:
+        # Only check numeric columns
+        if pd.api.types.is_numeric_dtype(df[col]):
+            if (df[col] == 0).all() or df[col].sum() == 0:
+                zero_cols.append(col)
+    
+    if zero_cols:
+        df = df.drop(columns=zero_cols)
+        print(f"    Removed {len(zero_cols)} columns with only zeros:")
+        for col in zero_cols:
+            print(f"      - {col}")
+    else:
+        print("    No columns with only zeros found")
+    
+    # 5b. Remove specific unwanted columns
+    print("\n[5b] Removing specific unwanted columns...")
+    cols_to_remove = ['ConcessionerLodging', 'ConcessionerCamping', 
+                      'NonRecreationOvernightStays', 'MiscellaneousOvernightStays',
+                      'MiscellaneousOvernightStaysTotal']
+    
+    cols_removed = []
+    for col in cols_to_remove:
+        if col in df.columns:
+            cols_removed.append(col)
+    
+    if cols_removed:
+        df = df.drop(columns=cols_removed)
+        print(f"    Removed {len(cols_removed)} columns:")
+        for col in cols_removed:
+            print(f"      - {col}")
+    else:
+        print("    No unwanted columns found")
+    
+    # 6. Basic data quality checks
+    print("\n[6] Data quality summary:")
     print(f"    Total rows: {len(df):,}")
     print(f"    Date range: {df['Year'].min()} - {df['Year'].max()}")
     print(f"    Number of parks: {df['ParkName'].nunique()}")
@@ -77,8 +114,8 @@ def clean_national_parks_data(input_file='Datasets/national_parks.csv',
     else:
         print("    No missing values!")
     
-    # 6. Save cleaned data
-    print(f"\n[6] Saving cleaned data to: {output_file}")
+    # 7. Save cleaned data
+    print(f"\n[7] Saving cleaned data to: {output_file}")
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     df.to_csv(output_file, index=False)
     
