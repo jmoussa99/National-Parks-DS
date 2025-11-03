@@ -1,0 +1,127 @@
+ParkName,UnitCode,ParkType,Region,State,Year,Month,RecreationVisits,NonRecreationVisits,RecreationHours,NonRecreationHours,ConcessionerLodging,ConcessionerCamping,TentCampers,RVCampers,Backcountry,NonRecreationOvernightStays,MiscellaneousOvernightStays
+Acadia NP,,National Park,,,2025,8,844268,7500.0,5420311,7500.0,,456.0,31331.0,10181.0,330.0,,2993.0
+Arches NP,,National Park,,,2025,8,150262,625.0,1005157,1998.0,,,2019.0,2582.0,11.0,,495.0
+Badlands NP,,National Park,,,2025,8,214978,8531.0,932362,4265.0,832.0,6137.0,519.0,159.0,182.0,,
+Big Bend NP,,National Park,,,2025,8,19830,225.0,306170,675.0,0.0,300.0,1752.0,107.0,525.0,,158.0
+Biscayne NP,,National Park,,,2025,8,21616,,64847,,,,0.0,,,,0.0
+Black Canyon of the Gunnison NP,,National Park,,,2025,8,50,,0,,,,0.0,0.0,0.0,,
+Bryce Canyon NP,,National Park,,,2025,8,301864,52024.0,2006331,15607.0,7754.0,,7929.0,6759.0,119.0,,264.0
+Canyonlands NP,,National Park,,,2025,8,61026,,356776,,,,552.0,468.0,3959.0,,77.0
+Capitol Reef NP,,National Park,,,2025,8,110159,5175.0,170265,5175.0,,,3336.0,2790.0,57.0,,393.0
+Carlsbad Caverns NP,,National Park,,,2025,8,36492,,145935,,,,,,1.0,,
+Channel Islands NP,,National Park,,,2025,8,22831,778.0,242602,18672.0,,,,,6538.0,778.0,8375.0
+Congaree NP,,National Park,,,2025,8,20223,,72268,,,,200.0,,10.0,,370.0
+Crater Lake NP,,National Park,,,2025,8,189696,3900.0,994932,1950.0,6696.0,10631.0,,,562.0,,
+Cuyahoga Valley NP,,National Park,,,2025,8,386494,,1201587,,102.0,,,,,,90.0
+Death Valley NP,,National Park,,,2025,8,97214,3816.0,573303,5724.0,3305.0,70.0,344.0,234.0,31.0,,0.0
+Denali NP & PRES,,National Park,,,2025,8,142813,127848.0,1550601,31962.0,,5485.0,,,1198.0,,
+Dry Tortugas NP,,National Park,,,2025,8,7277,96.0,54322,1152.0,,,302.0,,,96.0,872.0
+Everglades NP,,National Park,,,2025,8,27787,300.0,111472,1350.0,,0.0,,,66.0,,0.0
+Gates of the Arctic NP & PRES,,National Park,,,2025,8,3193,,30546,,,,,,1211.0,,
+Gateway Arch NP,,National Park,,,2025,8,246139,,541506,,,,,,,,
+Glacier Bay NP & PRES,,National Park,,,2025,8,3187,0.0,97414,0.0,0.0,,145.0,,541.0,0.0,3088.0
+Glacier NP,,National Park,,,2025,8,718766,123.0,8727571,1107.0,29359.0,,33945.0,29586.0,12392.0,,2274.0
+Grand Canyon NP,,National Park,,,2025,8,423811,2553.0,6660659,2553.0,48638.0,7132.0,6805.0,3738.0,7613.0,,940.0
+Grand Teton NP,,National Park,,,2025,8,735593,159297.0,5159684,159297.0,50369.0,86881.0,0.0,0.0,14181.0,,
+Great Basin NP,,National Park,,,2025,8,19629,300.0,211257,150.0,,,4967.0,1470.0,58.0,,47.0
+Great Sand Dunes NP & PRES,,National Park,,,2025,8,61477,45.0,448526,45.0,,,3374.0,5238.0,1706.0,,1793.0
+Great Smoky Mountains NP,,National Park,,,2025,8,936664,964000.0,4608671,482000.0,1331.0,,22900.0,15378.0,4962.0,,6160.0
+Guadalupe Mountains NP,,National Park,,,2025,8,8714,120.0,23383,120.0,,,860.0,283.0,74.0,,90.0
+Haleakala NP,,National Park,,,2025,8,82328,1680.0,231712,1680.0,,,1776.0,,448.0,,570.0
+Hawaii Volcanoes NP,,National Park,,,2025,8,157880,188105.0,969223,62075.0,3056.0,489.0,88.0,0.0,303.0,,5270.0
+Hot Springs NP,,National Park,,,2025,8,348642,12330.0,945584,14057.0,,,67.0,2586.0,,,
+Indiana Dunes NP,,National Park,,,2025,8,393665,335.0,1303030,167.0,,,4625.0,2155.0,,,
+Isle Royale NP,,National Park,,,2025,8,8929,15.0,486508,832.0,4253.0,0.0,1922.0,,9560.0,34.0,4796.0
+Joshua Tree NP,,National Park,,,2025,8,146381,543.0,665402,543.0,,,4252.0,1869.0,145.0,,2063.0
+Katmai NP & PRES,,National Park,,,2025,8,11185,2619.0,149075,16238.0,1535.0,,1787.0,,0.0,0.0,
+Kenai Fjords NP,,National Park,,,2025,8,97389,,258616,,,,196.0,,10.0,,192.0
+Kings Canyon NP,,National Park,,,2025,8,119276,3557.0,4341648,14228.0,44293.0,,21351.0,7273.0,4014.0,,359.0
+Kobuk Valley NP,,National Park,,,2025,8,2021,800.0,25331,17080.0,,,,,750.0,445.0,
+Lake Clark NP & PRES,,National Park,,,2025,8,6605,804.0,28786,1608.0,,,,,708.0,0.0,0.0
+Lassen Volcanic NP,,National Park,,,2025,8,107873,,1105035,,,0.0,16209.0,5112.0,309.0,,170.0
+Mammoth Cave NP,,National Park,,,2025,8,86945,7822.0,662164,3911.0,1941.0,,6519.0,1658.0,443.0,,602.0
+Mesa Verde NP,,National Park,,,2025,8,62596,1772.0,414792,1772.0,1920.0,,2665.0,2805.0,,,5.0
+Mount Rainier NP,,National Park,,,2025,8,390508,198270.0,7810160,198270.0,9838.0,,9006.0,4056.0,14036.0,,55.0
+National Park of American Samoa,,National Park,,,2025,8,1351,,2701,,,,,,,,
+New River Gorge NP & PRES,,National Park,,,2025,8,270105,3000.0,786031,750.0,,,2641.0,1812.0,2170.0,,300.0
+North Cascades NP,,National Park,,,2025,8,14431,,196408,,,,,,7160.0,,
+Olympic NP,,National Park,,,2025,8,565204,27611.0,2717550,12863.0,0.0,0.0,31920.0,34544.0,14820.0,,0.0
+Petrified Forest NP,,National Park,,,2025,8,43397,10.0,104039,10.0,,,,,16.0,,
+Pinnacles NP,,National Park,,,2025,8,23931,,296407,,,9755.0,,,,,
+Redwood NP,,National Park,,,2025,8,177735,902.0,711103,227.0,,,0.0,,3996.0,,145.0
+Rocky Mountain NP,,National Park,,,2025,8,675717,2300.0,4932625,6900.0,,,29722.0,12837.0,9337.0,,2999.0
+Saguaro NP,,National Park,,,2025,8,31601,388599.0,51698,97150.0,,,,,42.0,,
+Sequoia NP,,National Park,,,2025,8,195347,995.0,7110622,3980.0,7678.0,,20482.0,20314.0,10284.0,,
+Shenandoah NP,,National Park,,,2025,8,215114,1414.0,1361462,354.0,5351.0,,20538.0,8004.0,1796.0,,123.0
+Theodore Roosevelt NP,,National Park,,,2025,8,151582,621.0,563650,205.0,,,2387.0,4174.0,142.0,,319.0
+Virgin Islands NP,,National Park,,,2025,8,25100,15000.0,154367,3750.0,226.0,215.0,,,,0.0,0.0
+Voyageurs NP,,National Park,,,2025,8,42785,,205795,,888.0,,,,15818.0,,1567.0
+White Sands NP,,National Park,,,2025,8,49344,,24672,,,,,,,,
+Wind Cave NP,,National Park,,,2025,8,108995,24290.0,315757,8016.0,,,0.0,0.0,121.0,,0.0
+Wrangell-St. Elias NP & PRES,,National Park,,,2025,8,20020,,920935,,,,,,11.0,,6643.0
+Yellowstone NP,,National Park,,,2025,8,881936,189545.0,17061452,105041.0,132682.0,103037.0,13612.0,7834.0,12598.0,,163.0
+Yosemite NP,,National Park,,,2025,8,586650,22662.0,8001560,572337.0,0.0,,98407.0,43412.0,35976.0,,3216.0
+Zion NP,,National Park,,,2025,8,476657,1860.0,3011400,465.0,9073.0,,9288.0,8066.0,742.0,,3192.0
+Acadia NP,,National Park,,,2025,7,797030,7500.0,5182020,7500.0,,289.0,29762.0,11799.0,213.0,,3122.0
+Arches NP,,National Park,,,2025,7,158207,731.0,1068662,2350.0,,,2005.0,3137.0,3.0,,716.0
+Badlands NP,,National Park,,,2025,7,232859,8231.0,1016894,4115.0,831.0,7106.0,727.0,150.0,248.0,,
+Big Bend NP,,National Park,,,2025,7,21457,225.0,321301,675.0,0.0,297.0,1697.0,97.0,529.0,,39.0
+Biscayne NP,,National Park,,,2025,7,47308,,141923,,,,0.0,,,,0.0
+Black Canyon of the Gunnison NP,,National Park,,,2025,7,50,,53729,,,,1297.0,664.0,30.0,,
+Bryce Canyon NP,,National Park,,,2025,7,297345,53030.0,2019335,15909.0,7539.0,,8514.0,7167.0,144.0,,349.0
+Canyonlands NP,,National Park,,,2025,7,66388,,396356,,,,1249.0,582.0,3840.0,,34.0
+Capitol Reef NP,,National Park,,,2025,7,122287,5818.0,158776,5818.0,,,3618.0,2809.0,13.0,,439.0
+Carlsbad Caverns NP,,National Park,,,2025,7,51590,,204289,,,,,,3.0,,
+Channel Islands NP,,National Park,,,2025,7,27768,730.0,277436,17520.0,,,,,6993.0,730.0,6566.0
+Congaree NP,,National Park,,,2025,7,22633,,78599,,,,488.0,,29.0,,18.0
+Crater Lake NP,,National Park,,,2025,7,178886,6500.0,903502,3250.0,3265.0,10669.0,,,589.0,,
+Cuyahoga Valley NP,,National Park,,,2025,7,366257,,1139862,,158.0,,,,,,90.0
+Death Valley NP,,National Park,,,2025,7,89276,3532.0,522813,5298.0,2323.0,62.0,321.0,230.0,82.0,,0.0
+Denali NP & PRES,,National Park,,,2025,7,151455,172326.0,1666908,43082.0,,5873.0,,,1987.0,,
+Dry Tortugas NP,,National Park,,,2025,7,8245,267.0,59360,3204.0,,,320.0,,,267.0,1176.0
+Everglades NP,,National Park,,,2025,7,70103,300.0,286391,1350.0,,1108.0,,,92.0,,0.0
+Gates of the Arctic NP & PRES,,National Park,,,2025,7,3733,,38458,,,,,,1533.0,,
+Gateway Arch NP,,National Park,,,2025,7,496115,,1091453,,,,,,,,
+Glacier Bay NP & PRES,,National Park,,,2025,7,4597,0.0,142812,0.0,0.0,,218.0,,897.0,0.0,4437.0
+Glacier NP,,National Park,,,2025,7,765061,95.0,9168543,855.0,29655.0,,33674.0,32094.0,10043.0,,3248.0
+Grand Canyon NP,,National Park,,,2025,7,459269,749.0,7190108,749.0,50737.0,9097.0,9081.0,4901.0,8729.0,,1199.0
+Grand Teton NP,,National Park,,,2025,7,787186,172718.0,5789367,172718.0,55359.0,107825.0,0.0,0.0,12601.0,,
+Great Basin NP,,National Park,,,2025,7,36941,300.0,274336,150.0,,,5758.0,1824.0,54.0,,18.0
+Great Sand Dunes NP & PRES,,National Park,,,2025,7,73599,45.0,517098,45.0,,,3959.0,5730.0,1840.0,,1950.0
+Great Smoky Mountains NP,,National Park,,,2025,7,1435337,1016000.0,6593187,508000.0,1307.0,,31155.0,21620.0,5479.0,,8000.0
+Guadalupe Mountains NP,,National Park,,,2025,7,11328,120.0,33240,120.0,,,959.0,507.0,113.0,,157.0
+Haleakala NP,,National Park,,,2025,7,91757,1680.0,257746,1680.0,,,1979.0,,514.0,,600.0
+Hawaii Volcanoes NP,,National Park,,,2025,7,171827,161335.0,1092077,53240.0,3316.0,757.0,76.0,0.0,340.0,,7333.0
+Hot Springs NP,,National Park,,,2025,7,326302,12572.0,903552,14333.0,,,61.0,3350.0,,,
+Indiana Dunes NP,,National Park,,,2025,7,423731,335.0,1397132,167.0,,,5025.0,1972.0,,,
+Isle Royale NP,,National Park,,,2025,7,8484,5.0,428751,20.0,4421.0,0.0,1189.0,,5896.0,0.0,6461.0
+Joshua Tree NP,,National Park,,,2025,7,139664,514.0,593531,514.0,,,3652.0,1506.0,63.0,,958.0
+Katmai NP & PRES,,National Park,,,2025,7,14447,2168.0,173931,13442.0,1645.0,,1870.0,,0.0,0.0,
+Kenai Fjords NP,,National Park,,,2025,7,134575,,432180,,,,238.0,,13.0,,149.0
+Kings Canyon NP,,National Park,,,2025,7,128217,4264.0,4731204,17056.0,5699.0,,22454.0,8847.0,3921.0,,439.0
+Kobuk Valley NP,,National Park,,,2025,7,1897,760.0,19147,25280.0,,,,,525.0,800.0,
+Lake Clark NP & PRES,,National Park,,,2025,7,9139,1047.0,40036,2094.0,,,,,989.0,0.0,0.0
+Lassen Volcanic NP,,National Park,,,2025,7,113063,,1302537,,,0.0,17649.0,7890.0,253.0,,3930.0
+Mammoth Cave NP,,National Park,,,2025,7,102778,6000.0,753618,3000.0,2747.0,,6859.0,1846.0,362.0,,732.0
+Mesa Verde NP,,National Park,,,2025,7,78589,2078.0,523632,2078.0,2021.0,,3613.0,3790.0,,,20.0
+Mount Rainier NP,,National Park,,,2025,7,391578,193202.0,7831550,193202.0,10201.0,,9765.0,5274.0,13955.0,,49.0
+National Park of American Samoa,,National Park,,,2025,7,9078,,18157,,,,,,,,
+New River Gorge NP & PRES,,National Park,,,2025,7,259769,3000.0,789982,750.0,,,3746.0,1447.0,2713.0,,879.0
+North Cascades NP,,National Park,,,2025,7,16828,,209721,,,,,,7219.0,,
+Olympic NP,,National Park,,,2025,7,539855,133451.0,3501122,40816.0,0.0,0.0,28017.0,41412.0,36923.0,,
+Petrified Forest NP,,National Park,,,2025,7,49151,10.0,125213,10.0,,,,,33.0,,
+Pinnacles NP,,National Park,,,2025,7,28051,,313287,,,9861.0,,,,,
+Redwood NP,,National Park,,,2025,7,199369,902.0,799206,227.0,,,0.0,,4612.0,,105.0
+Rocky Mountain NP,,National Park,,,2025,7,763213,2050.0,5455662,6150.0,,,27814.0,11820.0,11872.0,,3268.0
+Saguaro NP,,National Park,,,2025,7,34647,409787.0,56877,102447.0,,,,,27.0,,
+Sequoia NP,,National Park,,,2025,7,200392,1047.0,7394466,4188.0,7605.0,,19293.0,5492.0,6516.0,,
+Shenandoah NP,,National Park,,,2025,7,188144,1414.0,1200656,354.0,5391.0,,18033.0,7119.0,1145.0,,64.0
+Theodore Roosevelt NP,,National Park,,,2025,7,155747,622.0,575640,205.0,,,3008.0,3723.0,143.0,,262.0
+Virgin Islands NP,,National Park,,,2025,7,43356,15000.0,266640,3750.0,382.0,287.0,,,,0.0,0.0
+Voyageurs NP,,National Park,,,2025,7,42178,,194986,,1108.0,,,,15091.0,,1677.0
+White Sands NP,,National Park,,,2025,7,70086,,35043,,,,,,,,
+Wind Cave NP,,National Park,,,2025,7,111639,24880.0,418651,8210.0,,,1850.0,2105.0,156.0,,504.0
+Wrangell-St. Elias NP & PRES,,National Park,,,2025,7,28195,,1296972,,,,,,17.0,,7815.0
+Yellowstone NP,,National Park,,,2025,7,975109,199376.0,18360248,110339.0,131842.0,109073.0,15477.0,8510.0,10879.0,,1675.0
+Yosemite NP,,National Park,,,2025,7,604907,23493.0,9898564,598316.0,79756.0,,78791.0,41752.0,42989.0,,2213.0
+Zion NP,,National Park,,,2025,7,529798,1860.0,3341625,465.0,10121.0,,9984.0,9045.0,791.0,,3727.0

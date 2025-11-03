@@ -1,0 +1,493 @@
+ParkName,UnitCode,ParkType,Region,State,Year,Month,RecreationVisits,NonRecreationVisits,RecreationHours,NonRecreationHours,ConcessionerLodging,ConcessionerCamping,TentCampers,RVCampers,Backcountry,NonRecreationOvernightStays,MiscellaneousOvernightStays
+Acadia NP,,,,,2025,January,13183,600,87009,600,,,,,,,
+Acadia NP,,,,,2025,February,10352,600,68326,600,,,,,,,
+Acadia NP,,,,,2025,March,26000,600,171600,600,,,,,,,
+Acadia NP,,,,,2025,April,95200,600,552160,600,,,,,,,
+Acadia NP,,,,,2025,May,323243,7500,2340119,7500,,34,11606,4468,80,,867
+Acadia NP,,,,,2025,June,631333,7500,4699110,7500,,200,25087,10222,221,,2294
+Acadia NP,,National Park,,,2025,July,797030,7500,5182020,7500,,289,29762,11799,213,,3122
+Acadia NP,,National Park,,,2025,August,844268,7500,5420311,7500,,456,31331,10181,330,,2993
+Arches NP,,,,,2025,January,31870,27,205878,218,,,252,485,,,
+Arches NP,,,,,2025,February,51541,41,336401,200,,,325,948,3,,79
+Arches NP,,,,,2025,March,152554,362,1037122,1469,,,1817,3297,15,,825
+Arches NP,,,,,2025,April,162090,792,1080481,3163,,,1571,2783,16,,988
+Arches NP,,,,,2025,May,193448,1137,1259411,3873,,,1697,2300,19,,1018
+Arches NP,,,,,2025,June,175660,777,1166847,2564,,,2114,2485,11,,996
+Arches NP,,National Park,,,2025,July,158207,731,1068662,2350,,,2005,3137,3,,716
+Arches NP,,National Park,,,2025,August,150262,625,1005157,1998,,,2019,2582,11,,495
+Badlands NP,,,,,2025,January,9962,2066,39021,1033,,5,1,2,6,,
+Badlands NP,,,,,2025,February,10111,1976,39482,988,,3,0,1,0,,
+Badlands NP,,,,,2025,March,26683,2486,106666,1243,,69,35,28,85,,
+Badlands NP,,,,,2025,April,46381,3071,194687,1535,520,388,123,41,78,,
+Badlands NP,,,,,2025,May,125814,6281,587994,3140,1697,5459,471,138,345,,
+Badlands NP,,,,,2025,June,221824,7781,984742,3890,2093,6817,717,128,214,,
+Badlands NP,,National Park,,,2025,July,232859,8231,1016894,4115,831,7106,727,150,248,,
+Badlands NP,,National Park,,,2025,August,214978,8531,932362,4265,832,6137,519,159,182,,
+Big Bend NP,,,,,2025,January,49001,225,1072288,675,2126,363,7366,4402,4563,,1358
+Big Bend NP,,,,,2025,February,52227,225,1057666,675,1895,380,5844,4666,3411,,1760
+Big Bend NP,,,,,2025,March,106911,225,2085089,675,2797,473,11755,4264,10304,,3830
+Big Bend NP,,,,,2025,April,64252,225,1214573,675,2049,189,8791,2754,2809,,1889
+Big Bend NP,,,,,2025,May,41026,225,751732,675,1595,360,5286,742,2047,,779
+Big Bend NP,,,,,2025,June,24636,225,402882,675,374,301,2607,286,844,,57
+Big Bend NP,,National Park,,,2025,July,21457,225,321301,675,0,297,1697,97,529,,39
+Big Bend NP,,National Park,,,2025,August,19830,225,306170,675,0,300,1752,107,525,,158
+Biscayne NP,,,,,2025,January,32016,,101567,,,,0,,,,230
+Biscayne NP,,,,,2025,February,40123,,125098,,,,0,,,,197
+Biscayne NP,,,,,2025,March,42949,,135494,,,,0,,,,277
+Biscayne NP,,,,,2025,April,45935,,137804,,,,0,,,,0
+Biscayne NP,,,,,2025,May,53602,,160806,,,,0,,,,0
+Biscayne NP,,,,,2025,June,45403,,136210,,,,0,,,,0
+Biscayne NP,,National Park,,,2025,July,47308,,141923,,,,0,,,,0
+Biscayne NP,,National Park,,,2025,August,21616,,64847,,,,0,,,,0
+Black Canyon of the Gunnison NP,,,,,2025,January,9005,,17566,,,,14,19,,,
+Black Canyon of the Gunnison NP,,,,,2025,February,7578,,14435,,,,7,7,,,
+Black Canyon of the Gunnison NP,,,,,2025,March,10761,,19856,,,,0,0,4,,
+Black Canyon of the Gunnison NP,,,,,2025,April,170,,16484,,,,215,296,40,,
+Black Canyon of the Gunnison NP,,,,,2025,May,50,,172602,,,,3220,2840,180,,
+Black Canyon of the Gunnison NP,,,,,2025,June,50,,210660,,,,3881,3525,547,,
+Black Canyon of the Gunnison NP,,National Park,,,2025,July,50,,53729,,,,1297,664,30,,
+Black Canyon of the Gunnison NP,,National Park,,,2025,August,50,,0,,,,0,0,0,,
+Bryce Canyon NP,,,,,2025,January,39682,21000,129314,6300,,,43,382,3,,
+Bryce Canyon NP,,,,,2025,February,45010,18200,153635,5460,,,89,686,0,,
+Bryce Canyon NP,,,,,2025,March,106961,27005,397428,8101,693,,466,1853,178,,
+Bryce Canyon NP,,,,,2025,April,258368,33007,1066187,9902,5353,,1826,4512,437,,
+Bryce Canyon NP,,,,,2025,May,332079,51000,1470569,15300,7112,,5698,6379,560,,15
+Bryce Canyon NP,,,,,2025,June,316192,57006,2102563,17102,7745,,8133,7740,317,,2
+Bryce Canyon NP,,National Park,,,2025,July,297345,53030,2019335,15909,7539,,8514,7167,144,,349
+Bryce Canyon NP,,National Park,,,2025,August,301864,52024,2006331,15607,7754,,7929,6759,119,,264
+Canyonlands NP,,,,,2025,January,10730,,52118,,,,103,204,168,,
+Canyonlands NP,,,,,2025,February,17903,,95581,,,,197,446,641,,
+Canyonlands NP,,,,,2025,March,83067,,542587,,,,826,1019,6885,,179
+Canyonlands NP,,,,,2025,April,108035,,700492,,,,1081,1652,8664,,355
+Canyonlands NP,,,,,2025,May,120667,,835895,,,,1165,1602,12042,,408
+Canyonlands NP,,,,,2025,June,87146,,545090,,,,661,683,6787,,205
+Canyonlands NP,,National Park,,,2025,July,66388,,396356,,,,1249,582,3840,,34
+Canyonlands NP,,National Park,,,2025,August,61026,,356776,,,,552,468,3959,,77
+Capitol Reef NP,,,,,2025,January,17002,7700,16785,7700,,,178,164,6,,
+Capitol Reef NP,,,,,2025,February,20196,8646,25214,8646,,,330,362,5,,
+Capitol Reef NP,,,,,2025,March,104856,14746,195469,14746,,,2843,2399,461,,
+Capitol Reef NP,,,,,2025,April,156599,9189,264312,9189,,,2206,2997,537,,521
+Capitol Reef NP,,,,,2025,May,221189,10313,307434,10313,,,2838,2779,457,,306
+Capitol Reef NP,,,,,2025,June,167193,7863,193283,7863,,,3631,2857,93,,512
+Capitol Reef NP,,National Park,,,2025,July,122287,5818,158776,5818,,,3618,2809,13,,439
+Capitol Reef NP,,National Park,,,2025,August,110159,5175,170265,5175,,,3336,2790,57,,393
+Carlsbad Caverns NP,,,,,2025,January,23733,,86868,,,,,,22,,
+Carlsbad Caverns NP,,,,,2025,February,22343,,81968,,,,,,8,,
+Carlsbad Caverns NP,,,,,2025,March,54906,,200552,,,,,,6,,
+Carlsbad Caverns NP,,,,,2025,April,33579,,126114,,,,,,4,,
+Carlsbad Caverns NP,,,,,2025,May,34369,,134277,,,,,,18,,
+Carlsbad Caverns NP,,,,,2025,June,50337,,195953,,,,,,17,,
+Carlsbad Caverns NP,,National Park,,,2025,July,51590,,204289,,,,,,3,,
+Carlsbad Caverns NP,,National Park,,,2025,August,36492,,145935,,,,,,1,,
+Channel Islands NP,,,,,2025,January,0,688,0,16512,,,,,0,688,896
+Channel Islands NP,,,,,2025,February,0,342,0,8208,,,,,0,342,504
+Channel Islands NP,,,,,2025,March,0,450,0,10800,,,,,0,450,1589
+Channel Islands NP,,,,,2025,April,0,458,0,10992,,,,,0,458,2142
+Channel Islands NP,,,,,2025,May,22680,576,239094,13824,,,,,5714,576,3528
+Channel Islands NP,,,,,2025,June,25655,564,260553,13536,,,,,6872,564,4334
+Channel Islands NP,,National Park,,,2025,July,27768,730,277436,17520,,,,,6993,730,6566
+Channel Islands NP,,National Park,,,2025,August,22831,778,242602,18672,,,,,6538,778,8375
+Congaree NP,,,,,2025,January,15129,,58528,,,,348,,39,,270
+Congaree NP,,,,,2025,February,17865,,74014,,,,430,,29,,562
+Congaree NP,,,,,2025,March,33391,,144194,,,,1340,,182,,679
+Congaree NP,,,,,2025,April,33238,,134014,,,,1062,,81,,572
+Congaree NP,,,,,2025,May,33957,,120872,,,,662,,69,,219
+Congaree NP,,,,,2025,June,24877,,93632,,,,754,,9,,187
+Congaree NP,,National Park,,,2025,July,22633,,78599,,,,488,,29,,18
+Congaree NP,,National Park,,,2025,August,20223,,72268,,,,200,,10,,370
+Crater Lake NP,,,,,2025,January,4958,2100,18794,1050,,,,,72,,
+Crater Lake NP,,,,,2025,February,3060,2400,11491,1200,,,,,39,,
+Crater Lake NP,,,,,2025,March,5633,2800,21455,1400,,,,,87,,
+Crater Lake NP,,,,,2025,April,14832,4800,54772,2400,,,,,143,,
+Crater Lake NP,,,,,2025,May,31922,4900,133532,2450,1254,,,,87,,
+Crater Lake NP,,,,,2025,June,73327,6100,335337,3050,3092,1397,,,64,,
+Crater Lake NP,,National Park,,,2025,July,178886,6500,903502,3250,3265,10669,,,589,,
+Crater Lake NP,,National Park,,,2025,August,189696,3900,994932,1950,6696,10631,,,562,,
+Cuyahoga Valley NP,,,,,2025,January,128093,,398800,,70,,,,,,25
+Cuyahoga Valley NP,,,,,2025,February,105373,,328313,,62,,,,,,30
+Cuyahoga Valley NP,,,,,2025,March,197814,,617867,,143,,,,,,115
+Cuyahoga Valley NP,,,,,2025,April,219218,,686612,,106,,,,,,285
+Cuyahoga Valley NP,,,,,2025,May,284091,,888117,,133,,,,,,280
+Cuyahoga Valley NP,,,,,2025,June,319855,,1006185,,143,,,,,,670
+Cuyahoga Valley NP,,National Park,,,2025,July,366257,,1139862,,158,,,,,,90
+Cuyahoga Valley NP,,National Park,,,2025,August,386494,,1201587,,102,,,,,,90
+Death Valley NP,,,,,2025,January,123593,4948,990812,7422,3341,353,9334,11603,1934,,50
+Death Valley NP,,,,,2025,February,119257,4753,1030988,7129,3530,343,11642,14006,2485,,64
+Death Valley NP,,,,,2025,March,144755,5737,1259654,8605,4533,401,14730,16160,3776,,122
+Death Valley NP,,,,,2025,April,146003,5728,1015077,8591,4399,397,6608,6806,433,,50
+Death Valley NP,,,,,2025,May,105278,4039,657178,6058,2275,307,2117,1837,301,,3
+Death Valley NP,,,,,2025,June,76156,2973,452771,4460,2287,98,524,320,75,,0
+Death Valley NP,,National Park,,,2025,July,89276,3532,522813,5298,2323,62,321,230,82,,0
+Death Valley NP,,National Park,,,2025,August,97214,3816,573303,5724,3305,70,344,234,31,,0
+Denali NP & PRES,,,,,2025,January,2254,14384,24422,3596,,,,,80,,
+Denali NP & PRES,,,,,2025,February,3508,14642,36082,3661,,,,,37,,
+Denali NP & PRES,,,,,2025,March,8474,21568,90066,5392,,,,,203,,
+Denali NP & PRES,,,,,2025,April,8005,47840,139822,11960,,,,,2637,,
+Denali NP & PRES,,,,,2025,May,42821,134396,712959,33599,,1650,,,10783,,
+Denali NP & PRES,,,,,2025,June,122002,168991,1545421,42248,,5019,,,10630,,
+Denali NP & PRES,,National Park,,,2025,July,151455,172326,1666908,43082,,5873,,,1987,,
+Denali NP & PRES,,National Park,,,2025,August,142813,127848,1550601,31962,,5485,,,1198,,
+Dry Tortugas NP,,,,,2025,January,7181,72,50285,864,,,284,,,72,242
+Dry Tortugas NP,,,,,2025,February,7349,150,53020,1800,,,346,,,150,826
+Dry Tortugas NP,,,,,2025,March,7715,144,54629,1728,,,298,,,144,873
+Dry Tortugas NP,,,,,2025,April,8225,252,58357,3024,,,374,,,252,968
+Dry Tortugas NP,,,,,2025,May,10012,210,74505,2520,,,568,,,210,2526
+Dry Tortugas NP,,,,,2025,June,8022,189,57736,2268,,,340,,,189,953
+Dry Tortugas NP,,National Park,,,2025,July,8245,267,59360,3204,,,320,,,267,1176
+Dry Tortugas NP,,National Park,,,2025,August,7277,96,54322,1152,,,302,,,96,872
+Everglades NP,,,,,2025,January,89939,600,879358,2700,,15244,,,3789,,46
+Everglades NP,,,,,2025,February,87926,600,2243207,2700,,63448,,,3217,,52
+Everglades NP,,,,,2025,March,99017,600,823047,2700,,12795,,,3210,,44
+Everglades NP,,,,,2025,April,84148,600,524424,2700,,6529,,,824,,0
+Everglades NP,,,,,2025,May,61712,600,308417,2700,,1699,,,508,,0
+Everglades NP,,,,,2025,June,59249,300,240968,1350,,787,,,139,,0
+Everglades NP,,National Park,,,2025,July,70103,300,286391,1350,,1108,,,92,,0
+Everglades NP,,National Park,,,2025,August,27787,300,111472,1350,,0,,,66,,0
+Gates of the Arctic NP & PRES,,,,,2025,May,362,,181,,,,,,,,
+Gates of the Arctic NP & PRES,,,,,2025,June,3117,,19013,,,,,,733,,
+Gates of the Arctic NP & PRES,,National Park,,,2025,July,3733,,38458,,,,,,1533,,
+Gates of the Arctic NP & PRES,,National Park,,,2025,August,3193,,30546,,,,,,1211,,
+Gateway Arch NP,,,,,2025,January,55940,,123068,,,,,,,,
+Gateway Arch NP,,,,,2025,February,64747,,142444,,,,,,,,
+Gateway Arch NP,,,,,2025,March,216702,,476745,,,,,,,,
+Gateway Arch NP,,,,,2025,April,179579,,395075,,,,,,,,
+Gateway Arch NP,,,,,2025,May,227381,,500237,,,,,,,,
+Gateway Arch NP,,,,,2025,June,277953,,611496,,,,,,,,
+Gateway Arch NP,,National Park,,,2025,July,496115,,1091453,,,,,,,,
+Gateway Arch NP,,National Park,,,2025,August,246139,,541506,,,,,,,,
+Glacier Bay NP & PRES,,,,,2025,January,285,,3948,,,,,,8,,115
+Glacier Bay NP & PRES,,,,,2025,February,223,18,2760,4320,,,,,0,180,82
+Glacier Bay NP & PRES,,,,,2025,March,248,4,3096,960,,,,,22,40,70
+Glacier Bay NP & PRES,,,,,2025,April,336,0,4598,0,,,0,,45,0,97
+Glacier Bay NP & PRES,,,,,2025,May,1352,0,35358,0,0,,26,,184,0,1116
+Glacier Bay NP & PRES,,,,,2025,June,3458,0,95412,0,0,,229,,964,0,2438
+Glacier Bay NP & PRES,,National Park,,,2025,July,4597,0,142812,0,0,,218,,897,0,4437
+Glacier Bay NP & PRES,,National Park,,,2025,August,3187,0,97414,0,0,,145,,541,0,3088
+Glacier NP,,,,,2025,January,17984,1,71971,4,,,0,0,2,,
+Glacier NP,,,,,2025,February,15202,2,60934,8,,,0,0,7,,
+Glacier NP,,,,,2025,March,25909,2,104644,8,,,0,0,56,,
+Glacier NP,,,,,2025,April,48576,9,211322,36,,,408,492,46,,
+Glacier NP,,,,,2025,May,238766,25,1352799,100,3664,,7241,10218,312,,662
+Glacier NP,,,,,2025,June,576577,32,6876928,288,22155,,23233,29055,3437,,2489
+Glacier NP,,National Park,,,2025,July,765061,95,9168543,855,29655,,33674,32094,10043,,3248
+Glacier NP,,National Park,,,2025,August,718766,123,8727571,1107,29359,,33945,29586,12392,,2274
+Grand Canyon NP,,,,,2025,January,191862,3174,2941690,3174,25539,1741,784,329,7922,,126
+Grand Canyon NP,,,,,2025,February,206935,303,3231980,303,25053,1548,997,419,8469,,144
+Grand Canyon NP,,,,,2025,March,350351,383,5364952,383,53789,6983,7096,3185,21520,,798
+Grand Canyon NP,,,,,2025,April,460907,4520,7116936,4520,52973,7856,11499,7969,21556,,1515
+Grand Canyon NP,,,,,2025,May,508642,488,8021219,488,58586,6795,12993,11561,17480,,2021
+Grand Canyon NP,,,,,2025,June,455209,3929,7116578,3929,76032,10278,16797,12215,12018,,1768
+Grand Canyon NP,,National Park,,,2025,July,459269,749,7190108,749,50737,9097,9081,4901,8729,,1199
+Grand Canyon NP,,National Park,,,2025,August,423811,2553,6660659,2553,48638,7132,6805,3738,7613,,940
+Grand Teton NP,,,,,2025,January,50745,104150,162921,104150,204,,,29,315,,
+Grand Teton NP,,,,,2025,February,53580,125211,164232,125211,173,,0,0,6,,
+Grand Teton NP,,,,,2025,March,64716,133068,197247,133068,34,,0,91,34,,
+Grand Teton NP,,,,,2025,April,77629,107449,234894,107449,0,0,0,25,78,,
+Grand Teton NP,,,,,2025,May,341521,135562,1892372,135562,13864,29422,0,0,1217,,
+Grand Teton NP,,,,,2025,June,680406,166789,4753513,166789,51535,82471,0,0,5086,,
+Grand Teton NP,,National Park,,,2025,July,787186,172718,5789367,172718,55359,107825,0,0,12601,,
+Grand Teton NP,,National Park,,,2025,August,735593,159297,5159684,159297,50369,86881,0,0,14181,,
+Great Basin NP,,,,,2025,January,4023,350,10756,175,,,4,60,0,,
+Great Basin NP,,,,,2025,February,1760,250,9173,125,,,70,116,2,,
+Great Basin NP,,,,,2025,March,1719,250,16385,125,,,81,368,7,,
+Great Basin NP,,,,,2025,April,8772,200,45150,100,,,434,539,4,,
+Great Basin NP,,,,,2025,May,15774,150,155795,75,,,1925,2800,18,,120
+Great Basin NP,,,,,2025,June,27450,100,229048,50,,,3441,3084,24,,124
+Great Basin NP,,National Park,,,2025,July,36941,300,274336,150,,,5758,1824,54,,18
+Great Basin NP,,National Park,,,2025,August,19629,300,211257,150,,,4967,1470,58,,47
+Great Sand Dunes NP & PRES,,,,,2025,January,5475,35,19730,35,,,,,51,,
+Great Sand Dunes NP & PRES,,,,,2025,February,7958,35,28301,35,,,,,55,,
+Great Sand Dunes NP & PRES,,,,,2025,March,27128,35,100560,35,,,,,395,,
+Great Sand Dunes NP & PRES,,,,,2025,April,22172,35,204342,35,,,2102,3059,678,,686
+Great Sand Dunes NP & PRES,,,,,2025,May,61955,45,472632,45,,,3818,5487,1902,,2043
+Great Sand Dunes NP & PRES,,,,,2025,June,75009,45,539356,45,,,4076,6167,2227,,1907
+Great Sand Dunes NP & PRES,,National Park,,,2025,July,73599,45,517098,45,,,3959,5730,1840,,1950
+Great Sand Dunes NP & PRES,,National Park,,,2025,August,61477,45,448526,45,,,3374,5238,1706,,1793
+Great Smoky Mountains NP,,,,,2025,January,289408,686000,774584,343000,,,464,373,767,,
+Great Smoky Mountains NP,,,,,2025,February,410648,701000,1064630,350500,,,598,402,1071,,
+Great Smoky Mountains NP,,,,,2025,March,845781,920000,2567727,460000,308,,7979,3723,7493,,0
+Great Smoky Mountains NP,,,,,2025,April,986442,870000,3188751,435000,1097,,10301,8766,10296,,1452
+Great Smoky Mountains NP,,,,,2025,May,1111432,805000,5173517,402500,1287,,25080,20269,10698,,5889
+Great Smoky Mountains NP,,,,,2025,June,1336144,999000,6512606,499500,1388,,38907,23848,8450,,8533
+Great Smoky Mountains NP,,National Park,,,2025,July,1435337,1016000,6593187,508000,1307,,31155,21620,5479,,8000
+Great Smoky Mountains NP,,National Park,,,2025,August,936664,964000,4608671,482000,1331,,22900,15378,4962,,6160
+Guadalupe Mountains NP,,,,,2025,January,8692,120,32749,120,,,852,602,106,,298
+Guadalupe Mountains NP,,,,,2025,February,16664,120,39714,120,,,978,736,111,,206
+Guadalupe Mountains NP,,,,,2025,March,30339,120,96518,120,,,2216,1138,598,,858
+Guadalupe Mountains NP,,,,,2025,April,28735,120,51880,120,,,1146,635,202,,352
+Guadalupe Mountains NP,,,,,2025,May,17702,120,44211,120,,,1080,537,192,,381
+Guadalupe Mountains NP,,,,,2025,June,12543,120,40527,120,,,1354,458,115,,372
+Guadalupe Mountains NP,,National Park,,,2025,July,11328,120,33240,120,,,959,507,113,,157
+Guadalupe Mountains NP,,National Park,,,2025,August,8714,120,23383,120,,,860,283,74,,90
+Haleakala NP,,,,,2025,January,59527,1680,185077,1680,,,1731,,409,,611
+Haleakala NP,,,,,2025,February,60141,1680,172385,1680,,,1459,,270,,442
+Haleakala NP,,,,,2025,March,76026,1680,177684,1680,,,837,,148,,83
+Haleakala NP,,,,,2025,April,65751,1680,193661,1680,,,1641,,408,,541
+Haleakala NP,,,,,2025,May,77060,1680,211481,1680,,,1615,,297,,478
+Haleakala NP,,,,,2025,June,72944,1680,216160,1680,,,1913,,396,,619
+Haleakala NP,,National Park,,,2025,July,91757,1680,257746,1680,,,1979,,514,,600
+Haleakala NP,,National Park,,,2025,August,82328,1680,231712,1680,,,1776,,448,,570
+Hawaii Volcanoes NP,,,,,2025,January,181117,148928,1118977,49146,2813,365,156,0,520,,6920
+Hawaii Volcanoes NP,,,,,2025,February,158216,148216,963107,48911,2411,479,78,0,415,,5477
+Hawaii Volcanoes NP,,,,,2025,March,162193,157217,1016635,51881,2869,450,82,0,389,,6647
+Hawaii Volcanoes NP,,,,,2025,April,147328,150184,923969,49561,2830,329,31,0,293,,6187
+Hawaii Volcanoes NP,,,,,2025,May,143362,146477,900954,48337,2752,381,29,0,516,,5513
+Hawaii Volcanoes NP,,,,,2025,June,173229,155341,1076334,51263,3043,418,63,0,590,,6428
+Hawaii Volcanoes NP,,National Park,,,2025,July,171827,161335,1092077,53240,3316,757,76,0,340,,7333
+Hawaii Volcanoes NP,,National Park,,,2025,August,157880,188105,969223,62075,3056,489,88,0,303,,5270
+Hot Springs NP,,,,,2025,January,106185,12373,332434,14105,,,49,2981,,,
+Hot Springs NP,,,,,2025,February,231464,12346,649007,14074,,,40,2783,,,
+Hot Springs NP,,,,,2025,March,252503,12446,691047,14189,,,0,2232,,,
+Hot Springs NP,,,,,2025,April,184431,12459,547343,14203,,,10,3750,,,
+Hot Springs NP,,,,,2025,May,189150,12497,539805,14246,,,50,2729,,,
+Hot Springs NP,,,,,2025,June,351571,12738,964801,14522,,,53,3186,,,
+Hot Springs NP,,National Park,,,2025,July,326302,12572,903552,14333,,,61,3350,,,
+Hot Springs NP,,National Park,,,2025,August,348642,12330,945584,14057,,,67,2586,,,
+Indiana Dunes NP,,,,,2025,January,83625,335,167251,167,,,,,,,
+Indiana Dunes NP,,,,,2025,February,63726,302,127452,151,,,,,,,
+Indiana Dunes NP,,,,,2025,March,164629,335,329259,167,,,,,,,
+Indiana Dunes NP,,,,,2025,April,140820,324,388330,162,,,1500,4427,,,
+Indiana Dunes NP,,,,,2025,May,271854,335,654861,167,,,3748,2427,,,
+Indiana Dunes NP,,,,,2025,June,425848,324,1398462,162,,,4501,2217,,,
+Indiana Dunes NP,,National Park,,,2025,July,423731,335,1397132,167,,,5025,1972,,,
+Indiana Dunes NP,,National Park,,,2025,August,393665,335,1303030,167,,,4625,2155,,,
+Isle Royale NP,,,,,2025,January,,0,,0,,,,,,0,
+Isle Royale NP,,,,,2025,February,,0,,0,,,,,,0,
+Isle Royale NP,,,,,2025,March,,0,,0,,,,,,0,
+Isle Royale NP,,,,,2025,April,69,0,577,0,,,0,,,0,24
+Isle Royale NP,,,,,2025,May,1542,0,26431,0,223,,66,,299,0,502
+Isle Royale NP,,,,,2025,June,6362,0,316837,0,3720,0,1076,,5260,0,3251
+Isle Royale NP,,National Park,,,2025,July,8484,5,428751,20,4421,0,1189,,5896,0,6461
+Isle Royale NP,,National Park,,,2025,August,8929,15,486508,832,4253,0,1922,,9560,34,4796
+Joshua Tree NP,,,,,2025,January,278104,973,1657144,973,,,14756,12873,1452,,8553
+Joshua Tree NP,,,,,2025,February,298792,1019,1660047,1019,,,15128,12297,2325,,5967
+Joshua Tree NP,,,,,2025,March,411993,1398,2375247,1398,,,24688,15117,3762,,10217
+Joshua Tree NP,,,,,2025,April,245143,718,1641660,718,,,26524,11766,0,,9700
+Joshua Tree NP,,,,,2025,May,230328,832,1375262,832,,,13756,7041,617,,8786
+Joshua Tree NP,,,,,2025,June,155366,570,740690,570,,,5532,2643,111,,2594
+Joshua Tree NP,,National Park,,,2025,July,139664,514,593531,514,,,3652,1506,63,,958
+Joshua Tree NP,,National Park,,,2025,August,146381,543,665402,543,,,4252,1869,145,,2063
+Katmai NP & PRES,,,,,2025,May,313,55,7509,341,,,23,,209,0,
+Katmai NP & PRES,,,,,2025,June,4503,901,143839,5586,1112,,1182,,2536,0,
+Katmai NP & PRES,,National Park,,,2025,July,14447,2168,173931,13442,1645,,1870,,0,0,
+Katmai NP & PRES,,National Park,,,2025,August,11185,2619,149075,16238,1535,,1787,,0,0,
+Kenai Fjords NP,,,,,2025,January,33,,610,,,,,,,,25
+Kenai Fjords NP,,,,,2025,February,24,,539,,,,,,,,23
+Kenai Fjords NP,,,,,2025,March,29,,914,,,,,,,,41
+Kenai Fjords NP,,,,,2025,April,0,,0,,,,,,,,0
+Kenai Fjords NP,,,,,2025,May,37955,,121147,,,,38,,26,,12
+Kenai Fjords NP,,,,,2025,June,87199,,222833,,,,166,,4,,44
+Kenai Fjords NP,,National Park,,,2025,July,134575,,432180,,,,238,,13,,149
+Kenai Fjords NP,,National Park,,,2025,August,97389,,258616,,,,196,,10,,192
+Kings Canyon NP,,,,,2025,January,23451,784,112562,3136,,,293,226,,,
+Kings Canyon NP,,,,,2025,February,15889,980,76267,3920,,,134,169,,,
+Kings Canyon NP,,,,,2025,March,22823,851,109550,3404,863,,378,289,,,
+Kings Canyon NP,,,,,2025,April,42133,1076,1533643,4304,2720,,805,693,5,,
+Kings Canyon NP,,,,,2025,May,98420,1511,3582500,6044,2782,,8739,4589,840,,122
+Kings Canyon NP,,,,,2025,June,67799,3508,2501775,14032,6930,,19465,7289,2427,,360
+Kings Canyon NP,,National Park,,,2025,July,128217,4264,4731204,17056,5699,,22454,8847,3921,,439
+Kings Canyon NP,,National Park,,,2025,August,119276,3557,4341648,14228,44293,,21351,7273,4014,,359
+Kobuk Valley NP,,,,,2025,January,882,690,10347,17208,,,,,290,487,
+Kobuk Valley NP,,,,,2025,February,715,390,9835,12240,,,,,295,380,
+Kobuk Valley NP,,,,,2025,March,848,395,11333,12520,,,,,340,390,
+Kobuk Valley NP,,,,,2025,April,1003,435,13543,14280,,,,,415,450,
+Kobuk Valley NP,,,,,2025,May,947,435,13400,14160,,,,,412,445,
+Kobuk Valley NP,,,,,2025,June,1739,600,20069,24000,,,,,570,800,
+Kobuk Valley NP,,National Park,,,2025,July,1897,760,19147,25280,,,,,525,800,
+Kobuk Valley NP,,National Park,,,2025,August,2021,800,25331,17080,,,,,750,445,
+Lake Clark NP & PRES,,,,,2025,May,349,105,808,210,,,,,5,0,
+Lake Clark NP & PRES,,,,,2025,June,6625,883,25460,1766,,,,,555,0,0
+Lake Clark NP & PRES,,National Park,,,2025,July,9139,1047,40036,2094,,,,,989,0,0
+Lake Clark NP & PRES,,National Park,,,2025,August,6605,804,28786,1608,,,,,708,0,0
+Lassen Volcanic NP,,,,,2025,January,7527,,46821,,,,,45,34,,
+Lassen Volcanic NP,,,,,2025,February,6438,,40602,,,,,81,13,,
+Lassen Volcanic NP,,,,,2025,March,6531,,40929,,,,0,63,20,,
+Lassen Volcanic NP,,,,,2025,April,11151,,69111,,,,0,60,45,,
+Lassen Volcanic NP,,,,,2025,May,36333,,307521,,,,2337,1245,40,,641
+Lassen Volcanic NP,,,,,2025,June,84606,,936015,,,120,10833,7401,87,,1958
+Lassen Volcanic NP,,National Park,,,2025,July,113063,,1302537,,,0,17649,7890,253,,3930
+Lassen Volcanic NP,,National Park,,,2025,August,107873,,1105035,,,0,16209,5112,309,,170
+Mammoth Cave NP,,,,,2025,January,16250,8036,92563,4018,306,,64,,30,,
+Mammoth Cave NP,,,,,2025,February,21056,7255,120587,3628,421,,176,,14,,
+Mammoth Cave NP,,,,,2025,March,74221,10495,511993,5247,1732,,4176,190,354,,589
+Mammoth Cave NP,,,,,2025,April,64740,6483,507101,3241,1935,,4321,2103,354,,692
+Mammoth Cave NP,,,,,2025,May,68430,6000,577950,3000,2126,,6426,2613,482,,617
+Mammoth Cave NP,,,,,2025,June,96793,6000,732569,3000,2352,,6835,2683,358,,674
+Mammoth Cave NP,,National Park,,,2025,July,102778,6000,753618,3000,2747,,6859,1846,362,,732
+Mammoth Cave NP,,National Park,,,2025,August,86945,7822,662164,3911,1941,,6519,1658,443,,602
+Mesa Verde NP,,,,,2025,January,6632,158,29843,158,,,,,,,
+Mesa Verde NP,,,,,2025,February,6795,168,30579,168,,,,,,,
+Mesa Verde NP,,,,,2025,March,17561,417,79024,417,,,,,,,
+Mesa Verde NP,,,,,2025,April,26231,564,141396,564,565,,263,470,,,
+Mesa Verde NP,,,,,2025,May,53728,1245,447803,1245,2644,,1995,6770,,,37
+Mesa Verde NP,,,,,2025,June,84693,1461,650300,1461,2644,,5385,6893,,,33
+Mesa Verde NP,,National Park,,,2025,July,78589,2078,523632,2078,2021,,3613,3790,,,20
+Mesa Verde NP,,National Park,,,2025,August,62596,1772,414792,1772,1920,,2665,2805,,,5
+Mount Rainier NP,,,,,2025,January,28052,,140262,,450,,,,243,,
+Mount Rainier NP,,,,,2025,February,12733,,63664,,559,,,,452,,
+Mount Rainier NP,,,,,2025,March,23593,,117967,,388,,,,577,,
+Mount Rainier NP,,,,,2025,April,41504,,207519,,440,,,,525,,
+Mount Rainier NP,,,,,2025,May,99974,36050,499868,36050,3578,,518,650,2280,,103
+Mount Rainier NP,,,,,2025,June,235402,99279,1177010,99279,8416,,3672,3510,6568,,774
+Mount Rainier NP,,National Park,,,2025,July,391578,193202,7831550,193202,10201,,9765,5274,13955,,49
+Mount Rainier NP,,National Park,,,2025,August,390508,198270,7810160,198270,9838,,9006,4056,14036,,55
+National Park of American Samoa,,National Park,,,2025,July,9078,,18157,,,,,,,,
+National Park of American Samoa,,National Park,,,2025,August,1351,,2701,,,,,,,,
+New River Gorge NP & PRES,,,,,2025,January,43672,1625,74164,406,,,257,126,158,,
+New River Gorge NP & PRES,,,,,2025,February,66345,1625,106318,406,,,174,104,147,,
+New River Gorge NP & PRES,,,,,2025,March,119225,1488,192518,372,,,353,167,263,,72
+New River Gorge NP & PRES,,,,,2025,April,56842,1488,143327,372,,,1248,867,1050,,464
+New River Gorge NP & PRES,,,,,2025,May,251739,1738,686211,434,,,1291,898,1085,,280
+New River Gorge NP & PRES,,,,,2025,June,263425,3000,748148,750,,,1938,1498,1575,,588
+New River Gorge NP & PRES,,National Park,,,2025,July,259769,3000,789982,750,,,3746,1447,2713,,879
+New River Gorge NP & PRES,,National Park,,,2025,August,270105,3000,786031,750,,,2641,1812,2170,,300
+North Cascades NP,,,,,2025,January,17,,506,,,,,,25,,
+North Cascades NP,,,,,2025,February,6,,110,,,,,,6,,
+North Cascades NP,,,,,2025,March,10,,242,,,,,,12,,
+North Cascades NP,,,,,2025,April,804,,7611,,,,,,206,,
+North Cascades NP,,,,,2025,May,1186,,12064,,,,,,369,,
+North Cascades NP,,,,,2025,June,2404,,38716,,,,,,1582,,
+North Cascades NP,,National Park,,,2025,July,16828,,209721,,,,,,7219,,
+North Cascades NP,,National Park,,,2025,August,14431,,196408,,,,,,7160,,
+Olympic NP,,,,,2025,January,99595,63457,239590,21741,1016,,710,902,227,,
+Olympic NP,,,,,2025,February,115894,64362,194047,22197,1136,,328,521,148,,
+Olympic NP,,,,,2025,March,132357,87373,262640,28878,1558,,1129,1518,530,,
+Olympic NP,,,,,2025,April,171452,106536,470808,33597,2970,6,2831,2898,1229,,
+Olympic NP,,,,,2025,May,428803,121539,1061348,36526,0,0,4971,4191,9398,,
+Olympic NP,,,,,2025,June,368686,123665,1971270,37395,1245,0,21779,14096,20911,,
+Olympic NP,,National Park,,,2025,July,539855,133451,3501122,40816,0,0,28017,41412,36923,,
+Olympic NP,,National Park,,,2025,August,565204,27611,2717550,12863,0,0,31920,34544,14820,,0
+Petrified Forest NP,,,,,2025,January,21962,10,58186,10,,,,,47,,
+Petrified Forest NP,,,,,2025,February,23096,10,60142,10,,,,,0,,
+Petrified Forest NP,,,,,2025,March,57474,10,153401,10,,,,,91,,
+Petrified Forest NP,,,,,2025,April,51745,10,141606,10,,,,,174,,
+Petrified Forest NP,,,,,2025,May,59694,10,156438,10,,,,,137,,
+Petrified Forest NP,,,,,2025,June,76109,10,189492,10,,,,,43,,
+Petrified Forest NP,,National Park,,,2025,July,49151,10,125213,10,,,,,33,,
+Petrified Forest NP,,National Park,,,2025,August,43397,10,104039,10,,,,,16,,
+Pinnacles NP,,,,,2025,January,30342,,261919,,,7061,,,,,
+Pinnacles NP,,,,,2025,February,26892,,242916,,,6771,,,,,
+Pinnacles NP,,,,,2025,March,44670,,424563,,,12227,,,,,
+Pinnacles NP,,,,,2025,April,39378,,491730,,,16212,,,,,
+Pinnacles NP,,,,,2025,May,37144,,430628,,,13782,,,,,
+Pinnacles NP,,,,,2025,June,33717,,369041,,,11467,,,,,
+Pinnacles NP,,National Park,,,2025,July,28051,,313287,,,9861,,,,,
+Pinnacles NP,,National Park,,,2025,August,23931,,296407,,,9755,,,,,
+Redwood NP,,,,,2025,January,48394,902,173076,227,,,0,,172,,
+Redwood NP,,,,,2025,February,41615,902,148964,227,,,0,,154,,
+Redwood NP,,,,,2025,March,54640,902,203753,227,,,0,,582,,0
+Redwood NP,,,,,2025,April,66958,902,245445,227,,,0,,516,,0
+Redwood NP,,,,,2025,May,119782,902,445425,227,,,0,,1218,,0
+Redwood NP,,,,,2025,June,222029,902,859940,227,,,0,,3732,,121
+Redwood NP,,National Park,,,2025,July,199369,902,799206,227,,,0,,4612,,105
+Redwood NP,,National Park,,,2025,August,177735,902,711103,227,,,0,,3996,,145
+Rocky Mountain NP,,,,,2025,January,96601,90,585384,270,,,315,,46,,
+Rocky Mountain NP,,,,,2025,February,101133,50,613086,150,,,336,,57,,
+Rocky Mountain NP,,,,,2025,March,162403,80,987504,240,,,735,,83,,
+Rocky Mountain NP,,,,,2025,April,173258,70,1061452,210,,,1308,,61,,
+Rocky Mountain NP,,,,,2025,May,319336,490,2064050,1470,,,4970,2366,1011,,905
+Rocky Mountain NP,,,,,2025,June,619776,1400,4253056,4200,,,16308,7981,6050,,3061
+Rocky Mountain NP,,National Park,,,2025,July,763213,2050,5455662,6150,,,27814,11820,11872,,3268
+Rocky Mountain NP,,National Park,,,2025,August,675717,2300,4932625,6900,,,29722,12837,9337,,2999
+Saguaro NP,,,,,2025,January,108095,376182,199758,94045,,,,,284,,
+Saguaro NP,,,,,2025,February,101597,369064,186680,92266,,,,,265,,
+Saguaro NP,,,,,2025,March,68467,915,106952,229,,,,,0,,
+Saguaro NP,,,,,2025,April,78920,150,165180,38,,,,,430,,
+Saguaro NP,,,,,2025,May,65166,412642,111161,103161,,,,,182,,
+Saguaro NP,,,,,2025,June,43105,406246,73972,101562,,,,,28,,
+Saguaro NP,,National Park,,,2025,July,34647,409787,56877,102447,,,,,27,,
+Saguaro NP,,National Park,,,2025,August,31601,388599,51698,97150,,,,,42,,
+Sequoia NP,,,,,2025,January,51845,883,248856,3532,1670,,744,709,218,,
+Sequoia NP,,,,,2025,February,40294,1540,193412,6160,0,,814,805,313,,
+Sequoia NP,,,,,2025,March,74414,1675,357186,6700,1670,,1431,1469,218,,
+Sequoia NP,,,,,2025,April,104655,624,3809436,2496,11769,,1561,1902,397,,
+Sequoia NP,,,,,2025,May,138749,765,5050477,3060,5808,,6516,3434,1114,,
+Sequoia NP,,,,,2025,June,161775,936,5969485,3744,8451,,17220,5775,5873,,
+Sequoia NP,,National Park,,,2025,July,200392,1047,7394466,4188,7605,,19293,5492,6516,,
+Sequoia NP,,National Park,,,2025,August,195347,995,7110622,3980,7678,,20482,20314,10284,,
+Shenandoah NP,,,,,2025,January,11989,56,26945,14,0,,,,129,,
+Shenandoah NP,,,,,2025,February,14614,56,34080,14,0,,,,211,,
+Shenandoah NP,,,,,2025,March,92625,98,308843,25,0,,1227,702,1419,,12
+Shenandoah NP,,,,,2025,April,139737,1260,762791,315,2514,,7845,4794,2806,,17
+Shenandoah NP,,,,,2025,May,173115,1414,1288917,354,2950,,16632,9543,8026,,72
+Shenandoah NP,,,,,2025,June,167090,1260,1279742,315,6427,,18222,8880,3845,,105
+Shenandoah NP,,National Park,,,2025,July,188144,1414,1200656,354,5391,,18033,7119,1145,,64
+Shenandoah NP,,National Park,,,2025,August,215114,1414,1361462,354,5351,,20538,8004,1796,,123
+Theodore Roosevelt NP,,,,,2025,January,851,472,4494,156,,,3,24,4,,
+Theodore Roosevelt NP,,,,,2025,February,2037,472,9943,156,,,5,30,1,,
+Theodore Roosevelt NP,,,,,2025,March,9557,472,47459,156,,,35,162,10,,
+Theodore Roosevelt NP,,,,,2025,April,11491,622,68285,205,,,203,518,50,,
+Theodore Roosevelt NP,,,,,2025,May,77061,623,286397,206,,,1401,2970,100,,74
+Theodore Roosevelt NP,,,,,2025,June,132952,623,469095,206,,,1677,3399,199,,178
+Theodore Roosevelt NP,,National Park,,,2025,July,155747,622,575640,205,,,3008,3723,143,,262
+Theodore Roosevelt NP,,National Park,,,2025,August,151582,621,563650,205,,,2387,4174,142,,319
+Virgin Islands NP,,,,,2025,January,12091,15000,74360,3750,0,0,,,,0,0
+Virgin Islands NP,,,,,2025,February,46404,15000,285386,3750,1728,2591,,,,0,0
+Virgin Islands NP,,,,,2025,March,51705,15000,317983,3750,2267,2597,,,,0,0
+Virgin Islands NP,,,,,2025,April,48819,15000,300236,3750,1192,1504,,,,0,0
+Virgin Islands NP,,,,,2025,May,38598,15000,237376,3750,675,770,,,,0,0
+Virgin Islands NP,,,,,2025,June,40000,15000,245999,3750,764,628,,,,0,0
+Virgin Islands NP,,National Park,,,2025,July,43356,15000,266640,3750,382,287,,,,0,0
+Virgin Islands NP,,National Park,,,2025,August,25100,15000,154367,3750,226,215,,,,0,0
+Voyageurs NP,,,,,2025,January,2753,,9864,,,,,,16,,
+Voyageurs NP,,,,,2025,February,8917,,32834,,,,,,52,,
+Voyageurs NP,,,,,2025,March,4871,,18039,,,,,,27,,
+Voyageurs NP,,,,,2025,April,5,,96,,,,,,6,,
+Voyageurs NP,,,,,2025,May,27316,,190736,,479,,,,6141,,1776
+Voyageurs NP,,,,,2025,June,40931,,215635,,1190,,,,13667,,1160
+Voyageurs NP,,National Park,,,2025,July,42178,,194986,,1108,,,,15091,,1677
+Voyageurs NP,,National Park,,,2025,August,42785,,205795,,888,,,,15818,,1567
+White Sands NP,,,,,2025,January,40809,,84248,,,,,,,,
+White Sands NP,,,,,2025,February,43146,,89744,,,,,,,,
+White Sands NP,,,,,2025,March,91656,,168390,,,,,,,,
+White Sands NP,,,,,2025,April,66951,,126961,,,,,,,,
+White Sands NP,,,,,2025,May,69126,,34563,,,,,,,,
+White Sands NP,,,,,2025,June,62133,,31067,,,,,,,,
+White Sands NP,,National Park,,,2025,July,70086,,35043,,,,,,,,
+White Sands NP,,National Park,,,2025,August,49344,,24672,,,,,,,,
+Wind Cave NP,,,,,2025,January,10938,12547,17846,4141,,,,12,2,,
+Wind Cave NP,,,,,2025,February,10191,11690,17522,3858,,,0,12,2,,
+Wind Cave NP,,,,,2025,March,19355,14801,38854,4884,,,0,248,22,,
+Wind Cave NP,,,,,2025,April,40796,14142,118359,4667,,,2,430,23,,
+Wind Cave NP,,,,,2025,May,67886,23534,229808,7766,,,628,1392,126,,36
+Wind Cave NP,,,,,2025,June,98988,34316,373186,11324,,,1568,2210,146,,289
+Wind Cave NP,,National Park,,,2025,July,111639,24880,418651,8210,,,1850,2105,156,,504
+Wind Cave NP,,National Park,,,2025,August,108995,24290,315757,8016,,,0,0,121,,0
+Wolf Trap NP for the Performing Arts,,,,,2025,January,1932,,7728,,,,,,,,
+Wolf Trap NP for the Performing Arts,,,,,2025,February,2576,,10304,,,,,,,,
+Wolf Trap NP for the Performing Arts,,,,,2025,March,4880,,19520,,,,,,,,
+Wolf Trap NP for the Performing Arts,,,,,2025,April,7466,,29864,,,,,,,,
+Wolf Trap NP for the Performing Arts,,,,,2025,May,24769,,99076,,,,,,,,
+Wolf Trap NP for the Performing Arts,,,,,2025,June,79592,,318368,,,,,,,,
+Wrangell-St. Elias NP & PRES,,,,,2025,January,25,,1150,,,,,,18,,0
+Wrangell-St. Elias NP & PRES,,,,,2025,February,95,,4370,,,,,,25,,2
+Wrangell-St. Elias NP & PRES,,,,,2025,March,230,,10580,,,,,,20,,29
+Wrangell-St. Elias NP & PRES,,,,,2025,April,520,,23920,,,,,,7,,43
+Wrangell-St. Elias NP & PRES,,,,,2025,May,5411,,248926,,,,,,21,,1294
+Wrangell-St. Elias NP & PRES,,,,,2025,June,21141,,972506,,,,,,18,,5127
+Wrangell-St. Elias NP & PRES,,National Park,,,2025,July,28195,,1296972,,,,,,17,,7815
+Wrangell-St. Elias NP & PRES,,National Park,,,2025,August,20020,,920935,,,,,,11,,6643
+Yellowstone NP,,,,,2025,January,40363,59455,717065,35608,9578,,18,27,73,,
+Yellowstone NP,,,,,2025,February,44133,58078,652258,33810,4998,,16,25,72,,
+Yellowstone NP,,,,,2025,March,33284,65576,447029,36719,1842,,35,50,57,,
+Yellowstone NP,,,,,2025,April,78529,71175,975953,41787,0,,410,941,49,,
+Yellowstone NP,,,,,2025,May,566363,118061,8242453,69392,38637,14385,3150,3236,843,,3
+Yellowstone NP,,,,,2025,June,928250,170106,17404870,94171,149712,89133,10201,6623,4122,,1287
+Yellowstone NP,,National Park,,,2025,July,975109,199376,18360248,110339,131842,109073,15477,8510,10879,,1675
+Yellowstone NP,,National Park,,,2025,August,881936,189545,17061452,105041,132682,103037,13612,7834,12598,,163
+Yosemite NP,,,,,2025,January,135684,5791,1455954,161780,17917,,5204,4408,0,,240
+Yosemite NP,,,,,2025,February,120601,4971,1705169,137346,25501,,8318,5184,0,,360
+Yosemite NP,,,,,2025,March,154488,6374,2201279,175638,39520,,5200,5860,0,,450
+Yosemite NP,,,,,2025,April,291270,12095,4032490,331189,52934,,19003,18480,571,,1017
+Yosemite NP,,,,,2025,May,441789,18083,6173103,487369,58252,,44641,29680,7300,,1704
+Yosemite NP,,,,,2025,June,584333,23077,8682442,590504,88603,,58836,30932,24877,,2494
+Yosemite NP,,National Park,,,2025,July,604907,23493,9898564,598316,79756,,78791,41752,42989,,2213
+Yosemite NP,,National Park,,,2025,August,586650,22662,8001560,572337,0,,98407,43412,35976,,3216
+Zion NP,,,,,2025,January,149768,1860,849892,465,1349,,1546,2397,101,,133
+Zion NP,,,,,2025,February,162438,1680,1010753,420,3545,,2577,4128,103,,549
+Zion NP,,,,,2025,March,425780,1860,2612869,465,3544,,8111,8805,927,,2997
+Zion NP,,,,,2025,April,538541,1800,3266761,450,8765,,7056,8654,1215,,4169
+Zion NP,,,,,2025,May,589279,1860,3532454,465,8219,,7056,8184,1913,,4436
+Zion NP,,,,,2025,June,585040,1800,3594186,450,9440,,9386,8415,1299,,4020
+Zion NP,,National Park,,,2025,July,529798,1860,3341625,465,10121,,9984,9045,791,,3727
+Zion NP,,National Park,,,2025,August,476657,1860,3011400,465,9073,,9288,8066,742,,3192

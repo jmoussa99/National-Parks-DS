@@ -39,8 +39,13 @@ def parse_csv_file(file_path):
     for idx, row in df.iterrows():
         park_name = row[park_col]
         if pd.notna(park_name) and park_name.strip() != '' and park_name != 'Park':
+            park_name_str = str(park_name).strip()
+            # Only keep parks with "NP" in the name (National Parks)
+            # Exclude NPRES (National Preserves)
+            if 'NP' not in park_name_str or 'NPRES' in park_name_str:
+                continue
             value = remove_commas_from_number(row.iloc[value_col_idx]) if len(row) > value_col_idx else 0
-            result[park_name] = value
+            result[park_name_str] = value
     
     return result
 
