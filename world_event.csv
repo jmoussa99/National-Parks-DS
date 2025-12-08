@@ -1,64 +1,88 @@
-Year,Title,Details
-1917,World War I,U.S. joins Allied Powers in WWI
-1918,World War I,U.S. continues fighting in WWI
-1918,Spanish Flu Pandemic,Global influenza pandemic hits U.S., millions infected
-1919,Spanish Flu Pandemic,Continued impact of influenza in the U.S.
-1920,19th Amendment,Woman gain the right to vote in the U.S.
-1929,Stock Market Crash,Wall Street crash triggers U.S. economic collapse
-1929,Great Depression,Wall Street crash triggers U.S. economic collapse
-1930,Great Depression,Mass unemployment and economic hardship in the U.S.
-1931,Great Depression,Continued economic struggle in the U.S.
-1932,Great Depression,High unemployment and bank failures in the U.S.
-1933,Great Depression,New Deal policies introduced to address economic crisis
-1934,Great Depression,U.S. economy slowly responds to New Deal programs
-1935,Great Depression,Federal programs expand to combat unemployment
-1936,Great Depression,U.S. economy continues recovery efforts
-1937,Great Depression,Recession within Depression slows recovery
-1938,Great Depression,U.S. economic policies continue under New Deal
-1939,Great Depression,Recovery continues; global tensions rise in Europe
-1941,World War II,Pearl Harbor attack brings U.S. into WWII
-1942,World War II,U.S. mobilizes military and industrial resources
-1943,World War II,U.S. forces fight in Europe and Pacific
-1944,World War II,D-Day and other major operations involve U.S. troops
-1945,World War II,War ends; U.S. part of Allied victory
-1945,Atomic Bombs,U.S. drops atomic bombs ending war in Pacific
-1950,Korean War,U.S. leads UN forces against North Korea
-1951,Korean War,Ongoing U.S. military engagement
-1952,Korean War,U.S. military continues operations in Korea
-1953,Korean War,Ceasefire signed; U.S. involved in negotiations
-1954,Civil Rights Movement,Brown v. Board of Education ruling challenges segregation
-1955,Civil Rights Movement,Montgomery Bus Boycott begins
-1956,Civil Rights Movement,Legal and social actions against segregation continue
-1957,Civil Rights Movement,Little Rock Nine integrate public schools
-1958,Civil Rights Movement,Civil rights activism spreads across U.S.
-1959,Civil Rights Movement,Movement gains momentum nationwide
-1960,Civil Rights Movement,Student-led sit-ins challenge segregation
-1961,Civil Rights Movement,Freedom Rides test interstate segregation laws
-1962,Civil Rights Movement,Court rulings advance civil rights
-1963,Civil Rights Movement,March on Washington and MLK “I Have a Dream” speech
-1964,Civil Rights Movement,Civil Rights Act passed, outlawing discrimination
-1964,Vietnam War,U.S. escalates military involvement in Vietnam
-1965,Vietnam War,Combat troops deployed and military operations expand
-1966,Vietnam War,Increased U.S. troop presence and conflict
-1967,Vietnam War,Major battles and U.S. military escalation
-1968,Vietnam War,Continued military engagement and domestic protests
-1969,Vietnam War,Heavy U.S. involvement continues
-1969,Apollo 11 Moon Landing,U.S. astronauts land on the moon
-1973,Oil Crisis,OPEC embargo causes fuel shortages and inflation in U.S.
-1986,Chernobyl Disaster,U.S. monitors nuclear fallout and safety
-1989,Fall of Berlin Wall,U.S. diplomacy contributes to end of Cold War
-1991,Gulf War,U.S. leads coalition to liberate Kuwait from Iraq
-1995,Internet Boom,U.S. technology and internet sector grows rapidly
-2001,9/11 Terrorist Attacks,Al-Qaeda attacks U.S.; triggers wars in Afghanistan and Iraq
-2002,War in Afghanistan Begins,U.S. military operations against Taliban and Al-Qaeda
-2003,Iraq War Begins,U.S.-led invasion of Iraq over alleged WMDs
-2007,Financial Crisis Begins,U.S. housing market collapse sparks global recession
-2008,Financial Crisis Continues,Bailouts and economic measures continue in U.S.
-2010,Arab Spring,U.S. supports democratic movements diplomatically
-2011,Arab Spring,Ongoing diplomatic and limited military involvement
-2012,Arab Spring,Continued U.S. engagement in Middle East
-2014,Russia Annexes Crimea – U.S. Response,U.S. imposes sanctions and supports NATO allies
-2019,COVID-19 Pandemic,First cases reported in U.S.; public health measures start
+Year,Title,Details,,
+1909, New Parks Established,,,
+1915, Automobile popularity,,,
+1917,World War I,U.S. joins Allied Powers in WWI,,
+1918,World War I,U.S. continues fighting in WWI,,
+1918,Spanish Flu Pandemic,Global influenza pandemic hits U.S., millions infected,
+1919,Spanish Flu Pandemic,Continued impact of influenza in the U.S.,,
+1919, End of Spanish Flu + Car popularity,,,
+1920,19th Amendment,Woman gain the right to vote in the U.S.,,
+1925, Car popularity + infrastructure,,,
+1929,Stock Market Crash,Wall Street crash triggers U.S. economic collapse,,
+1929,Great Depression,Wall Street crash triggers U.S. economic collapse,,
+1930,Great Depression,Mass unemployment and economic hardship in the U.S.,,
+1931,Great Depression,Continued economic struggle in the U.S.,,
+1932,Great Depression,High unemployment and bank failures in the U.S.,,
+1933,Great Depression,New Deal policies introduced to address economic crisis,,
+1934,Great Depression,U.S. economy slowly responds to New Deal programs,,
+1935,Great Depression,Federal programs expand to combat unemployment,,
+1936,Great Depression,U.S. economy continues recovery efforts,,
+1937,Great Depression,Recession within Depression slows recovery,,
+1938,Great Depression,U.S. economic policies continue under New Deal,,
+1939,Great Depression,Recovery continues; global tensions rise in Europe,,
+1941,World War II,Pearl Harbor attack brings U.S. into WWII,,
+1942,World War II,U.S. mobilizes military and industrial resources,,
+1943,World War II,U.S. forces fight in Europe and Pacific,,
+1944,World War II,D-Day and other major operations involve U.S. troops,,
+1945,World War II,War ends; U.S. part of Allied victory,,
+1945,Atomic Bombs,U.S. drops atomic bombs ending war in Pacific,,
+1946, End of World War II,,,
+1950,Korean War,U.S. leads UN forces against North Korea,,
+1951,Korean War,Ongoing U.S. military engagement,,
+1952,Korean War,U.S. military continues operations in Korea,,
+1953,Korean War,Ceasefire signed; U.S. involved in negotiations,,
+1954,Civil Rights Movement,Brown v. Board of Education ruling challenges segregation,,
+1955,Civil Rights Movement,Montgomery Bus Boycott begins,,
+1956,Civil Rights Movement,Legal and social actions against segregation continue,,
+1957,Civil Rights Movement,Little Rock Nine integrate public schools,,
+1958,Civil Rights Movement,Civil rights activism spreads across U.S.,,
+1959,Civil Rights Movement,Movement gains momentum nationwide,,
+1960,Civil Rights Movement,Student-led sit-ins challenge segregation,,
+1961,Civil Rights Movement,Freedom Rides test interstate segregation laws,,
+1962,Civil Rights Movement,Court rulings advance civil rights,,
+1963,Civil Rights Movement,March on Washington and MLK “I Have a Dream” speech,,
+1964,Civil Rights Movement,Civil Rights Act passed, outlawing discrimination,
+1964,Vietnam War,U.S. escalates military involvement in Vietnam,,
+1965,Vietnam War,Combat troops deployed and military operations expand,,
+1966,Vietnam War,Increased U.S. troop presence and conflict,,
+1967,Vietnam War,Major battles and U.S. military escalation,,
+1968,Vietnam War,Continued military engagement and domestic protests,,
+1969,Vietnam War,Heavy U.S. involvement continues,,
+1969,Apollo 11 Moon Landing,U.S. astronauts land on the moon,,
+1971, Dollar to Fiat Currency,,,
+1973,Oil Crisis,OPEC embargo causes fuel shortages and inflation in U.S.,,
+1974, Oil-Crisis Recession,,,
+1979, NPS counting standardization,,,
+1986,Chernobyl Disaster,U.S. monitors nuclear fallout and safety,,
+1987, Strong Economy,,,
+1989,Fall of Berlin Wall,U.S. diplomacy contributes to end of Cold War,,
+1990, Gulf War Recession,,,
+1991,Gulf War,U.S. leads coalition to liberate Kuwait from Iraq,,
+1995,Internet Boom,U.S. technology and internet sector grows rapidly,,
+1996, 27 Day Government Shutdown,,,
+2000, Dot Com Crash,,,
+2001,9/11 Terrorist Attacks,Al-Qaeda attacks U.S.; triggers wars in Afghanistan and Iraq,,
+2001, Dot Com Crash,,,
+2002,War in Afghanistan Begins,U.S. military operations against Taliban and Al-Qaeda,,
+2003,Iraq War Begins,U.S.-led invasion of Iraq over alleged WMDs,,
+2006, Energy Crisis,,,
+2007,Financial Crisis Begins,U.S. housing market collapse sparks global recession,,
+2008,Financial Crisis Continues,Bailouts and economic measures continue in U.S.,,
+2008, Housing Crash,,,
+2010,Arab Spring,U.S. supports democratic movements diplomatically,,
+2011,Arab Spring,Ongoing diplomatic and limited military involvement,,
+2011, Slow Economy + High Gas Prices,,,
+2012,Arab Spring,Continued U.S. engagement in Middle East,,
+2013, Government Shutdown,,,
+2014,Russia Annexes Crimea – U.S. Response,U.S. imposes sanctions and supports NATO allies,,
+2014, 2013 Recovery,,,
+2015, International Tourism,,,
+2016, Marketing Campaign,,,
+2018, Government Shutdown,,,
+2019,COVID-19 Pandemic,First cases reported in U.S.; public health measures start,,
 2020,COVID-19 Pandemic,Widespread lockdowns, economic stimulus, vaccine development
-2021,COVID-19 Pandemic,Vaccine rollout and public health measures
-2022,Russia Invades Ukraine,U.S. provides military and economic assistance
+2021,COVID-19 Pandemic,Vaccine rollout and public health measures,,
+2022,Russia Invades Ukraine,U.S. provides military and economic assistance,,
+2022, Extreme Weather Patterns,,,
+2023, COVID-19 All Restrictions Lifted,,,
+2024, Increased Funding for NPS,,,
